@@ -1,0 +1,44 @@
+---
+title: "Course Schedule"
+---
+
+This page provides an overview of the course schedule. Each week includes readings, assignments, and links to lecture materials.
+
+## Course Format
+
+Our class time will follow the "flipped" classroom model. Asynchronous materials (readings, recorded lectures, assignments, etc.) should be reviewed before class, and we will use our class time to review concepts, identify confusion, and synthesize.
+
+The class sessions will typically follow the same format:
+
+- **Tuesdays**: Review the Coding Challenges that were due. Those who were assigned will explain how they solved (or didn't solve!) each problem.
+- **Thursdays**: Discuss the reading for the day, with discussions generally led by a student. Then we will have a discussion about the concepts that are still confusing, followed by optional co-working time to start on the next assignment.
+
+All of the lecture videos are available in [this YouTube playlist](https://www.youtube.com/playlist?list=PLP6zcrJrVWgceJzuIE6k-cYr3IZJBnMJ4).
+
+## Weekly Schedule
+
+- [Week 1: Introduction to Python and Computational Thinking](schedule/week_01.qmd)
+- [Week 2: Variables, conditionals, and functions](schedule/week_02.qmd)
+- [Week 3: Functions and Iteration](schedule/week_03.qmd)
+- [Week 4: Strings and Lists](schedule/week_04.qmd)
+- [Week 5: Files, Dictionaries, and Tuples](schedule/week_05.qmd)
+- [Week 6: Dataframes and Visualization](schedule/week_06.qmd)
+- [Week 7: Dataframes and visualization (continued)](schedule/week_07.qmd)
+- [Week 8: Collecting Data with APIs](schedule/week_08.qmd)
+- [Week 9: Collecting Data with APIs (continued)](schedule/week_09.qmd)
+- [Week 10: Introduction to Computational Text Analysis](schedule/week_10.qmd)
+- [Week 11: Intro to Computational Text Analysis (continued)](schedule/week_11.qmd)
+- [Week 12: Data cleaning and operationalization](schedule/week_12.qmd)
+- [Week 13: Organizing and storing computational projects](schedule/week_13.qmd)
+- [Week 14: Ethics of Online Research](schedule/week_14.qmd)
+- [Week 15: Final Project Presentations](schedule/week_15.qmd)
+- [Week 16: Final Paper Due](schedule/week_16.qmd)
+
+## Important Dates
+
+- **February 3**: Final project idea and dataset identification due
+- **March 3**: Project planning document due
+- **March 3**: First self-assessment reflection due
+- **March 16-21**: Spring Break (no class)
+- **April 28 & 30**: Final project presentations
+- **May 5**: Final paper and final self-reflection due

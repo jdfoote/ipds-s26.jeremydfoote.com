@@ -1,0 +1,236 @@
+---
+title: "Syllabus"
+---
+
+## Course Information
+
+**Course**: COM 674: Introduction to Programming and Data Science  
+**Location**: BRNG 2275  
+**Class Hours**: Tuesdays and Thursdays, 10:30–11:45 AM
+
+### Instructor
+
+**Instructor**: [Jeremy Foote](https://jeremydfoote.com/)  
+**Email**: jdfoote@purdue.edu  
+**Office Hours**: Tuesdays, 2–4 pm in BRNG 2156 or by appointment
+
+## Course Overview and Learning Objectives
+
+This is an exciting time to be a social scientist and especially a Communication scholar! An increasing amount of our lives---and our interactions---are stored digitally and social scientists can use that data to ask and answer questions about how the social world works. I firmly believe that computational tools have created a new frontier in the social sciences which those who develop computational skills can explore.
+
+This class is an introduction into that world. The course is intended to give students an introduction to programming principles, the Python programming language, and data science tools and approaches. However, this is not a computer science class or a statistics class, and no prior programming experience is required or expected. We will focus on gaining access to data and basic data manipulation rather than complex statistical methods.
+
+The main goal of the class is to help you to complete a preliminary, independent, data-centric project. As part of this project, you (on your own or in a team) will write software to collect data from web APIs, process and clean that data, and produce statistics, hypothesis tests, and graphical visualizations that address questions you are interested in.
+
+I will consider this class a complete success if, at the end, every student can:
+
+- Write or modify a program to collect a dataset from a publicly available data source.
+- Read web API documentation and write Python software to parse and understand a new and unfamiliar web API.
+- Understand and follow basic version control practices.
+- Use digital data to effectively answer a substantively interesting question and to present this data effectively in the context of both a formal presentation and a written report.
+- Identify multiple ways that computational approaches are being used for social science research.
+- Feel comfortable taking more advanced computational methods courses or learning new techniques on your own.
+
+## Required Resources and Texts
+
+### Laptop
+
+Windows, Mac OS, and Linux are all fine but an iPad or Android tablet won't work. We're going to install software during the class that requires about 5GB of extra space and you'll be working on projects for homework. For the classroom assignments, nothing is terribly intensive, but your own data collection could tax the resources of an older machine.
+
+If for some reason your laptop dies mid-course, please contact me so we can get your new one up to speed.
+
+### Readings
+
+**Required text**: [Python for Everybody](https://www.py4e.com/book) by Charles R. Severance. The book is [freely licensed](https://creativecommons.org/licenses/by/3.0/us/) and available online for free ([HTML Version](https://www.py4e.com/html3/), [PDF version](http://do1.dr-chuck.com/pythonlearn/EN_us/pythonlearn.pdf)). You can also buy the book if you prefer a hard copy.
+
+I will list required chapters in the schedule. In general, you should expect to spend far more time working on programming tasks than reading. Much like math or other technical courses, this course will build on itself every day. You should make every effort to cover the reading and exercise material every day in preparation for the next day.
+
+**Other readings**: Throughout the module we will read and discuss examples of computational social science that I find particularly well done or interesting. Many are available through the Purdue library. I will also make all of them available on Brightspace. If you come across additional examples that you think the class would benefit from, please suggest them to me.
+
+**Optional readings**: Matthew Salganik's book 'Bit by Bit: Social Research in the Digital Age' is a wonderful introduction to computational social science. We will not be discussing much of it in class but I highly recommend it.
+
+## Course Logistics
+
+### Note About This Syllabus
+
+Although the core expectations for this class are fixed, the details of readings and assignments may shift based on how the class goes. As a result, there are three important things to keep in mind:
+
+1. Although details on this syllabus will change, I will not change readings or assignments less than three days before they are due. If you plan to read more than three days ahead, contact me first.
+2. Check your email. Because this is hosted on a website, you will be able to track changes. I will also summarize these changes in announcements that will be sent via Brightspace email.
+3. I will ask the class for voluntary anonymous feedback frequently. Please let me know what is working and what can be improved.
+
+### Lectures
+
+Our class time will follow the "flipped" classroom model. I will provide asynchronous materials (readings, recorded lectures, assignments, etc.) which you will work on before class and we will use our class time to review concepts, identify confusion, and synthesize.
+
+The class sessions will typically follow the same format:
+
+- **Tuesdays**: Review the Coding Challenges that were due. Those who were assigned will explain how they solved (or didn't solve!) each problem.
+- **Thursdays**: Discuss the reading for the day, with discussions generally led by a student. We will then have a discussion about the concepts that are still confusing. Next, we will have optional co-working time to start on the next assignment. That means that you should watch the next week's lecture before Thursday, so you are ready to go.
+
+All of the videos are [in this playlist](https://www.youtube.com/playlist?list=PLP6zcrJrVWgceJzuIE6k-cYr3IZJBnMJ4).
+
+I try to make the classes useful and to tailor them to the needs of the students, and I highly encourage you to attend as many of our sessions as possible. My teaching style is very conversational and relies on students being willing to speak up to express confusion, seek clarification, or make a well-informed point, so please participate!
+
+### Office Hours and Email
+
+I will hold office hours from 2-4 on Tuesdays and by appointment. If you come with a programming question, I will expect that you have already tried to solve it yourself in multiple ways and that you have discussed it with a classmate. This policy lets me have time to help more students, but it's also a useful strategy. Often [just trying to explain your code](https://en.wikipedia.org/wiki/Rubber_duck_debugging) can help you to recognize where you've gone wrong.
+
+I am also available by email at jdfoote@purdue.edu. I try hard to maintain a boundary between work and home and I typically respond only on weekdays during business hours (~9-5) but during the week I will generally respond within 24 hours.
+
+## Assignments
+
+There will be three main types of assignments:
+
+1. **Research Project**: The main outcome of this course will be a research project exploring a social science question using Python, and the bulk of your grade will be based on that project. Submit these via Brightspace.
+2. **Coding Challenges**: There will be weekly programming assignments that I will ask you to turn in on Brightspace but which will only be graded as complete/incomplete. I will also randomly assign someone to present their solution to each of the problems during our synchronous sessions.
+3. **Paper Discussion**: Each week we will read and discuss a paper which uses computational approaches to address social science questions.
+
+### Research Project
+
+As a demonstration of your learning in this course, you will design and carry out a quantitative research project, start to finish. This means you will:
+
+- Design and describe a plan for a study — The study you design should involve quantitative analysis and should be something you can complete at least a first pass on during this module.
+- Find a dataset — You should very quickly identify a dataset you will use to complete this project.
+- Analyze, visualize, report, and interpret your data — You will do this in both a short paper and a short presentation.
+- Ensure that your work is replicable — You will need to provide code and data for your analysis in a way that makes your work replicable by other researchers.
+
+I strongly urge you to work on a project that will further your academic career outside of the class. There are many ways that this can happen. Some obvious options are to prepare a project that you can submit for publication, that you can use as pilot analysis that you can report in a grant or thesis proposal, and/or that fulfills a degree requirement. I prefer that you do projects on your own but it may be possible to work as a small team (maximum 3 people). Team projects are expected to be more ambitious than individual projects. Preliminary assignments will help you to develop your idea and to get feedback from me and others.
+
+There are several intermediate milestones and deadlines to help you accomplish a successful research project. Unless otherwise noted, all deliverables should be submitted via Brightspace.
+
+#### Project Idea and Dataset Identification
+
+**Due date**: September 3  
+**Maximum length**: 500 words (~1-2 pages)
+
+Early on, I want you to identify and describe your final project. Your description should be short and can be either paragraphs or bullets. It should include the following:
+
+- An abstract of the proposed study including the topic, research question, theoretical motivation, object(s) of study, and anticipated research contribution.
+- An identification of the dataset you will use and a description of the columns or type of data it will include. If you do not currently have access to these data, explain why not and when you will have access.
+- A short (several sentences) description of how the project will fit into your career trajectory.
+
+#### Project Planning Document
+
+**Due date**: October 15  
+**Maximum length**: ~4-5 pages
+
+The project planning document is a basic shell/outline of an empirical quantitative research paper. The planning document should focus around three big questions:
+
+- **Why** are you planning to do this analysis? Make sure to introduce any background information about the topic, the community, your business, or anything else that will be required to properly contextualize your study.
+- **How** will you get the data to analyze? Describe the data sources will you collect and how they will be collected.
+- **How** will you analyze the data? Describe the visualizations, tables, or statistical tests that you will produce.
+
+#### Project Presentation and Report
+
+**Presentation due date**: December 3 and December 5  
+**Maximum length**: 8 minutes
+
+**Report due date**: December 11  
+**Maximum length**: 4000 words (~15 pages)
+
+##### The Presentation
+
+The presentation will provide an opportunity to share a brief summary of your project and findings with the other members of the class. However, don't treat it as a comprehensive overview of your paper: I would rather you tell a subset of the story well than the whole story in a rushed fashion. For instance, you can give a completely successful presentation by describing the motivation and walking through one plot in your paper. Since many of you will give many research presentations throughout your career, I strongly encourage you to take the opportunity to refine your academic presentation skills.
+
+I anticipate that most people will either create a PowerPoint presentation or will walk us through a simple Jupyter Notebook. All presentations will need to be a maximum of 8 minutes long. Concisely communicating an idea in the time allotted is an important skill in its own right. Presentations should be uploaded to the Discussion forum on Brightspace created for this purpose.
+
+##### The Project Report
+
+You will write a document or a Jupyter Notebook that will ideally provide the foundation for a high quality short research paper that you might revise and submit for publication. I do not expect the report to be ready for publication, but it should contain polished drafts of all the necessary components of a scholarly quantitative empirical research study.
+
+The great thing about a Jupyter Notebook is that it allows you to provide data, code, and any documentation sufficient to enable the replication of all analysis and visualizations. If you choose to write the report as a Word document, then you will need to include the code in a separate file.
+
+Because the emphasis in this class is on methods and because I'm not an expert in each of your fields, I'm happy to assume that your paper, proposal, or thesis chapter has already established the relevance and significance of your study and has a comprehensive literature review, well-grounded conceptual approach, and compelling reason why this research is important. As a result, you do not need to focus on these elements of the work in your written submission. Instead, feel free to start with a brief summary of the purpose and importance of this research followed by an introduction of your research questions or hypotheses.
+
+### Coding Challenges
+
+Nearly every week you will have set of coding challenges to complete. These coding challenges will be turned in on Brightspace but will not be graded. I encourage you to work together on these challenges but to make sure that you understand the concepts yourself.
+
+Each day I will randomly select a set of students to share their solutions to a selected exercise. If you can't figure out the problem that's been assigned to you, then explain where you got stuck and what you tried. I encourage you to also use Element to ask and answer each other's questions as you work on the assignments. We will use some of our lecture time to review the problems and I will make sure that a correct solution is posted by the end of that day.
+
+While I won't be grading these assignments, I will review a sample of them to look for common difficulties or problems. If you want me to provide specific feedback for an assignment, please let me know and I will be happy to do so.
+
+### Paper Discussions
+
+Every Thursday we will review a paper that uses computational methods. On the first day, I will ask you to sign up to lead the discussion for one or more of these papers. When leading the discussion, you will prepare a presentation as though you were presenting the paper at a conference and then lead a discussion about it.
+
+I am eager to update the papers that we read in the class. If you would like to propose a different paper that you would prefer to present on, I will almost certainly say yes.
+
+When you are not presenting, I do not expect you to read the week's paper thoroughly. However, you should read it closely enough that you are prepared to discuss it.
+
+### Reflection Papers
+
+Two times during the course I will ask you to respond to a set of reflection questions. These questions are intended to help you to think about what you have learned and accomplished and to craft goals for the remainder of the course. They are also an important way for me to gather feedback about how the course is going so that I can adjust.
+
+## Grades
+
+This course will follow a "self-assessment" philosophy. I am more interested in helping you to learn things that will be useful to you than in assigning grades. The university still requires grades, so you will be leading the evaluation of your work. At the beginning of the course, I will encourage you to think about and write down what you hope to get out of the course. Three times during the course you will reflect on what you have accomplished thus far, how it has met, not met, or exceeded expectations, based both on rubrics and personal goals and objectives.
+
+I suggest that we use the following rubric in our assessment:
+
+- 25%: class participation, including attendance, participation in discussions and group work, and significant effort towards weekly assignments.
+- 5%: Final Project Idea.
+- 10%: Final Project Proposal.
+- 40%: Final Project paper/Jupyter notebook.
+- 20%: Final Presentation including your slides and presentation.
+
+My interpretation of grade levels is the following:
+
+**A**: Reflects work the exceeds expectations on multiple fronts and to a great degree. Students reaching this level of achievement will:
+
+- Do what it takes to learn the programming principles and techniques, including looking to outside sources if necessary.
+- Engage thoughtfully with an ambitious research project.
+- Take intellectual risks, offering interpretations based on synthesizing material and asking for feedback from peers.
+- Share work early allowing extra time for engagement with others.
+- Write reflections that grapple meaningfully with lessons learned as well as challenges.
+- Complete all or nearly all assignments at a high level.
+
+**B**: Reflects strong work. Work at this level will be of consistently high quality. Students reaching this level of achievement will:
+
+- Be more safe or consistent than the work described above.
+- Ask meaningful questions of peers and engage them in fruitful discussion.
+- Exceed requirements, but in fairly straightforward ways.
+- Compose complete and sufficiently detailed reflections.
+- Complete nearly all of the programming assignments at a high level.
+
+**C**: This reflects meeting the minimum expectations of the course. Students reaching this level of achievement will:
+
+- Turn in and complete required assignments on time.
+- Be collegial and continue discussion, through asking simple or limited questions.
+- Compose reflections with straightforward and easily manageable goals and/or avoid discussions of challenges.
+- Not complete programming assignments or turn some in in a hasty or incomplete manner.
+
+**D/F**: These are reserved for cases in which students do not complete work or participate. Students may also be impeding the ability of others to learn.
+
+## Administrative Notes
+
+### Attendance Policy
+
+Attendance is very important and it will be difficult to make up for any classes that are missed. It is expected that students communicate well in advance to faculty so that arrangements can be made for making up the work that was missed. It is your responsibility to seek out support from classmates for notes, handouts, and other information.
+
+### Academic Integrity
+
+While I encourage collaboration, I expect that any work that you submit is your own. Basic guidelines for Purdue students are outlined [here](https://www.purdue.edu/odos/osrr/academic-integrity/index.html) but I expect you to be exemplary members of the academic community. Please get in touch if you have any questions or concerns.
+
+### Nondiscrimination
+
+I strongly support Purdue's policy of nondiscrimination. If you feel like any member of our classroom--including me--is not living up to these principles, then please come and talk to me about it.
+
+Purdue University is committed to maintaining a community which recognizes and values the inherent worth and dignity of every person; fosters tolerance, sensitivity, understanding, and mutual respect among its members; and encourages each individual to strive to reach his or her own potential. In pursuit of its goal of academic excellence, the University seeks to develop and nurture diversity.
+
+### Students with Disabilities
+
+Purdue University strives to make learning experiences as accessible as possible. If you anticipate or experience physical or academic barriers based on disability, you are welcome to let me know so that we can discuss options. You are also encouraged to contact the Disability Resource Center at: drc@purdue.edu or by phone: 765-494-1247.
+
+### Emergency Preparation
+
+In the event of a major campus emergency, I will update the requirements and deadlines as needed.
+
+### Mental Health
+
+If you or someone you know is feeling overwhelmed, depressed, and/or in need of mental health support, services are available. For help, such individuals should contact Counseling and Psychological Services (CAPS) at 765-494-6995 during and after hours, on weekends and holidays, or by going to the CAPS office of the second floor of the Purdue University Student Health Center (PUSH) during business hours.
+
+## Acknowledgements
+
+This course is heavily based on earlier courses taught by [Tommy Guy](https://commlead.uw.edu/team/guy/) and [Mako Hill](https://mako.cc/) at the University of Washington as well as a course taught by [Laura Nelson](http://www.lauraknelson.com/p/about.html) at Northeastern University.

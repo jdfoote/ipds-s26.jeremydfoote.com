@@ -1,0 +1,25 @@
+---
+title: "Week 4: Strings and Lists"
+date: "2026-02-03"
+---
+
+## Assignments Due
+
+- Final project dataset and idea (turn in on Brightspace)
+- [Week 4 Coding Challenges](../assignments/week_4_coding_challenges.qmd)
+
+## Programming Materials
+
+- Python for Everybody, chapters 6 and 8
+- [Today's Jupyter Notebook](../day_4/day_4.ipynb)
+
+{{< video https://youtu.be/eDalraJxQfw >}}
+
+## Discussion Reading
+
+- Nelson, Laura K. 2017. "[Computational Grounded Theory: A Methodological Framework](https://doi.org/10.1177%2F0049124117729703)." Sociological Methods and Research.
+
+## Agenda
+
+- Working with strings and lists
+- [Today's slides](../day_4/lecture/day_4.html)

@@ -1,0 +1,33 @@
+---
+title: "Week 2: Variables, conditionals, and functions"
+date: "2026-01-20"
+---
+
+## Assignments Due
+
+- Finish Week 1 exercises and tutorials
+- Fill out the short survey
+- Sign up to be a discussant
+- [Week 2 Coding Challenge](../assignments/week_2_coding_challenges.qmd) (turn in on Brightspace)
+
+## Programming Materials
+
+- Bit By bit, [Introduction](https://www.bitbybitbook.com/en/1st-ed/introduction/)
+- [Python for Everybody](http://do1.dr-chuck.com/pythonlearn/EN_us/pythonlearn.pdf), chapters 1-3
+- [Today's Jupyter Notebook](../day_2/day_2_answers.ipynb)
+
+{{< video https://youtu.be/pKiuiUzXKVo >}} 
+
+## Paper Discussion
+
+None (first week)
+
+## Agenda
+
+- Review Week 1 and Week 2 Exercises
+- [Today's slides](../day_2/lecture/day_2.html)
+- Introduce wordplay project
+
+## Resources
+
+- [Week 2 Coding Challenge](../assignments/week_2_coding_challenges.qmd)

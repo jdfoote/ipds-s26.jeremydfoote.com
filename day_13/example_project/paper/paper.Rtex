@@ -1,0 +1,135 @@
+\documentclass[12pt]{memoir}
+
+\usepackage{cdsc-memoir}
+% there are two chapter styles: cdsc-article and cdsc-memo
+% memo assumes that you remove the "\\" and the email address from the
+% \author field below as well as that you will comment out the
+% \published tag
+\chapterstyle{cdsc-article}
+
+\usepackage[utf8]{inputenc}
+\usepackage{wrapfig}
+
+<<init, echo=FALSE>>=
+knit_hooks$set(document = function(x) {
+  sub('\\usepackage[]{color}',
+'\\usepackage[usenames,dvipsnames]{color}', x, fixed = TRUE)
+})
+opts_chunk$set(fig.path="figures/knitr-")
+
+@
+
+\usepackage[T1]{fontenc}
+\usepackage{textcomp}
+\usepackage[garamond]{mathdesign}
+
+\usepackage[letterpaper,left=1.65in,right=1.65in,top=1.3in,bottom=1.2in]{geometry}
+
+% packages i use in essentially every document
+\usepackage{graphicx}
+\usepackage{enumerate}
+
+% packages i use in many documents but leave off by default
+% \usepackage{amsmath, amsthm, amssymb}
+% \usepackage{dcolumn}
+% \usepackage{endfloat}
+
+% import and customize urls
+\usepackage[breaklinks]{hyperref}
+
+% list of footnote symbols for \thanks{}
+\makeatletter
+\renewcommand*{\@fnsymbol}[1]{\ensuremath{\ifcase#1\or *\or \dagger\or \ddagger\or
+ \mathsection\or \mathparagraph\or \|\or **\or \dagger\dagger
+  \or \ddagger\ddagger \else\@ctrerr\fi}}
+\makeatother
+\newcommand*\samethanks[1][\value{footnote}]{\footnotemark[#1]}
+
+% add bibliographic stuff 
+\usepackage[american]{babel}
+\usepackage{csquotes}
+\usepackage[natbib=true, style=apa, backend=biber]{biblatex}
+\addbibresource{refs.bib}
+\DeclareLanguageMapping{american}{american-apa}
+
+\defbibheading{secbib}[\bibname]{%
+  \section*{#1}%
+  \markboth{#1}{#1}%
+  \baselineskip 14.2pt%
+  \prebibhook}
+
+\def\citepos#1{\citeauthor{#1}'s (\citeyear{#1})}
+\def\citespos#1{\citeauthor{#1}' (\citeyear{#1})}
+
+% memoir function to take out of the space out of the whitespace lists
+\firmlists
+
+% LATEX NOTE: these lines will import vc stuff after running `make vc` which
+% will add version control information to the bottom of each page. This can be
+% useful for keeping track of which version of a document somebody has:
+% \input{vc}
+% \pagestyle{cdsc-page-git}
+
+% LATEX NOTE: this alternative line will just input a timestamp at the
+% build process, useful for sharelatex
+% \pagestyle{cdsc-page-sharelatex}
+
+\begin{document}
+
+\setlength{\parskip}{4.5pt}
+% LATEX NOTE: Ideal linespacing is usually said to be between 120-140% the
+% typeface size. So, for 12pt (default in this document, we're looking for
+% somewhere between a 14.4-17.4pt \baselineskip.  Single; 1.5 lines; and Double
+% in MSWord are equivalent to ~117%, 175%, and 233%.
+
+\baselineskip 16pt
+
+\title{Are long comments better?}
+\author{Jeremy Foote\\
+        \href{mailto:jdfoote@purdue.edu}{jdfoote@purdue.edu}}
+\date{}
+
+
+\maketitle
+
+<<load_data, echo=FALSE, message=FALSE>>=
+library(tidyverse)
+raw_df = read_csv('../data/raw_data.csv')
+df = read_csv('../data/processed_data.csv')
+@
+
+\begin{abstract}
+    When looking at Purdue-related conversations on Reddit, do longer comments do better?
+\end{abstract}
+
+\section{Introduction}
+
+
+We can think of a number of reasons that longer comments would perform better. For example, people who are willing to put in enough effort to write a long comment have probably thought more carefully about a subject.
+On the other hand, readers may not be willing to read long comments, making them less popular.
+
+In this paper, we show the relationship between comment length and score in a dataset of Purdue-related comments from Reddit. 
+To gather the data, we retrieved all of the comments from the 250 most recent posts on Reddit which included the term "Purdue" on November 11, 2024. 
+This included \Sexpr{nrow(raw_df)} comments from \Sexpr{(length(unique(raw_df$author)))} authors. Figure \ref{fig:scatterplot} shows that there is no relationship between the variables.
+Indeed, the correlation between the two variables is \Sexpr{round(cor(df$score, df$comment_length), 5)}.
+
+
+\begin{figure}[ht]
+\centering
+\includegraphics[width=0.9\textwidth]{figures/score_by_length_scatter}
+
+\label{fig:scatterplot}
+\caption{The score for each comment, based on the length of the comment. There is no relationship between the variables.}
+\end{figure}
+
+
+
+
+% bibliography here
+\setcounter{biburlnumpenalty}{9001}
+%\printbibliography[title = {References}, heading=secbib]
+
+
+\end{document}
+
+%  LocalWords:  

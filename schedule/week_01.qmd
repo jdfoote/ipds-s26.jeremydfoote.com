@@ -1,0 +1,29 @@
+---
+title: "Week 1: Introduction to Python and Computational Thinking"
+date: "2026-01-13"
+---
+
+## Assignments Due
+
+- Sign up for the Element Space
+- Install Anaconda and VSCode (Goal 1 in the Week 1 Coding Challenge). [This video](https://www.youtube.com/watch?v=h1sAzPojKMg) may help if you get stuck.
+
+## Required Readings
+
+None
+
+## Agenda
+
+- Class overview and expectations — We'll walk through the syllabus.
+- Week 1 Coding challenge - Includes checking that everything installed right and going through a number of exercises.
+- [Today's slides](../day_1/lecture/day_1.html)
+
+## By the end of class you will:
+
+- Have a working python environment on your personal laptop.
+- Have written your first program in the python language.
+
+## Resources
+
+- [Week 1 Coding Challenge](../assignments/week_1_coding_challenge.qmd)
+- [First Notebook](../day_1/first_notebook.ipynb)

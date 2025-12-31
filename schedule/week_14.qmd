@@ -1,0 +1,17 @@
+---
+title: "Week 14: Ethics of Online Research"
+date: "2026-04-21"
+---
+
+Async discussion on Element about ethics of online research
+
+## Required Readings
+
+- (Optional) Williams, M. L., Burnap, P., & Sloan, L. (2017). [Towards an Ethical Framework for Publishing Twitter Data in Social Research](https://doi.org/10.1177/0038038517708140): Sociology.
+- (Optional) Salganik, M. [Ethics](https://www.bitbybitbook.com/en/1st-ed/ethics/) chapter from Bit By Bit.
+- (Optional) Crawford, K., & Finn, M. (2015). [The limits of crisis data](https://doi.org/10.1007/s10708-014-9597-z). GeoJournal, 80(4), 491–502.
+
+## Agenda
+
+- Ethics discussion on Element
+- Peer feedback / work on final project

@@ -1,0 +1,31 @@
+---
+title: "Week 9: Collecting Data with APIs (continued)"
+date: "2026-03-10"
+---
+
+## Assignments Due
+
+- [Week 9 Coding Challenges](../assignments/week_9_coding_challenges.qmd)
+
+## Programming Materials
+
+- [Week 9 Notebook](../day_9/day_9.ipynb)
+
+{{< video https://www.youtube.com/watch?v=7H3gSagXZQQ >}}
+
+- Python for Everybody, Chapter 13
+
+## Discussion Reading
+
+- Christopher A. Bail et al. 2018. [Exposure to opposing views on social media can increase political polarization](https://doi.org/10.1073/pnas.1804840115). PNAS 115(37): 9216-9221
+
+## Agenda
+
+- A workflow for doing work with APIs
+- Ethics of digital trace data
+- [Today's slides](../day_9/lecture/day_9.html)
+
+## Additional Resources
+
+- If you are interested in doing web scraping, check out this [incredible mini-course on the topic](https://github.com/CU-ITSS/Web-Data-Scraping-S2019). It is all done with Jupyter Notebooks and you have all of the prerequisite knowledge to understand it.
+- [Very brief lecture on web scraping from Spring 2020](https://youtu.be/daUuC-PMZc4)

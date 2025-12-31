@@ -1,0 +1,23 @@
+---
+title: "Week 13: Organizing and storing computational projects"
+date: "2026-04-14"
+---
+
+## Assignments Due
+
+- [Week 13 Coding Challenges](../assignments/week_13_coding_challenges.qmd)
+
+## Programming Materials
+
+- [Video introducing a way to organize code and data](https://youtu.be/-a1L5aPlN2Q)
+- [Git & GitHub Crash Course For Beginners](https://www.youtube.com/watch?v=SWYqp7iY_Tc) - YouTube video introducing Git and Github
+- [Interactive git branching tutorial](https://learngitbranching.js.org/)
+
+## Discussion Reading
+
+- Vitak, J., Shilton, K., & Ashktorab, Z. (2016). [Beyond the Belmont Principles](https://doi.org/10.1145/2818048.2820078). Proceedings of the 19th ACM Conference on Computer-Supported Cooperative Work & Social Computing, 941–953.
+
+## Agenda
+
+- Tour of Github
+- [Today's slides](../day_13/lecture/day_13.html)

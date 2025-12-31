@@ -1,0 +1,23 @@
+---
+title: "Week 12: Data cleaning and operationalization"
+date: "2026-04-07"
+---
+
+## Assignments Due
+
+- [Week 12 Coding Challenges](../assignments/week_12_coding_challenges.qmd)
+
+## Programming Materials
+
+- [Today's Notebook](../day_12/day_12.ipynb)
+
+{{< video https://youtu.be/buQG04CsD18 >}}
+
+## Discussion Reading
+
+- Robert K. Merton. 1948. [The Bearing of Empirical Research Upon the Development of Social Theory](https://www-jstor-org.ezproxy.lib.purdue.edu/stable/2087142). American Sociological Review 13(5): 505-515.
+- Tan, C. (2018). [Tracing community genealogy: How new communities emerge from the old](https://aaai.org/ocs/index.php/ICWSM/ICWSM18/paper/view/17811). Proceedings of the Twelfth International Conference on Web and Social Media (ICWSM '18), 395–404.
+
+## Agenda
+
+- [Today's slides](../day_12/lecture/day_12.html)

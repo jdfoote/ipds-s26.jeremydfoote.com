@@ -1,0 +1,90 @@
+project:
+  type: website
+  output-dir: _site
+  render: 
+    - "*.qmd"
+    - "schedule/*.qmd"
+    - "assignments/*.qmd"
+    - "syllabus/*.qmd"
+    - "day_*/lecture/*.qmd"
+    - "!day_*/lecture/*_files/"
+
+resources:
+    - "resources/**/*"
+
+preview:
+  port: 4200
+
+execute:
+  freeze: auto
+
+website:
+  title: "Intro to Programming and Data Science"
+  navbar:
+    right:
+      - href: syllabus/syllabus.qmd
+        text: Syllabus
+      - href: schedule.qmd
+        text: Schedule
+      - href: assignments/assignments.qmd
+        text: Assignments
+
+  sidebar:
+    - title: "Schedule"
+      style: "docked"
+      search: false
+      background: dark
+      contents:
+        - section: "Overview"
+          contents:
+            - schedule.qmd
+        - section: "Course content"
+          contents: "schedule/*.qmd"
+
+    - title: "Assignments"
+      style: "docked"
+      search: false
+      background: dark
+      contents:
+        - section: "Assignments"
+          contents: 
+            - text: "Overview"
+              href: assignments/assignments.qmd
+        - section: "Coding Challenges"
+          contents:
+            - assignments/week_1_coding_challenge.qmd
+            - assignments/week_2_coding_challenges.qmd
+            - assignments/week_3_coding_challenges.qmd
+            - assignments/week_4_coding_challenges.qmd
+            - assignments/week_5_coding_challenges.qmd
+            - assignments/week_6_coding_challenges.qmd
+            - assignments/week_7_coding_challenges.qmd
+            - assignments/week_8_coding_challenges.qmd
+            - assignments/week_9_coding_challenges.qmd
+            - assignments/week_10_coding_challenges.qmd
+            - assignments/week_11_coding_challenges.qmd
+            - assignments/week_12_coding_challenges.qmd
+            - assignments/week_13_coding_challenges.qmd
+        - section: "Research Project"
+          contents:
+            - assignments/project_idea.qmd
+            - assignments/project_planning.qmd
+            - assignments/project_presentation.qmd
+            - assignments/project_report.qmd
+        - section: "Reflections"
+          contents:
+            - assignments/self_assessment_reflection.qmd
+            - assignments/final_self_reflection.qmd
+
+  repo-url: "https://github.com/jdfoote/ipds-s26.jeremydfoote.com"
+  repo-actions: ["edit", "issue"]
+  site-url: "https://ipds-s26.jeremydfoote.com"
+
+format:
+  html:
+    theme: sandstone
+    css: resources/custom_css.css
+    toc: true
+
+
+

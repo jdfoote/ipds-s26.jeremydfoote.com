@@ -1,0 +1,26 @@
+---
+title: "Week 5: Files, Dictionaries, and Tuples"
+date: "2026-02-10"
+---
+
+## Assignments Due
+
+- [Week 5 Coding Challenges](../assignments/week_5_coding_challenges.qmd)
+- Do the Reddit Authentication Setup
+
+## Programming Materials
+
+- Python for Everybody, chapters 7, 9, and 10
+- [Today's Jupyter Notebook](../day_5/day_5.ipynb)
+
+{{< video https://youtu.be/az5nruguWIk >}}
+
+## Discussion Reading
+
+- Margolin, D. B., Hannak, A., & Weber, I. (2018). [Political Fact-Checking on Twitter: When Do Corrections Have an Effect?](https://doi.org/10.1080/10584609.2017.1334018) Political Communication, 35(2), 196–219.
+
+## Agenda
+
+- Reading from and writing to files
+- Dictionaries and tuples
+- [Today's slides](../day_5/lecture/day_5.html)

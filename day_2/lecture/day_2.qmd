@@ -1,0 +1,180 @@
+---
+title: Day 2
+format: 
+  revealjs:
+    theme: white
+    progress: true
+    transition: convex
+    self_contained: false
+    reveal_plugins: ['notes']
+    css: ../../libs/css/custom_css.css
+    lib: ../../libs
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+knitr::opts_knit$set(root.dir = './')
+#source("resources/preamble.R")
+library(reticulate)
+
+f <- function (x) {formatC(x, format="d", big.mark=',')}
+bold <- function(x) {paste('{\\textbf{',x,'}}', sep ='')}
+gray <- function(x) {paste('{\\textcolor{gray}{',x,'}}', sep ='')}
+wrapify <- function (x) {paste("{", x, "}", sep="")}
+p <- function (x) {formatC(x, format='f', digits=1, big.mark=',')}
+```
+
+
+## Dad Joke
+
+> - Where do you take someone who has been injured in a hide-and-seek accident?
+> - To the I.C.U.
+
+## Housekeeping
+
+> - Identifying a dataset
+> - Good online options:
+>	  - Reddit
+>   - Wikipedia
+>   - StackOverflow
+> - Also, consider existing datasets
+>	- Link on wiki
+
+## Housekeeping
+> - How to lead discussions?
+>	- Powerpoint
+>	- "Handout"
+>	- Be creative
+
+
+## Plan for the day
+
+> - Topic review
+> - Problem set review
+
+## Topic Review
+
+> - What topics do you want to review?
+
+
+## HW Review
+
+> - Start with small group discussions
+> - Select respondents by bot
+>	- Identify things that you are still confused about
+> - Person chosen will make sure there is a good response on Element
+
+## Wordplay project
+
+
+# Supplemental slides
+
+
+## Introduction
+
+> - Python holds things in RAM, and writes to secondary memory / disk
+> - Running Python
+>	- Terminal
+>	  - Interactive
+>	- Command line
+>	- Jupyter
+> - Python is interpreted, not compiled
+
+## Debugging
+
+> - Common bugs
+>	- Syntax
+>	- Intermediate objects
+>	- Complexity
+> - Strategies
+>	- Read through the code
+>	- Make things visible
+>	- Simplify
+
+## Variables
+
+> - Name that stores data
+> - Has different types, e.g.:
+>	- Strings
+>	- Integers
+>	- Floats
+>	- Lists
+>	- Dictionaries
+> - Can't start with a number
+> - Usually written_like_this
+> - If it's not saved to a variable (or to disk), it's gone!
+
+## Conditionals
+
+> - Control flow
+>	- Run different parts of the code depending on the "state"
+> - Conditionals depend on booleans
+>	- Expressions that evaluate to `True` or `False`
+>	- `<`, `>`, `>=`, `<=`, `==`, `!=`, `in`, or `not in`
+>	- They are evaluated in order and can "short circuit"
+
+## Example of a conditional
+
+```{python, echo=TRUE}
+#x = input("How many hours have you been working on this homework?")
+x = 6
+if x > 5 or xy == 45:
+  print("That's too long!")
+
+```
+
+## Functions
+
+> - Pieces of code that you want to reuse
+>	- Often take in "arguments"
+>	- They do something with the arguments, and often "return" something
+
+## Types of functions
+
+> - Built in functions
+>	- print()
+>	- type()
+> - Modules / libraries
+>	- import random
+>	- random.randint(1,5)
+
+
+## Example function
+
+```{python, echo=TRUE}
+
+def exclaim(s):
+  # Changes a normal string into an exclamation!
+  s = s.upper()
+  return s + '!!'
+  
+exclaim("Hello, everyone")
+
+```
+
+# Bit by Bit
+
+## Summary
+
+> - Blumenstock et al. example
+>	- Using call records of 1.5m people to estimate wealth
+> - The world is being measured
+>	- It is very, very easy to store digital data, and more and more things are becoming digital
+>	- Computational capacity is also increasing quickly
+> - This is ushering in a new era for social scientists
+
+## Research design
+
+> - Ready-made vs custom made
+>	- Ready-made data was created for another purpose (e.g., digital trace data)
+>	- Custom made data is designed to answer the question (e.g., surveys or experiments)
+> - Observing behavior
+> - Asking questions
+> - Running experiments
+> - Creating mass collaborations
+
+## Questions
+
+> - What did you think of the distinction between ready made and custom made data? Are there kinds of research that don't fit neatly into one or the other? What other dimensions can we classify research along?
+> - Are there different ethical concerns when using one type of data or the other?
+> - What are the different analytic concerns for each type of data?

@@ -1,0 +1,22 @@
+---
+title: "Week 11: Intro to Computational Text Analysis (continued)"
+date: "2026-03-31"
+---
+
+## Assignments Due
+
+- [Week 11 Coding Challenges](../assignments/week_11_coding_challenges.qmd)
+
+## Programming Materials
+
+- [Today's Notebook](../day_11/day_11.ipynb)
+
+{{< video https://youtu.be/2yl92VuyvD4 >}}
+
+## Discussion Reading
+
+- DellaPosta, D., Shi, Y., & Macy, M. (2015). [Why Do Liberals Drink Lattes](https://doi.org/10.1086/681254)? American Journal of Sociology, 120(5), 1473–1511.
+
+## Agenda
+
+- Continue text analysis

@@ -1,0 +1,26 @@
+---
+title: "Intro to Programming and Data Science"
+---
+
+Welcome to Introduction to Programming and Data Science! 
+
+This is an exciting time to be a social scientist and especially a Communication scholar! An increasing amount of our lives---and our interactions---are stored digitally and social scientists can use that data to ask and answer questions about how the social world works. I firmly believe that computational tools have created a new frontier in the social sciences which those who develop computational skills can explore.
+
+This class is an introduction into that world. The course is intended to give students an introduction to programming principles, the Python programming language, and data science tools and approaches. However, this is not a computer science class or a statistics class, and no prior programming experience is required or expected. We will focus on gaining access to data and basic data manipulation rather than complex statistical methods.
+
+The main goal of the class is to help you to complete a preliminary, independent, data-centric project. As part of this project, you (on your own or in a team) will write software to collect data from web APIs, process and clean that data, and produce statistics, hypothesis tests, and graphical visualizations that address questions you are interested in.
+
+## Course Links
+
+The top of the page includes links to the syllabus, schedule, and assignments. The schedule includes links to all of the readings and resources for the class. The assignments page includes links to all of the coding challenges and project milestones for the class.
+
+## Learning Objectives
+
+I will consider this class a complete success if, at the end, every student can:
+
+- Write or modify a program to collect a dataset from a publicly available data source.
+- Read web API documentation and write Python software to parse and understand a new and unfamiliar web API.
+- Understand and follow basic version control practices.
+- Use digital data to effectively answer a substantively interesting question and to present this data effectively in the context of both a formal presentation and a written report.
+- Identify multiple ways that computational approaches are being used for social science research.
+- Feel comfortable taking more advanced computational methods courses or learning new techniques on your own.

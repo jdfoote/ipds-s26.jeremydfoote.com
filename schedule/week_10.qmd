@@ -1,0 +1,22 @@
+---
+title: "Week 10: Introduction to Computational Text Analysis"
+date: "2026-03-24"
+---
+
+## Assignments Due
+
+- [Week 10 Coding Challenges](../assignments/week_10_coding_challenges.qmd)
+
+## Programming Materials
+
+- [Today's Notebook](../day_10/day_10.ipynb)
+
+{{< video https://youtu.be/330LkROnxS0 >}}
+
+## Discussion Reading
+
+- Hu, L., & Kearney, M. W. (2021). Gendered Tweets: Computational Text Analysis of Gender Differences in Political Discussion on Twitter. Journal of Language and Social Psychology, 40(4), 482-503.
+
+## Agenda
+
+- [Today's slides](../day_10/lecture/day_10.html)

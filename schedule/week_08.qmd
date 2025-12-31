@@ -1,0 +1,26 @@
+---
+title: "Week 8: Collecting Data with APIs"
+date: "2026-03-03"
+---
+
+## Assignments Due
+
+- [Week 8 Coding Challenges](../assignments/week_8_coding_challenges.qmd)
+- First self-assessment reflection is due (on Brightspace)
+- **Project Planning Document Due**
+
+## Programming Materials
+
+- [Intro to APIs Notebook](../day_8/day_8.ipynb)
+
+{{< video https://youtu.be/Qzs7FX5oD6U >}}
+
+## Discussion Reading
+
+- Kieran Healy and James Moody (2014). "[Data Visualization in Sociology](https://doi.org/10.1146/annurev-soc-071312-145551)." American Review of Sociology. 40: 105-28.
+
+## Agenda
+
+- Introduce the [requests](https://2.python-requests.org/en/master/) library
+- Discuss the main kinds of online data gathering: downloading, scraping, and APIs
+- [Today's slides](../day_8/lecture/day_8.html)

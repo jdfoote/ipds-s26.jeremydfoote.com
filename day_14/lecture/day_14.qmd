@@ -1,0 +1,47 @@
+---
+title: COM 674
+format: 
+  revealjs:
+    theme: white
+    progress: true
+    transition: convex
+    self_contained: false
+    reveal_plugins: ['notes']
+    css: "/libs/css/custom_css.css"
+    lib: /libs
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+knitr::opts_knit$set(root.dir = './')
+
+f <- function (x) {formatC(x, format="d", big.mark=',')}
+bold <- function(x) {paste('{\\textbf{',x,'}}', sep ='')}
+gray <- function(x) {paste('{\\textcolor{gray}{',x,'}}', sep ='')}
+wrapify <- function (x) {paste("{", x, "}", sep="")}
+p <- function (x) {formatC(x, format='f', digits=1, big.mark=',')}
+```
+
+## Dad Joke
+
+Say "mucho" to your friends who speak Spanish.
+
+<span class='fragment'>It means a lot to them</span>
+
+
+## Housekeeping
+
+> - Ethics discussion on Thursday
+> - No class next Tuesday
+> - Presentations during last week (~8 minutes each)
+>   - Focus on 1-2 key points
+> - Final project and SAR due the next week (~December 11)
+
+## Reflection
+
+> - What topics do you wish we covered in class?
+> - Are there topics you'd like help finding resources for?
+
+## Plan for the day
+
+> - Co-working
