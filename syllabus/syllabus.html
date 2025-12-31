@@ -1,0 +1,813 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
+
+<meta charset="utf-8">
+<meta name="generator" content="quarto-1.4.552">
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
+
+
+<title>Intro to Programming and Data Science - Syllabus</title>
+<style>
+code{white-space: pre-wrap;}
+span.smallcaps{font-variant: small-caps;}
+div.columns{display: flex; gap: min(4vw, 1.5em);}
+div.column{flex: auto; overflow-x: auto;}
+div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+ul.task-list{list-style: none;}
+ul.task-list li input[type="checkbox"] {
+  width: 0.8em;
+  margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
+  vertical-align: middle;
+}
+</style>
+
+
+<script src="../site_libs/quarto-nav/quarto-nav.js"></script>
+<script src="../site_libs/quarto-nav/headroom.min.js"></script>
+<script src="../site_libs/clipboard/clipboard.min.js"></script>
+<script src="../site_libs/quarto-search/autocomplete.umd.js"></script>
+<script src="../site_libs/quarto-search/fuse.min.js"></script>
+<script src="../site_libs/quarto-search/quarto-search.js"></script>
+<meta name="quarto:offset" content="../">
+<script src="../site_libs/quarto-html/quarto.js"></script>
+<script src="../site_libs/quarto-html/popper.min.js"></script>
+<script src="../site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="../site_libs/quarto-html/anchor.min.js"></script>
+<link href="../site_libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="../site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<script src="../site_libs/bootstrap/bootstrap.min.js"></script>
+<link href="../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="../site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" id="quarto-bootstrap" data-mode="light">
+<script id="quarto-search-options" type="application/json">{
+  "location": "navbar",
+  "copy-button": false,
+  "collapse-after": 3,
+  "panel-placement": "end",
+  "type": "overlay",
+  "limit": 50,
+  "keyboard-shortcut": [
+    "f",
+    "/",
+    "s"
+  ],
+  "show-item-context": false,
+  "language": {
+    "search-no-results-text": "No results",
+    "search-matching-documents-text": "matching documents",
+    "search-copy-link-title": "Copy link to search",
+    "search-hide-matches-text": "Hide additional matches",
+    "search-more-match-text": "more match in this document",
+    "search-more-matches-text": "more matches in this document",
+    "search-clear-button-title": "Clear",
+    "search-text-placeholder": "",
+    "search-detached-cancel-button-title": "Cancel",
+    "search-submit-button-title": "Submit",
+    "search-label": "Search"
+  }
+}</script>
+
+
+<link rel="stylesheet" href="../resources/custom_css.css">
+</head>
+
+<body class="nav-fixed">
+
+<div id="quarto-search-results"></div>
+  <header id="quarto-header" class="headroom fixed-top">
+    <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
+      <div class="navbar-container container-fluid">
+      <div class="navbar-brand-container mx-auto">
+    <a class="navbar-brand" href="../index.html">
+    <span class="navbar-title">Intro to Programming and Data Science</span>
+    </a>
+  </div>
+            <div id="quarto-search" class="" title="Search"></div>
+          <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
+  <span class="navbar-toggler-icon"></span>
+</button>
+          <div class="collapse navbar-collapse" id="navbarCollapse">
+            <ul class="navbar-nav navbar-nav-scroll ms-auto">
+  <li class="nav-item">
+    <a class="nav-link active" href="../syllabus/syllabus.html" aria-current="page"> 
+<span class="menu-text">Syllabus</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="../schedule.html"> 
+<span class="menu-text">Schedule</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="../assignments/assignments.html"> 
+<span class="menu-text">Assignments</span></a>
+  </li>  
+</ul>
+          </div> <!-- /navcollapse -->
+          <div class="quarto-navbar-tools">
+</div>
+      </div> <!-- /container-fluid -->
+    </nav>
+</header>
+<!-- content -->
+<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
+<!-- sidebar -->
+<!-- margin-sidebar -->
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
+        <nav id="TOC" role="doc-toc" class="toc-active">
+    <h2 id="toc-title">On this page</h2>
+   
+  <ul>
+  <li><a href="#course-information" id="toc-course-information" class="nav-link active" data-scroll-target="#course-information">Course Information</a>
+  <ul class="collapse">
+  <li><a href="#instructor" id="toc-instructor" class="nav-link" data-scroll-target="#instructor">Instructor</a></li>
+  </ul></li>
+  <li><a href="#course-overview-and-learning-objectives" id="toc-course-overview-and-learning-objectives" class="nav-link" data-scroll-target="#course-overview-and-learning-objectives">Course Overview and Learning Objectives</a></li>
+  <li><a href="#required-resources-and-texts" id="toc-required-resources-and-texts" class="nav-link" data-scroll-target="#required-resources-and-texts">Required Resources and Texts</a>
+  <ul class="collapse">
+  <li><a href="#laptop" id="toc-laptop" class="nav-link" data-scroll-target="#laptop">Laptop</a></li>
+  <li><a href="#readings" id="toc-readings" class="nav-link" data-scroll-target="#readings">Readings</a></li>
+  </ul></li>
+  <li><a href="#course-logistics" id="toc-course-logistics" class="nav-link" data-scroll-target="#course-logistics">Course Logistics</a>
+  <ul class="collapse">
+  <li><a href="#note-about-this-syllabus" id="toc-note-about-this-syllabus" class="nav-link" data-scroll-target="#note-about-this-syllabus">Note About This Syllabus</a></li>
+  <li><a href="#lectures" id="toc-lectures" class="nav-link" data-scroll-target="#lectures">Lectures</a></li>
+  <li><a href="#office-hours-and-email" id="toc-office-hours-and-email" class="nav-link" data-scroll-target="#office-hours-and-email">Office Hours and Email</a></li>
+  </ul></li>
+  <li><a href="#assignments" id="toc-assignments" class="nav-link" data-scroll-target="#assignments">Assignments</a>
+  <ul class="collapse">
+  <li><a href="#research-project" id="toc-research-project" class="nav-link" data-scroll-target="#research-project">Research Project</a></li>
+  <li><a href="#coding-challenges" id="toc-coding-challenges" class="nav-link" data-scroll-target="#coding-challenges">Coding Challenges</a></li>
+  <li><a href="#paper-discussions" id="toc-paper-discussions" class="nav-link" data-scroll-target="#paper-discussions">Paper Discussions</a></li>
+  <li><a href="#reflection-papers" id="toc-reflection-papers" class="nav-link" data-scroll-target="#reflection-papers">Reflection Papers</a></li>
+  </ul></li>
+  <li><a href="#grades" id="toc-grades" class="nav-link" data-scroll-target="#grades">Grades</a></li>
+  <li><a href="#administrative-notes" id="toc-administrative-notes" class="nav-link" data-scroll-target="#administrative-notes">Administrative Notes</a>
+  <ul class="collapse">
+  <li><a href="#attendance-policy" id="toc-attendance-policy" class="nav-link" data-scroll-target="#attendance-policy">Attendance Policy</a></li>
+  <li><a href="#academic-integrity" id="toc-academic-integrity" class="nav-link" data-scroll-target="#academic-integrity">Academic Integrity</a></li>
+  <li><a href="#nondiscrimination" id="toc-nondiscrimination" class="nav-link" data-scroll-target="#nondiscrimination">Nondiscrimination</a></li>
+  <li><a href="#students-with-disabilities" id="toc-students-with-disabilities" class="nav-link" data-scroll-target="#students-with-disabilities">Students with Disabilities</a></li>
+  <li><a href="#emergency-preparation" id="toc-emergency-preparation" class="nav-link" data-scroll-target="#emergency-preparation">Emergency Preparation</a></li>
+  <li><a href="#mental-health" id="toc-mental-health" class="nav-link" data-scroll-target="#mental-health">Mental Health</a></li>
+  </ul></li>
+  <li><a href="#acknowledgements" id="toc-acknowledgements" class="nav-link" data-scroll-target="#acknowledgements">Acknowledgements</a></li>
+  </ul>
+<div class="toc-actions"><ul><li><a href="https://github.com/jdfoote/ipds-s26.jeremydfoote.com/edit/main/syllabus/syllabus.qmd" class="toc-action"><i class="bi bi-github"></i>Edit this page</a></li><li><a href="https://github.com/jdfoote/ipds-s26.jeremydfoote.com/issues/new" class="toc-action"><i class="bi empty"></i>Report an issue</a></li></ul></div></nav>
+    </div>
+<!-- main -->
+<main class="content" id="quarto-document-content">
+
+<header id="title-block-header" class="quarto-title-block default">
+<div class="quarto-title">
+<h1 class="title">Syllabus</h1>
+</div>
+
+
+
+<div class="quarto-title-meta">
+
+    
+  
+    
+  </div>
+  
+
+
+</header>
+
+
+<section id="course-information" class="level2">
+<h2 class="anchored" data-anchor-id="course-information">Course Information</h2>
+<p><strong>Course</strong>: COM 674: Introduction to Programming and Data Science<br>
+<strong>Location</strong>: BRNG 2275<br>
+<strong>Class Hours</strong>: Tuesdays and Thursdays, 10:30–11:45 AM</p>
+<section id="instructor" class="level3">
+<h3 class="anchored" data-anchor-id="instructor">Instructor</h3>
+<p><strong>Instructor</strong>: <a href="https://jeremydfoote.com/">Jeremy Foote</a><br>
+<strong>Email</strong>: jdfoote@purdue.edu<br>
+<strong>Office Hours</strong>: Tuesdays, 2–4 pm in BRNG 2156 or by appointment</p>
+</section>
+</section>
+<section id="course-overview-and-learning-objectives" class="level2">
+<h2 class="anchored" data-anchor-id="course-overview-and-learning-objectives">Course Overview and Learning Objectives</h2>
+<p>This is an exciting time to be a social scientist and especially a Communication scholar! An increasing amount of our lives—and our interactions—are stored digitally and social scientists can use that data to ask and answer questions about how the social world works. I firmly believe that computational tools have created a new frontier in the social sciences which those who develop computational skills can explore.</p>
+<p>This class is an introduction into that world. The course is intended to give students an introduction to programming principles, the Python programming language, and data science tools and approaches. However, this is not a computer science class or a statistics class, and no prior programming experience is required or expected. We will focus on gaining access to data and basic data manipulation rather than complex statistical methods.</p>
+<p>The main goal of the class is to help you to complete a preliminary, independent, data-centric project. As part of this project, you (on your own or in a team) will write software to collect data from web APIs, process and clean that data, and produce statistics, hypothesis tests, and graphical visualizations that address questions you are interested in.</p>
+<p>I will consider this class a complete success if, at the end, every student can:</p>
+<ul>
+<li>Write or modify a program to collect a dataset from a publicly available data source.</li>
+<li>Read web API documentation and write Python software to parse and understand a new and unfamiliar web API.</li>
+<li>Understand and follow basic version control practices.</li>
+<li>Use digital data to effectively answer a substantively interesting question and to present this data effectively in the context of both a formal presentation and a written report.</li>
+<li>Identify multiple ways that computational approaches are being used for social science research.</li>
+<li>Feel comfortable taking more advanced computational methods courses or learning new techniques on your own.</li>
+</ul>
+</section>
+<section id="required-resources-and-texts" class="level2">
+<h2 class="anchored" data-anchor-id="required-resources-and-texts">Required Resources and Texts</h2>
+<section id="laptop" class="level3">
+<h3 class="anchored" data-anchor-id="laptop">Laptop</h3>
+<p>Windows, Mac OS, and Linux are all fine but an iPad or Android tablet won’t work. We’re going to install software during the class that requires about 5GB of extra space and you’ll be working on projects for homework. For the classroom assignments, nothing is terribly intensive, but your own data collection could tax the resources of an older machine.</p>
+<p>If for some reason your laptop dies mid-course, please contact me so we can get your new one up to speed.</p>
+</section>
+<section id="readings" class="level3">
+<h3 class="anchored" data-anchor-id="readings">Readings</h3>
+<p><strong>Required text</strong>: <a href="https://www.py4e.com/book">Python for Everybody</a> by Charles R. Severance. The book is <a href="https://creativecommons.org/licenses/by/3.0/us/">freely licensed</a> and available online for free (<a href="https://www.py4e.com/html3/">HTML Version</a>, <a href="http://do1.dr-chuck.com/pythonlearn/EN_us/pythonlearn.pdf">PDF version</a>). You can also buy the book if you prefer a hard copy.</p>
+<p>I will list required chapters in the schedule. In general, you should expect to spend far more time working on programming tasks than reading. Much like math or other technical courses, this course will build on itself every day. You should make every effort to cover the reading and exercise material every day in preparation for the next day.</p>
+<p><strong>Other readings</strong>: Throughout the module we will read and discuss examples of computational social science that I find particularly well done or interesting. Many are available through the Purdue library. I will also make all of them available on Brightspace. If you come across additional examples that you think the class would benefit from, please suggest them to me.</p>
+<p><strong>Optional readings</strong>: Matthew Salganik’s book ‘Bit by Bit: Social Research in the Digital Age’ is a wonderful introduction to computational social science. We will not be discussing much of it in class but I highly recommend it.</p>
+</section>
+</section>
+<section id="course-logistics" class="level2">
+<h2 class="anchored" data-anchor-id="course-logistics">Course Logistics</h2>
+<section id="note-about-this-syllabus" class="level3">
+<h3 class="anchored" data-anchor-id="note-about-this-syllabus">Note About This Syllabus</h3>
+<p>Although the core expectations for this class are fixed, the details of readings and assignments may shift based on how the class goes. As a result, there are three important things to keep in mind:</p>
+<ol type="1">
+<li>Although details on this syllabus will change, I will not change readings or assignments less than three days before they are due. If you plan to read more than three days ahead, contact me first.</li>
+<li>Check your email. Because this is hosted on a website, you will be able to track changes. I will also summarize these changes in announcements that will be sent via Brightspace email.</li>
+<li>I will ask the class for voluntary anonymous feedback frequently. Please let me know what is working and what can be improved.</li>
+</ol>
+</section>
+<section id="lectures" class="level3">
+<h3 class="anchored" data-anchor-id="lectures">Lectures</h3>
+<p>Our class time will follow the “flipped” classroom model. I will provide asynchronous materials (readings, recorded lectures, assignments, etc.) which you will work on before class and we will use our class time to review concepts, identify confusion, and synthesize.</p>
+<p>The class sessions will typically follow the same format:</p>
+<ul>
+<li><strong>Tuesdays</strong>: Review the Coding Challenges that were due. Those who were assigned will explain how they solved (or didn’t solve!) each problem.</li>
+<li><strong>Thursdays</strong>: Discuss the reading for the day, with discussions generally led by a student. We will then have a discussion about the concepts that are still confusing. Next, we will have optional co-working time to start on the next assignment. That means that you should watch the next week’s lecture before Thursday, so you are ready to go.</li>
+</ul>
+<p>All of the videos are <a href="https://www.youtube.com/playlist?list=PLP6zcrJrVWgceJzuIE6k-cYr3IZJBnMJ4">in this playlist</a>.</p>
+<p>I try to make the classes useful and to tailor them to the needs of the students, and I highly encourage you to attend as many of our sessions as possible. My teaching style is very conversational and relies on students being willing to speak up to express confusion, seek clarification, or make a well-informed point, so please participate!</p>
+</section>
+<section id="office-hours-and-email" class="level3">
+<h3 class="anchored" data-anchor-id="office-hours-and-email">Office Hours and Email</h3>
+<p>I will hold office hours from 2-4 on Tuesdays and by appointment. If you come with a programming question, I will expect that you have already tried to solve it yourself in multiple ways and that you have discussed it with a classmate. This policy lets me have time to help more students, but it’s also a useful strategy. Often <a href="https://en.wikipedia.org/wiki/Rubber_duck_debugging">just trying to explain your code</a> can help you to recognize where you’ve gone wrong.</p>
+<p>I am also available by email at jdfoote@purdue.edu. I try hard to maintain a boundary between work and home and I typically respond only on weekdays during business hours (~9-5) but during the week I will generally respond within 24 hours.</p>
+</section>
+</section>
+<section id="assignments" class="level2">
+<h2 class="anchored" data-anchor-id="assignments">Assignments</h2>
+<p>There will be three main types of assignments:</p>
+<ol type="1">
+<li><strong>Research Project</strong>: The main outcome of this course will be a research project exploring a social science question using Python, and the bulk of your grade will be based on that project. Submit these via Brightspace.</li>
+<li><strong>Coding Challenges</strong>: There will be weekly programming assignments that I will ask you to turn in on Brightspace but which will only be graded as complete/incomplete. I will also randomly assign someone to present their solution to each of the problems during our synchronous sessions.</li>
+<li><strong>Paper Discussion</strong>: Each week we will read and discuss a paper which uses computational approaches to address social science questions.</li>
+</ol>
+<section id="research-project" class="level3">
+<h3 class="anchored" data-anchor-id="research-project">Research Project</h3>
+<p>As a demonstration of your learning in this course, you will design and carry out a quantitative research project, start to finish. This means you will:</p>
+<ul>
+<li>Design and describe a plan for a study — The study you design should involve quantitative analysis and should be something you can complete at least a first pass on during this module.</li>
+<li>Find a dataset — You should very quickly identify a dataset you will use to complete this project.</li>
+<li>Analyze, visualize, report, and interpret your data — You will do this in both a short paper and a short presentation.</li>
+<li>Ensure that your work is replicable — You will need to provide code and data for your analysis in a way that makes your work replicable by other researchers.</li>
+</ul>
+<p>I strongly urge you to work on a project that will further your academic career outside of the class. There are many ways that this can happen. Some obvious options are to prepare a project that you can submit for publication, that you can use as pilot analysis that you can report in a grant or thesis proposal, and/or that fulfills a degree requirement. I prefer that you do projects on your own but it may be possible to work as a small team (maximum 3 people). Team projects are expected to be more ambitious than individual projects. Preliminary assignments will help you to develop your idea and to get feedback from me and others.</p>
+<p>There are several intermediate milestones and deadlines to help you accomplish a successful research project. Unless otherwise noted, all deliverables should be submitted via Brightspace.</p>
+<section id="project-idea-and-dataset-identification" class="level4">
+<h4 class="anchored" data-anchor-id="project-idea-and-dataset-identification">Project Idea and Dataset Identification</h4>
+<p><strong>Due date</strong>: September 3<br>
+<strong>Maximum length</strong>: 500 words (~1-2 pages)</p>
+<p>Early on, I want you to identify and describe your final project. Your description should be short and can be either paragraphs or bullets. It should include the following:</p>
+<ul>
+<li>An abstract of the proposed study including the topic, research question, theoretical motivation, object(s) of study, and anticipated research contribution.</li>
+<li>An identification of the dataset you will use and a description of the columns or type of data it will include. If you do not currently have access to these data, explain why not and when you will have access.</li>
+<li>A short (several sentences) description of how the project will fit into your career trajectory.</li>
+</ul>
+</section>
+<section id="project-planning-document" class="level4">
+<h4 class="anchored" data-anchor-id="project-planning-document">Project Planning Document</h4>
+<p><strong>Due date</strong>: October 15<br>
+<strong>Maximum length</strong>: ~4-5 pages</p>
+<p>The project planning document is a basic shell/outline of an empirical quantitative research paper. The planning document should focus around three big questions:</p>
+<ul>
+<li><strong>Why</strong> are you planning to do this analysis? Make sure to introduce any background information about the topic, the community, your business, or anything else that will be required to properly contextualize your study.</li>
+<li><strong>How</strong> will you get the data to analyze? Describe the data sources will you collect and how they will be collected.</li>
+<li><strong>How</strong> will you analyze the data? Describe the visualizations, tables, or statistical tests that you will produce.</li>
+</ul>
+</section>
+<section id="project-presentation-and-report" class="level4">
+<h4 class="anchored" data-anchor-id="project-presentation-and-report">Project Presentation and Report</h4>
+<p><strong>Presentation due date</strong>: December 3 and December 5<br>
+<strong>Maximum length</strong>: 8 minutes</p>
+<p><strong>Report due date</strong>: December 11<br>
+<strong>Maximum length</strong>: 4000 words (~15 pages)</p>
+<section id="the-presentation" class="level5">
+<h5 class="anchored" data-anchor-id="the-presentation">The Presentation</h5>
+<p>The presentation will provide an opportunity to share a brief summary of your project and findings with the other members of the class. However, don’t treat it as a comprehensive overview of your paper: I would rather you tell a subset of the story well than the whole story in a rushed fashion. For instance, you can give a completely successful presentation by describing the motivation and walking through one plot in your paper. Since many of you will give many research presentations throughout your career, I strongly encourage you to take the opportunity to refine your academic presentation skills.</p>
+<p>I anticipate that most people will either create a PowerPoint presentation or will walk us through a simple Jupyter Notebook. All presentations will need to be a maximum of 8 minutes long. Concisely communicating an idea in the time allotted is an important skill in its own right. Presentations should be uploaded to the Discussion forum on Brightspace created for this purpose.</p>
+</section>
+<section id="the-project-report" class="level5">
+<h5 class="anchored" data-anchor-id="the-project-report">The Project Report</h5>
+<p>You will write a document or a Jupyter Notebook that will ideally provide the foundation for a high quality short research paper that you might revise and submit for publication. I do not expect the report to be ready for publication, but it should contain polished drafts of all the necessary components of a scholarly quantitative empirical research study.</p>
+<p>The great thing about a Jupyter Notebook is that it allows you to provide data, code, and any documentation sufficient to enable the replication of all analysis and visualizations. If you choose to write the report as a Word document, then you will need to include the code in a separate file.</p>
+<p>Because the emphasis in this class is on methods and because I’m not an expert in each of your fields, I’m happy to assume that your paper, proposal, or thesis chapter has already established the relevance and significance of your study and has a comprehensive literature review, well-grounded conceptual approach, and compelling reason why this research is important. As a result, you do not need to focus on these elements of the work in your written submission. Instead, feel free to start with a brief summary of the purpose and importance of this research followed by an introduction of your research questions or hypotheses.</p>
+</section>
+</section>
+</section>
+<section id="coding-challenges" class="level3">
+<h3 class="anchored" data-anchor-id="coding-challenges">Coding Challenges</h3>
+<p>Nearly every week you will have set of coding challenges to complete. These coding challenges will be turned in on Brightspace but will not be graded. I encourage you to work together on these challenges but to make sure that you understand the concepts yourself.</p>
+<p>Each day I will randomly select a set of students to share their solutions to a selected exercise. If you can’t figure out the problem that’s been assigned to you, then explain where you got stuck and what you tried. I encourage you to also use Element to ask and answer each other’s questions as you work on the assignments. We will use some of our lecture time to review the problems and I will make sure that a correct solution is posted by the end of that day.</p>
+<p>While I won’t be grading these assignments, I will review a sample of them to look for common difficulties or problems. If you want me to provide specific feedback for an assignment, please let me know and I will be happy to do so.</p>
+</section>
+<section id="paper-discussions" class="level3">
+<h3 class="anchored" data-anchor-id="paper-discussions">Paper Discussions</h3>
+<p>Every Thursday we will review a paper that uses computational methods. On the first day, I will ask you to sign up to lead the discussion for one or more of these papers. When leading the discussion, you will prepare a presentation as though you were presenting the paper at a conference and then lead a discussion about it.</p>
+<p>I am eager to update the papers that we read in the class. If you would like to propose a different paper that you would prefer to present on, I will almost certainly say yes.</p>
+<p>When you are not presenting, I do not expect you to read the week’s paper thoroughly. However, you should read it closely enough that you are prepared to discuss it.</p>
+</section>
+<section id="reflection-papers" class="level3">
+<h3 class="anchored" data-anchor-id="reflection-papers">Reflection Papers</h3>
+<p>Two times during the course I will ask you to respond to a set of reflection questions. These questions are intended to help you to think about what you have learned and accomplished and to craft goals for the remainder of the course. They are also an important way for me to gather feedback about how the course is going so that I can adjust.</p>
+</section>
+</section>
+<section id="grades" class="level2">
+<h2 class="anchored" data-anchor-id="grades">Grades</h2>
+<p>This course will follow a “self-assessment” philosophy. I am more interested in helping you to learn things that will be useful to you than in assigning grades. The university still requires grades, so you will be leading the evaluation of your work. At the beginning of the course, I will encourage you to think about and write down what you hope to get out of the course. Three times during the course you will reflect on what you have accomplished thus far, how it has met, not met, or exceeded expectations, based both on rubrics and personal goals and objectives.</p>
+<p>I suggest that we use the following rubric in our assessment:</p>
+<ul>
+<li>25%: class participation, including attendance, participation in discussions and group work, and significant effort towards weekly assignments.</li>
+<li>5%: Final Project Idea.</li>
+<li>10%: Final Project Proposal.</li>
+<li>40%: Final Project paper/Jupyter notebook.</li>
+<li>20%: Final Presentation including your slides and presentation.</li>
+</ul>
+<p>My interpretation of grade levels is the following:</p>
+<p><strong>A</strong>: Reflects work the exceeds expectations on multiple fronts and to a great degree. Students reaching this level of achievement will:</p>
+<ul>
+<li>Do what it takes to learn the programming principles and techniques, including looking to outside sources if necessary.</li>
+<li>Engage thoughtfully with an ambitious research project.</li>
+<li>Take intellectual risks, offering interpretations based on synthesizing material and asking for feedback from peers.</li>
+<li>Share work early allowing extra time for engagement with others.</li>
+<li>Write reflections that grapple meaningfully with lessons learned as well as challenges.</li>
+<li>Complete all or nearly all assignments at a high level.</li>
+</ul>
+<p><strong>B</strong>: Reflects strong work. Work at this level will be of consistently high quality. Students reaching this level of achievement will:</p>
+<ul>
+<li>Be more safe or consistent than the work described above.</li>
+<li>Ask meaningful questions of peers and engage them in fruitful discussion.</li>
+<li>Exceed requirements, but in fairly straightforward ways.</li>
+<li>Compose complete and sufficiently detailed reflections.</li>
+<li>Complete nearly all of the programming assignments at a high level.</li>
+</ul>
+<p><strong>C</strong>: This reflects meeting the minimum expectations of the course. Students reaching this level of achievement will:</p>
+<ul>
+<li>Turn in and complete required assignments on time.</li>
+<li>Be collegial and continue discussion, through asking simple or limited questions.</li>
+<li>Compose reflections with straightforward and easily manageable goals and/or avoid discussions of challenges.</li>
+<li>Not complete programming assignments or turn some in in a hasty or incomplete manner.</li>
+</ul>
+<p><strong>D/F</strong>: These are reserved for cases in which students do not complete work or participate. Students may also be impeding the ability of others to learn.</p>
+</section>
+<section id="administrative-notes" class="level2">
+<h2 class="anchored" data-anchor-id="administrative-notes">Administrative Notes</h2>
+<section id="attendance-policy" class="level3">
+<h3 class="anchored" data-anchor-id="attendance-policy">Attendance Policy</h3>
+<p>Attendance is very important and it will be difficult to make up for any classes that are missed. It is expected that students communicate well in advance to faculty so that arrangements can be made for making up the work that was missed. It is your responsibility to seek out support from classmates for notes, handouts, and other information.</p>
+</section>
+<section id="academic-integrity" class="level3">
+<h3 class="anchored" data-anchor-id="academic-integrity">Academic Integrity</h3>
+<p>While I encourage collaboration, I expect that any work that you submit is your own. Basic guidelines for Purdue students are outlined <a href="https://www.purdue.edu/odos/osrr/academic-integrity/index.html">here</a> but I expect you to be exemplary members of the academic community. Please get in touch if you have any questions or concerns.</p>
+</section>
+<section id="nondiscrimination" class="level3">
+<h3 class="anchored" data-anchor-id="nondiscrimination">Nondiscrimination</h3>
+<p>I strongly support Purdue’s policy of nondiscrimination. If you feel like any member of our classroom–including me–is not living up to these principles, then please come and talk to me about it.</p>
+<p>Purdue University is committed to maintaining a community which recognizes and values the inherent worth and dignity of every person; fosters tolerance, sensitivity, understanding, and mutual respect among its members; and encourages each individual to strive to reach his or her own potential. In pursuit of its goal of academic excellence, the University seeks to develop and nurture diversity.</p>
+</section>
+<section id="students-with-disabilities" class="level3">
+<h3 class="anchored" data-anchor-id="students-with-disabilities">Students with Disabilities</h3>
+<p>Purdue University strives to make learning experiences as accessible as possible. If you anticipate or experience physical or academic barriers based on disability, you are welcome to let me know so that we can discuss options. You are also encouraged to contact the Disability Resource Center at: drc@purdue.edu or by phone: 765-494-1247.</p>
+</section>
+<section id="emergency-preparation" class="level3">
+<h3 class="anchored" data-anchor-id="emergency-preparation">Emergency Preparation</h3>
+<p>In the event of a major campus emergency, I will update the requirements and deadlines as needed.</p>
+</section>
+<section id="mental-health" class="level3">
+<h3 class="anchored" data-anchor-id="mental-health">Mental Health</h3>
+<p>If you or someone you know is feeling overwhelmed, depressed, and/or in need of mental health support, services are available. For help, such individuals should contact Counseling and Psychological Services (CAPS) at 765-494-6995 during and after hours, on weekends and holidays, or by going to the CAPS office of the second floor of the Purdue University Student Health Center (PUSH) during business hours.</p>
+</section>
+</section>
+<section id="acknowledgements" class="level2">
+<h2 class="anchored" data-anchor-id="acknowledgements">Acknowledgements</h2>
+<p>This course is heavily based on earlier courses taught by <a href="https://commlead.uw.edu/team/guy/">Tommy Guy</a> and <a href="https://mako.cc/">Mako Hill</a> at the University of Washington as well as a course taught by <a href="http://www.lauraknelson.com/p/about.html">Laura Nelson</a> at Northeastern University.</p>
+
+
+</section>
+
+</main> <!-- /main -->
+<script id="quarto-html-after-body" type="application/javascript">
+window.document.addEventListener("DOMContentLoaded", function (event) {
+  const toggleBodyColorMode = (bsSheetEl) => {
+    const mode = bsSheetEl.getAttribute("data-mode");
+    const bodyEl = window.document.querySelector("body");
+    if (mode === "dark") {
+      bodyEl.classList.add("quarto-dark");
+      bodyEl.classList.remove("quarto-light");
+    } else {
+      bodyEl.classList.add("quarto-light");
+      bodyEl.classList.remove("quarto-dark");
+    }
+  }
+  const toggleBodyColorPrimary = () => {
+    const bsSheetEl = window.document.querySelector("link#quarto-bootstrap");
+    if (bsSheetEl) {
+      toggleBodyColorMode(bsSheetEl);
+    }
+  }
+  toggleBodyColorPrimary();  
+  const icon = "";
+  const anchorJS = new window.AnchorJS();
+  anchorJS.options = {
+    placement: 'right',
+    icon: icon
+  };
+  anchorJS.add('.anchored');
+  const isCodeAnnotation = (el) => {
+    for (const clz of el.classList) {
+      if (clz.startsWith('code-annotation-')) {                     
+        return true;
+      }
+    }
+    return false;
+  }
+  const clipboard = new window.ClipboardJS('.code-copy-button', {
+    text: function(trigger) {
+      const codeEl = trigger.previousElementSibling.cloneNode(true);
+      for (const childEl of codeEl.children) {
+        if (isCodeAnnotation(childEl)) {
+          childEl.remove();
+        }
+      }
+      return codeEl.innerText;
+    }
+  });
+  clipboard.on('success', function(e) {
+    // button target
+    const button = e.trigger;
+    // don't keep focus
+    button.blur();
+    // flash "checked"
+    button.classList.add('code-copy-button-checked');
+    var currentTitle = button.getAttribute("title");
+    button.setAttribute("title", "Copied!");
+    let tooltip;
+    if (window.bootstrap) {
+      button.setAttribute("data-bs-toggle", "tooltip");
+      button.setAttribute("data-bs-placement", "left");
+      button.setAttribute("data-bs-title", "Copied!");
+      tooltip = new bootstrap.Tooltip(button, 
+        { trigger: "manual", 
+          customClass: "code-copy-button-tooltip",
+          offset: [0, -8]});
+      tooltip.show();    
+    }
+    setTimeout(function() {
+      if (tooltip) {
+        tooltip.hide();
+        button.removeAttribute("data-bs-title");
+        button.removeAttribute("data-bs-toggle");
+        button.removeAttribute("data-bs-placement");
+      }
+      button.setAttribute("title", currentTitle);
+      button.classList.remove('code-copy-button-checked');
+    }, 1000);
+    // clear code selection
+    e.clearSelection();
+  });
+    var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
+    var mailtoRegex = new RegExp(/^mailto:/);
+      var filterRegex = new RegExp("https:\/\/ipds-s26\.jeremydfoote\.com");
+    var isInternal = (href) => {
+        return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
+    }
+    // Inspect non-navigation links and adorn them if external
+ 	var links = window.document.querySelectorAll('a[href]:not(.nav-link):not(.navbar-brand):not(.toc-action):not(.sidebar-link):not(.sidebar-item-toggle):not(.pagination-link):not(.no-external):not([aria-hidden]):not(.dropdown-item):not(.quarto-navigation-tool)');
+    for (var i=0; i<links.length; i++) {
+      const link = links[i];
+      if (!isInternal(link.href)) {
+        // undo the damage that might have been done by quarto-nav.js in the case of
+        // links that we want to consider external
+        if (link.dataset.originalHref !== undefined) {
+          link.href = link.dataset.originalHref;
+        }
+      }
+    }
+  function tippyHover(el, contentFn, onTriggerFn, onUntriggerFn) {
+    const config = {
+      allowHTML: true,
+      maxWidth: 500,
+      delay: 100,
+      arrow: false,
+      appendTo: function(el) {
+          return el.parentElement;
+      },
+      interactive: true,
+      interactiveBorder: 10,
+      theme: 'quarto',
+      placement: 'bottom-start',
+    };
+    if (contentFn) {
+      config.content = contentFn;
+    }
+    if (onTriggerFn) {
+      config.onTrigger = onTriggerFn;
+    }
+    if (onUntriggerFn) {
+      config.onUntrigger = onUntriggerFn;
+    }
+    window.tippy(el, config); 
+  }
+  const noterefs = window.document.querySelectorAll('a[role="doc-noteref"]');
+  for (var i=0; i<noterefs.length; i++) {
+    const ref = noterefs[i];
+    tippyHover(ref, function() {
+      // use id or data attribute instead here
+      let href = ref.getAttribute('data-footnote-href') || ref.getAttribute('href');
+      try { href = new URL(href).hash; } catch {}
+      const id = href.replace(/^#\/?/, "");
+      const note = window.document.getElementById(id);
+      if (note) {
+        return note.innerHTML;
+      } else {
+        return "";
+      }
+    });
+  }
+  const xrefs = window.document.querySelectorAll('a.quarto-xref');
+  const processXRef = (id, note) => {
+    // Strip column container classes
+    const stripColumnClz = (el) => {
+      el.classList.remove("page-full", "page-columns");
+      if (el.children) {
+        for (const child of el.children) {
+          stripColumnClz(child);
+        }
+      }
+    }
+    stripColumnClz(note)
+    if (id === null || id.startsWith('sec-')) {
+      // Special case sections, only their first couple elements
+      const container = document.createElement("div");
+      if (note.children && note.children.length > 2) {
+        container.appendChild(note.children[0].cloneNode(true));
+        for (let i = 1; i < note.children.length; i++) {
+          const child = note.children[i];
+          if (child.tagName === "P" && child.innerText === "") {
+            continue;
+          } else {
+            container.appendChild(child.cloneNode(true));
+            break;
+          }
+        }
+        if (window.Quarto?.typesetMath) {
+          window.Quarto.typesetMath(container);
+        }
+        return container.innerHTML
+      } else {
+        if (window.Quarto?.typesetMath) {
+          window.Quarto.typesetMath(note);
+        }
+        return note.innerHTML;
+      }
+    } else {
+      // Remove any anchor links if they are present
+      const anchorLink = note.querySelector('a.anchorjs-link');
+      if (anchorLink) {
+        anchorLink.remove();
+      }
+      if (window.Quarto?.typesetMath) {
+        window.Quarto.typesetMath(note);
+      }
+      // TODO in 1.5, we should make sure this works without a callout special case
+      if (note.classList.contains("callout")) {
+        return note.outerHTML;
+      } else {
+        return note.innerHTML;
+      }
+    }
+  }
+  for (var i=0; i<xrefs.length; i++) {
+    const xref = xrefs[i];
+    tippyHover(xref, undefined, function(instance) {
+      instance.disable();
+      let url = xref.getAttribute('href');
+      let hash = undefined; 
+      if (url.startsWith('#')) {
+        hash = url;
+      } else {
+        try { hash = new URL(url).hash; } catch {}
+      }
+      if (hash) {
+        const id = hash.replace(/^#\/?/, "");
+        const note = window.document.getElementById(id);
+        if (note !== null) {
+          try {
+            const html = processXRef(id, note.cloneNode(true));
+            instance.setContent(html);
+          } finally {
+            instance.enable();
+            instance.show();
+          }
+        } else {
+          // See if we can fetch this
+          fetch(url.split('#')[0])
+          .then(res => res.text())
+          .then(html => {
+            const parser = new DOMParser();
+            const htmlDoc = parser.parseFromString(html, "text/html");
+            const note = htmlDoc.getElementById(id);
+            if (note !== null) {
+              const html = processXRef(id, note);
+              instance.setContent(html);
+            } 
+          }).finally(() => {
+            instance.enable();
+            instance.show();
+          });
+        }
+      } else {
+        // See if we can fetch a full url (with no hash to target)
+        // This is a special case and we should probably do some content thinning / targeting
+        fetch(url)
+        .then(res => res.text())
+        .then(html => {
+          const parser = new DOMParser();
+          const htmlDoc = parser.parseFromString(html, "text/html");
+          const note = htmlDoc.querySelector('main.content');
+          if (note !== null) {
+            // This should only happen for chapter cross references
+            // (since there is no id in the URL)
+            // remove the first header
+            if (note.children.length > 0 && note.children[0].tagName === "HEADER") {
+              note.children[0].remove();
+            }
+            const html = processXRef(null, note);
+            instance.setContent(html);
+          } 
+        }).finally(() => {
+          instance.enable();
+          instance.show();
+        });
+      }
+    }, function(instance) {
+    });
+  }
+      let selectedAnnoteEl;
+      const selectorForAnnotation = ( cell, annotation) => {
+        let cellAttr = 'data-code-cell="' + cell + '"';
+        let lineAttr = 'data-code-annotation="' +  annotation + '"';
+        const selector = 'span[' + cellAttr + '][' + lineAttr + ']';
+        return selector;
+      }
+      const selectCodeLines = (annoteEl) => {
+        const doc = window.document;
+        const targetCell = annoteEl.getAttribute("data-target-cell");
+        const targetAnnotation = annoteEl.getAttribute("data-target-annotation");
+        const annoteSpan = window.document.querySelector(selectorForAnnotation(targetCell, targetAnnotation));
+        const lines = annoteSpan.getAttribute("data-code-lines").split(",");
+        const lineIds = lines.map((line) => {
+          return targetCell + "-" + line;
+        })
+        let top = null;
+        let height = null;
+        let parent = null;
+        if (lineIds.length > 0) {
+            //compute the position of the single el (top and bottom and make a div)
+            const el = window.document.getElementById(lineIds[0]);
+            top = el.offsetTop;
+            height = el.offsetHeight;
+            parent = el.parentElement.parentElement;
+          if (lineIds.length > 1) {
+            const lastEl = window.document.getElementById(lineIds[lineIds.length - 1]);
+            const bottom = lastEl.offsetTop + lastEl.offsetHeight;
+            height = bottom - top;
+          }
+          if (top !== null && height !== null && parent !== null) {
+            // cook up a div (if necessary) and position it 
+            let div = window.document.getElementById("code-annotation-line-highlight");
+            if (div === null) {
+              div = window.document.createElement("div");
+              div.setAttribute("id", "code-annotation-line-highlight");
+              div.style.position = 'absolute';
+              parent.appendChild(div);
+            }
+            div.style.top = top - 2 + "px";
+            div.style.height = height + 4 + "px";
+            div.style.left = 0;
+            let gutterDiv = window.document.getElementById("code-annotation-line-highlight-gutter");
+            if (gutterDiv === null) {
+              gutterDiv = window.document.createElement("div");
+              gutterDiv.setAttribute("id", "code-annotation-line-highlight-gutter");
+              gutterDiv.style.position = 'absolute';
+              const codeCell = window.document.getElementById(targetCell);
+              const gutter = codeCell.querySelector('.code-annotation-gutter');
+              gutter.appendChild(gutterDiv);
+            }
+            gutterDiv.style.top = top - 2 + "px";
+            gutterDiv.style.height = height + 4 + "px";
+          }
+          selectedAnnoteEl = annoteEl;
+        }
+      };
+      const unselectCodeLines = () => {
+        const elementsIds = ["code-annotation-line-highlight", "code-annotation-line-highlight-gutter"];
+        elementsIds.forEach((elId) => {
+          const div = window.document.getElementById(elId);
+          if (div) {
+            div.remove();
+          }
+        });
+        selectedAnnoteEl = undefined;
+      };
+        // Handle positioning of the toggle
+    window.addEventListener(
+      "resize",
+      throttle(() => {
+        elRect = undefined;
+        if (selectedAnnoteEl) {
+          selectCodeLines(selectedAnnoteEl);
+        }
+      }, 10)
+    );
+    function throttle(fn, ms) {
+    let throttle = false;
+    let timer;
+      return (...args) => {
+        if(!throttle) { // first call gets through
+            fn.apply(this, args);
+            throttle = true;
+        } else { // all the others get throttled
+            if(timer) clearTimeout(timer); // cancel #2
+            timer = setTimeout(() => {
+              fn.apply(this, args);
+              timer = throttle = false;
+            }, ms);
+        }
+      };
+    }
+      // Attach click handler to the DT
+      const annoteDls = window.document.querySelectorAll('dt[data-target-cell]');
+      for (const annoteDlNode of annoteDls) {
+        annoteDlNode.addEventListener('click', (event) => {
+          const clickedEl = event.target;
+          if (clickedEl !== selectedAnnoteEl) {
+            unselectCodeLines();
+            const activeEl = window.document.querySelector('dt[data-target-cell].code-annotation-active');
+            if (activeEl) {
+              activeEl.classList.remove('code-annotation-active');
+            }
+            selectCodeLines(clickedEl);
+            clickedEl.classList.add('code-annotation-active');
+          } else {
+            // Unselect the line
+            unselectCodeLines();
+            clickedEl.classList.remove('code-annotation-active');
+          }
+        });
+      }
+  const findCites = (el) => {
+    const parentEl = el.parentElement;
+    if (parentEl) {
+      const cites = parentEl.dataset.cites;
+      if (cites) {
+        return {
+          el,
+          cites: cites.split(' ')
+        };
+      } else {
+        return findCites(el.parentElement)
+      }
+    } else {
+      return undefined;
+    }
+  };
+  var bibliorefs = window.document.querySelectorAll('a[role="doc-biblioref"]');
+  for (var i=0; i<bibliorefs.length; i++) {
+    const ref = bibliorefs[i];
+    const citeInfo = findCites(ref);
+    if (citeInfo) {
+      tippyHover(citeInfo.el, function() {
+        var popup = window.document.createElement('div');
+        citeInfo.cites.forEach(function(cite) {
+          var citeDiv = window.document.createElement('div');
+          citeDiv.classList.add('hanging-indent');
+          citeDiv.classList.add('csl-entry');
+          var biblioDiv = window.document.getElementById('ref-' + cite);
+          if (biblioDiv) {
+            citeDiv.innerHTML = biblioDiv.innerHTML;
+          }
+          popup.appendChild(citeDiv);
+        });
+        return popup.innerHTML;
+      });
+    }
+  }
+});
+</script>
+</div> <!-- /content -->
+
+
+
+
+<footer class="footer"><div class="nav-footer"><div class="nav-footer-center"><div class="toc-actions d-sm-block d-md-none"><ul><li><a href="https://github.com/jdfoote/ipds-s26.jeremydfoote.com/edit/main/syllabus/syllabus.qmd" class="toc-action"><i class="bi bi-github"></i>Edit this page</a></li><li><a href="https://github.com/jdfoote/ipds-s26.jeremydfoote.com/issues/new" class="toc-action"><i class="bi empty"></i>Report an issue</a></li></ul></div></div></div></footer></body></html>
