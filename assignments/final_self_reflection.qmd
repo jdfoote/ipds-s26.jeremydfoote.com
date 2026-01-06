@@ -1,0 +1,46 @@
+---
+title: "Final Self-Reflection"
+---
+
+**Due date**: May 4
+
+## Overview
+
+This final reflection is your opportunity to assess your learning and growth throughout the entire course. By the end of the semester, you should have a clear vision of your accomplishments and growth, which you will turn into a grade recommendation.
+
+## Questions to Address
+
+Please respond to the following:
+
+1. **Course Goals**: Review your initial learning goals. To what extent did you achieve them?
+
+2. **Accomplishments**: What are your major accomplishments from this course?
+
+3. **Growth**: How have you grown as a programmer and data scientist?
+
+4. **Challenges**: What were the biggest challenges you faced and how did you overcome them?
+
+5. **Skills**: What specific skills have you developed that you will use in the future?
+
+6. **Final Project**: Reflect on your final project. What are you proud of? What would you do differently?
+
+7. **Grade Assessment**: Based on the grading rubric in the syllabus and your honest and meaningful reflection of your work, what grade do you believe you have earned? Provide specific evidence for your assessment using the rubric:
+   - Class participation (25%)
+   - Final Project Idea (5%)
+   - Final Project Proposal (10%)
+   - Final Project paper/Jupyter notebook (40%)
+   - Final Presentation (20%)
+
+8. **Future Learning**: What computational methods or data science topics would you like to learn next?
+
+## Submission
+
+Submit your reflection via Brightspace.
+
+## Format
+
+This should be a comprehensive and thoughtful reflection. Aim for 3-5 pages total.
+
+## Note
+
+As the instructor-of-record, I maintain the right to disagree with your assessment and alter grades as I see fit, but any time that I do this it will be accompanied by an explanation and discussion. These personal assessments, reflecting both honest and meaningful reflection of your work will be the most important factor in final grades.

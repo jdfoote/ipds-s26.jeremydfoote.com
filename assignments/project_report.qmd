@@ -1,0 +1,56 @@
+---
+title: "Project Report"
+---
+
+**Due date**: May 4  
+**Maximum length**: 4000 words (~15 pages)
+
+## Overview
+
+You will write a document or a Jupyter Notebook that will ideally provide the foundation for a high quality short research paper that you might revise and submit for publication. I do not expect the report to be ready for publication, but it should contain polished drafts of all the necessary components of a scholarly quantitative empirical research study.
+
+## Format Options
+
+### Jupyter Notebook (Recommended)
+
+The great thing about a Jupyter Notebook is that it allows you to provide data, code, and any documentation sufficient to enable the replication of all analysis and visualizations.
+
+### Word Document
+
+If you choose to write the report as a Word document, then you will need to include the code in a separate file.
+
+## Content Requirements
+
+Your report should include:
+
+1. **Brief summary** of the purpose and importance of this research
+2. **Research questions or hypotheses**
+3. **Methods**: How you collected and processed the data
+4. **Analysis**: Visualizations, tables, and statistical tests
+5. **Results and Discussion**: Interpretation of your findings
+6. **Code and data**: Sufficient for replication
+
+## What You Can Skip
+
+Because the emphasis in this class is on methods and because I'm not an expert in each of your fields, I'm happy to assume that your paper has already established:
+- The relevance and significance of your study
+- A comprehensive literature review
+- A well-grounded conceptual approach
+- Compelling reason why this research is important
+
+You do not need to focus extensively on these elements in your written submission.
+
+## Citations
+
+Jupyter Notebooks do not have all of the tools for citations that Word or LaTeX or even Google Docs have, so while I expect you to cite related work your references section does not need to be as polished as citation management software would make it.
+
+## Submission
+
+Submit your report via Brightspace.
+
+## Tips
+
+- Ensure your work is replicable
+- Provide clear documentation
+- Include well-labeled visualizations
+- Make sure your code runs without errors

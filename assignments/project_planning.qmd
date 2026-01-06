@@ -1,0 +1,34 @@
+---
+title: "Project Planning Document"
+---
+
+**Due date**: March 10  
+**Maximum length**: ~4-5 pages
+
+## Overview
+
+The project planning document is a basic shell/outline of an empirical quantitative research paper.
+
+## Three Big Questions
+
+The planning document should focus around three big questions:
+
+### 1. Why are you planning to do this analysis?
+
+Make sure to introduce any background information about the topic, the community, your business, or anything else that will be required to properly contextualize your study.
+
+### 2. How will you get the data to analyze?
+
+Describe the data sources you will collect and how they will be collected.
+
+### 3. How will you analyze the data?
+
+Describe the visualizations, tables, or statistical tests that you will produce.
+
+## Submission
+
+Submit your planning document via Brightspace.
+
+## Resources
+
+- See the [planning document guide](https://wiki.communitydata.science/CommunityData:Planning_document) for a helpful approach.

@@ -1,0 +1,14 @@
+---
+title: "Week 10 Coding Challenge"
+---
+
+[Today's notebook](../day_10/day_10.ipynb) only has four exercises, but they are tough.
+
+## Submission
+
+Submit your completed work via Brightspace.
+
+## Presentation
+
+Be prepared to present your solution if randomly selected during class.
+

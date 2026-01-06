@@ -5,7 +5,6 @@ class_list*
 .ipynb_check*
 _site/
 _freeze/
-assignments/
 twitter_authentication.py
 reddit_auth.py
 .vscode/

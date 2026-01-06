@@ -1,0 +1,36 @@
+---
+title: "Project Idea and Dataset Identification"
+---
+
+**Due date**: February 3  
+**Maximum length**: 500 words (~1-2 pages)
+
+## Overview
+
+Early on, I want you to identify and describe your final project. Your description should be short and can be either paragraphs or bullets.
+
+## Requirements
+
+Your project idea should include the following:
+
+1. **Abstract**: An abstract of the proposed study including:
+   - The topic
+   - Research question
+   - Theoretical motivation
+   - Object(s) of study
+   - Anticipated research contribution
+
+2. **Dataset Identification**: An identification of the dataset you will use and a description of the columns or type of data it will include. If you do not currently have access to these data, explain why not and when you will have access.
+
+3. **Career Trajectory**: A short (several sentences) description of how the project will fit into your career trajectory.
+
+## Submission
+
+Submit your project idea via Brightspace.
+
+## Tips
+
+- I strongly urge you to work on a project that will further your academic career outside of the class.
+- Consider projects that could lead to publication, pilot analysis for grants or thesis proposals, or fulfill degree requirements.
+- You may work in teams of up to 3 people, but team projects are expected to be more ambitious.
+- If you need ideas for datasets, check out available open datasets.

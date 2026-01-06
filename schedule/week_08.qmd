@@ -6,8 +6,7 @@ date: "2026-03-03"
 ## Assignments Due
 
 - [Week 8 Coding Challenges](../assignments/week_8_coding_challenges.qmd)
-- First self-assessment reflection is due (on Brightspace)
-- **Project Planning Document Due**
+- First self-assessment reflection is due
 
 ## Programming Materials
 

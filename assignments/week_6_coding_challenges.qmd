@@ -1,0 +1,16 @@
+---
+title: "Week 6 Coding Challenge"
+---
+
+## Exercise Assignments
+
+Open [today's Jupyter Notebook](../day_6/day_6.ipynb) and complete the exercises.
+
+## Submission
+
+Submit your completed work via Brightspace.
+
+## Presentation
+
+Be prepared to present your solution if randomly selected during class.
+

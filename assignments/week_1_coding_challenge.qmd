@@ -1,0 +1,55 @@
+---
+title: "Week 1 Coding Challenge"
+---
+
+Our goal is to get your computer set up with the software you will need for this course and to get started with some basic programming concepts.
+
+Work through the goals on this page in order; they should take around 2 hours. Don't hesitate to ask for help!
+
+## Goal #1: Set up Python and make a class folder
+
+(Estimated time: 15 minutes)
+
+1. First things first: We are going to install "Miniconda". This includes Python and a package manager, for installing more stuff. You should be able to install it from [https://docs.anaconda.com/miniconda/](https://docs.anaconda.com/miniconda/).
+
+2. We are also going to install VSCode. This is an [IDE](http://en.wikipedia.org/wiki/Integrated_development_environment), which is an application designed to make programming easier. Find your operating system [on this page](https://code.visualstudio.com/docs/setup/setup-overview) and follow the instructions.
+
+3. Next, let's install the packages we'll need for the class. Open VSCode, and click `Terminal > New Terminal`. In the terminal window (at the bottom), type `conda install pandas seaborn jupyterlab`. It will ask if you want to install a whole bunch of stuff. Type `y` and press enter.
+
+4. Once you have VSCode installed, you should also install the `Python`, `Jupyter`, `Quarto`, and `Github Copilot` extensions. Extension search can be found on the left-hand menu, or with `Ctrl-Shift-X`.
+
+5. You should also make a folder to use for your class files. A dedicated folder will help you keep track of all the items you download or write as part of the class, and make them easier to find later. One of the secrets of data science is being kind to your future self by being extremely organized. You may want to create sub-folders like `Programming Challenges` and `Final Project`.
+
+## Goal #2: Practice running Python code from an existing Jupyter notebook
+
+(Estimated time: 5 minutes)
+
+We're going to use Jupyter notebooks to write and run Python throughout the class. Jupyter notebooks can mix together text and code. You can make changes and immediately see what happens and you can even export them to different file formats. In this section of the setup process, we'll try out your Python setup by running code in an existing notebook.
+
+Right click [this link](../day_1/first_notebook.ipynb), save it to your computer, and then open it in VSCode. Run each of the cells and read through the instructions.
+
+## Goal #3: Start learning Python!
+
+(Estimated time: 60 - 90 minutes)
+
+It's time to start learning, reading, and writing some Python! This is a self-directed tutorial that goes through some of the basic syntax and concepts which we will come back to and explain further over the next few weeks.
+
+[Day 1 Tutorial](https://wiki.communitydata.science/Intro_to_Programming_and_Data_Science_(Fall_2024)/Day_1_Tutorial)
+
+## Goal #4: Practice Python using LearnPython
+
+(Estimated time: 30 - 60 minutes)
+
+It's time to use what we've learned in the tutorial and get some practice thinking about and solving problems in Python.
+
+Your next task is to work through the first two lessons on learnpython.org (there are many lessons, so don't just keep hitting "Next" or you'll never finish!):
+
+- [Hello, World](https://www.learnpython.org/en/Hello%2C_World%21)
+- [Variables and Types](https://www.learnpython.org/en/Variables_and_Types)
+
+You may find the LearnPython interface is different from your Jupyter Notebook. No worries, it's still Python, even though it looks a bit different. You could do these lessons in Jupyter Notebook by copying & pasting the code in the left-hand boxes from LearnPython into Jupyter Notebook cells and run them from Jupyter.
+
+## Submission
+
+Submit your completed work via Brightspace.
+

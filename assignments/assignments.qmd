@@ -1,0 +1,53 @@
+---
+title: "Assignments"
+---
+
+This page provides links to all of the assignments for the course.
+
+## Assignment Types
+
+There are three main types of assignments in this course:
+
+### 1. Coding Challenges
+
+Nearly every week you will have a set of coding challenges to complete. These coding challenges will be turned in on Brightspace but will not be graded. I encourage you to work together on these challenges but to make sure that you understand the concepts yourself.
+
+Each day I will randomly select a set of students to share their solutions to a selected exercise. If you can't figure out the problem that's been assigned to you, then explain where you got stuck and what you tried.
+
+### 2. Research Project
+
+As a demonstration of your learning in this course, you will design and carry out a quantitative research project, start to finish. The project has several milestones:
+
+- [Project Idea and Dataset Identification](project_idea.qmd) - Due September 3
+- [Project Planning Document](project_planning.qmd) - Due October 15
+- [Project Presentation](project_presentation.qmd) - Due December 3 & 5
+- [Project Report](project_report.qmd) - Due December 11
+
+### 3. Reflection Papers
+
+Two times during the course you will respond to a set of reflection questions:
+
+- [Self-Assessment Reflection](self_assessment_reflection.qmd) - Due October 15
+- [Final Self-Reflection](final_self_reflection.qmd) - Due December 12
+
+## Weekly Coding Challenges
+
+- [Week 1 Coding Challenge](week_1_coding_challenge.qmd)
+- [Week 2 Coding Challenges](week_2_coding_challenges.qmd)
+- [Week 3 Coding Challenges](week_3_coding_challenges.qmd)
+- [Week 4 Coding Challenges](week_4_coding_challenges.qmd)
+- [Week 5 Coding Challenges](week_5_coding_challenges.qmd)
+- [Week 6 Coding Challenges](week_6_coding_challenges.qmd)
+- [Week 7 Coding Challenges](week_7_coding_challenges.qmd)
+- [Week 8 Coding Challenges](week_8_coding_challenges.qmd)
+- [Week 9 Coding Challenges](week_9_coding_challenges.qmd)
+- [Week 10 Coding Challenges](week_10_coding_challenges.qmd)
+- [Week 11 Coding Challenges](week_11_coding_challenges.qmd)
+- [Week 12 Coding Challenges](week_12_coding_challenges.qmd)
+- [Week 13 Coding Challenges](week_13_coding_challenges.qmd)
+
+## Paper Discussions
+
+Every Thursday we will review a paper that uses computational methods. On the first day, you will sign up to lead the discussion for one or more of these papers. When leading the discussion, you will prepare a presentation as though you were presenting the paper at a conference and then lead a discussion about it.
+
+See the [schedule](../schedule.qmd) for the list of papers we'll be discussing each week.

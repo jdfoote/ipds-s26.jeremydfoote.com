@@ -1,0 +1,32 @@
+---
+title: "Week 4 Coding Challenge"
+---
+
+## Python for Everybody
+
+**Chapter 7:** Exercises 1, 2, and 3
+
+## Wordplay Level 2
+
+For every letter, print the word that uses that character the most. Hint: use two nested for loops. First one is:
+
+```python
+for letter in 'abcdefghijklmnopqrstuvwxyz':
+    # do something
+```
+
+Find the longest string where no character appears more than 1 time. (Hint: look up counters)
+
+Use Python to find one other interesting fact about the data set. Examples (that you can't use) might be:
+
+- One of the words that is tied for the most vowels is aquifoliaceous
+- The word with the highest consonant to vowel ratio is sulphhydryls
+
+## Submission
+
+Submit your completed work via Brightspace.
+
+## Presentation
+
+Be prepared to present your solution if randomly selected during class.
+

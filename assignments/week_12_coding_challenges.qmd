@@ -1,0 +1,22 @@
+---
+title: "Week 12 Coding Challenge"
+---
+
+Today's coding challenges are really simple:
+
+1. "Clone" [the git repository for the class](https://github.com/jdfoote/ipds-s26.jeremydfoote.com) to your local computer.
+
+2. Create a git repository
+   - Make sure to create a .gitignore file to hide authentication files!
+   - Put at least some of your homework files in the repository and put it on Github.
+
+This should be pretty quick and I encourage you to use some time today to go back to a lesson that is confusing and do some work to understand it better.
+
+## Submission
+
+Submit your completed work via Brightspace.
+
+## Presentation
+
+Be prepared to present your solution if randomly selected during class.
+

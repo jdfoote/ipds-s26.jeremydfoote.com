@@ -1,0 +1,16 @@
+---
+title: "Week 8 Coding Challenge"
+---
+
+There are 13 exercises in [today's notebook](../day_8/day_8.ipynb).
+
+As always, do as many of these as you can. If you get stumped, ask a question on Element and move on to the next question.
+
+## Submission
+
+Submit your completed work via Brightspace.
+
+## Presentation
+
+Be prepared to present your solution if randomly selected during class.
+

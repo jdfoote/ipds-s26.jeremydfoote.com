@@ -1,0 +1,31 @@
+---
+title: "Week 3 Coding Challenge"
+---
+
+## Questions from Python For Everybody
+
+- **Chapter 5:** Exercises 1, 2
+- **Chapter 6:** Exercise 5
+- **Chapter 8:** Exercises 4*, 5*, and 6
+
+## Wordplay Challenges
+
+Download [this zip file](http://jeremydfoote.com/Intro-to-Programming-and-Data-Science/resources/wordplay.zip) and extract it to your Desktop (or the folder you are using for the class). Open the file "Wordplay Examples.ipynb" and run the first cell to make sure that it's working.
+
+Use the examples given to answer the following questions:
+
+1. Find all words that start with 'a' and are 9 or more letters long.
+2. What is the longest word that starts with a 'q'?
+3. Find all words that end with 'nge'
+4. Find a word that matches "a*ey" (here "*" means any letter). Are there any words that match?
+5. Print every other word that matches the condition in (1) above.
+6. Find at least one word that uses all five vowels in order.
+
+## Submission
+
+Submit your completed work via Brightspace.
+
+## Presentation
+
+Be prepared to present your solution if randomly selected during class.
+

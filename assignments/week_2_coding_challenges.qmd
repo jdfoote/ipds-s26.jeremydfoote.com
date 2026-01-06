@@ -1,0 +1,25 @@
+---
+title: "Week 2 Coding Challenge"
+---
+
+As a reminder, it's not essential that you solve or get through all of these — I'm not grading your answers on these. That said, being able to work through at least many of them is a good sign that you have mastered the concepts for the week. It is always fine to collaborate or work together on these problem sets but I encourage you to make sure that you understand the concepts yourself.
+
+## Required
+
+**Python for Everybody Exercises:**
+
+- **Chapter 1:** Exercises 1, 6, 7
+- **Chapter 2:** Exercises 2, 3, 4, 5
+- **Chapter 3:** Exercises 1, 2, 3*
+- **Chapter 4:** Exercises 1-4*, 5, 6, 7*
+
+*Starred exercises are optional; if you feel like you need more practice in a topic*
+
+## Submission
+
+Submit your completed work via Brightspace.
+
+## Presentation
+
+Be prepared to present your solution if randomly selected during class.
+

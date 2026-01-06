@@ -1,0 +1,32 @@
+---
+title: "Project Presentation"
+---
+
+**Due date**: December 3 and December 5  
+**Maximum length**: 8 minutes
+
+## Overview
+
+The presentation will provide an opportunity to share a brief summary of your project and findings with the other members of the class.
+
+## Guidelines
+
+- Don't treat it as a comprehensive overview of your paper
+- I would rather you tell a subset of the story well than the whole story in a rushed fashion
+- For instance, you can give a completely successful presentation by describing the motivation and walking through one plot in your paper
+
+## Format
+
+I anticipate that most people will either:
+- Create a PowerPoint presentation, or
+- Walk us through a simple Jupyter Notebook
+
+All presentations must be a maximum of 8 minutes long. Concisely communicating an idea in the time allotted is an important skill in its own right.
+
+## Submission
+
+Presentations should be uploaded to the Discussion forum on Brightspace created for this purpose.
+
+## Tips
+
+Since many of you will give many research presentations throughout your career, I strongly encourage you to take the opportunity to refine your academic presentation skills.

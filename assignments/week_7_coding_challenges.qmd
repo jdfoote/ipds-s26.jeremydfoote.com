@@ -1,0 +1,14 @@
+---
+title: "Week 7 Coding Challenge"
+---
+
+There are 7 exercises in [today's notebook](../day_7/day_7.ipynb). We will talk about the first five in class; the last two exercises are more open-ended and I would love everyone to upload your code and visualization to Element, so that we can all admire your work.
+
+## Submission
+
+Submit your completed work via Brightspace.
+
+## Presentation
+
+Be prepared to present your solution if randomly selected during class.
+

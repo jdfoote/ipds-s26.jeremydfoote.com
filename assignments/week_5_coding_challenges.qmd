@@ -1,0 +1,31 @@
+---
+title: "Week 5 Coding Challenge"
+---
+
+## Python for Everybody
+
+**Chapter 9:** Exercises 2, 3, 4, and 5*
+
+**Chapter 10:** Exercises 1, 2, 3*
+
+## Dictionary and Tuple Notebook
+
+Complete the exercises in [today's notebook](../day_5/day_5.ipynb).
+
+## Baby Name Challenges
+
+Download the [baby names data and code](https://jeremydfoote.com/Intro-to-Programming-and-Data-Science/resources/baby_names/baby_names.zip) and complete each of the exercises.
+
+### Above and beyond
+
+1. Write a function that takes a prefix as input and prints the number of boys and girls with that prefix (e.g., get_names("m") would list all names that start with "m" and get_names("ma") would only list those that start with "ma").
+2. Plot (in Excel) the number of people who share a name with n other people in the data set, where n is 4 to 19.
+
+## Submission
+
+Submit your completed work via Brightspace.
+
+## Presentation
+
+Be prepared to present your solution if randomly selected during class.
+
