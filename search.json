@@ -67,7 +67,7 @@
     "href": "index.html",
     "title": "Intro to Programming and Data Science",
     "section": "",
-    "text": "Welcome to Introduction to Programming and Data Science!\nThis is an exciting time to be a social scientist and especially a Communication scholar! An increasing amount of our lives—and our interactions—are stored digitally and social scientists can use that data to ask and answer questions about how the social world works. I firmly believe that computational tools have created a new frontier in the social sciences which those who develop computational skills can explore.\nThis class is an introduction into that world. The course is intended to give students an introduction to programming principles, the Python programming language, and data science tools and approaches. However, this is not a computer science class or a statistics class, and no prior programming experience is required or expected. We will focus on gaining access to data and basic data manipulation rather than complex statistical methods.\nThe main goal of the class is to help you to complete a preliminary, independent, data-centric project. As part of this project, you (on your own or in a team) will write software to collect data from web APIs, process and clean that data, and produce statistics, hypothesis tests, and graphical visualizations that address questions you are interested in."
+    "text": "Welcome to Introduction to Programming and Data Science!"
   },
   {
     "objectID": "index.html#course-links",
@@ -75,13 +75,6 @@
     "title": "Intro to Programming and Data Science",
     "section": "Course Links",
     "text": "Course Links\nThe top of the page includes links to the syllabus, schedule, and assignments. The schedule includes links to all of the readings and resources for the class. The assignments page includes links to all of the coding challenges and project milestones for the class."
-  },
-  {
-    "objectID": "index.html#learning-objectives",
-    "href": "index.html#learning-objectives",
-    "title": "Intro to Programming and Data Science",
-    "section": "Learning Objectives",
-    "text": "Learning Objectives\nI will consider this class a complete success if, at the end, every student can:\n\nWrite or modify a program to collect a dataset from a publicly available data source.\nRead web API documentation and write Python software to parse and understand a new and unfamiliar web API.\nUnderstand and follow basic version control practices.\nUse digital data to effectively answer a substantively interesting question and to present this data effectively in the context of both a formal presentation and a written report.\nIdentify multiple ways that computational approaches are being used for social science research.\nFeel comfortable taking more advanced computational methods courses or learning new techniques on your own."
   },
   {
     "objectID": "day_8/lecture/day_8.html#dad-joke",
@@ -994,7 +987,7 @@
     "href": "assignments/final_self_reflection.html",
     "title": "Final Self-Reflection",
     "section": "",
-    "text": "Due date: December 12",
+    "text": "Due date: May 4",
     "crumbs": [
       "Assignments",
       "Reflections",
@@ -1066,7 +1059,7 @@
     "href": "assignments/project_planning.html",
     "title": "Project Planning Document",
     "section": "",
-    "text": "Due date: October 15\nMaximum length: ~4-5 pages",
+    "text": "Due date: March 10\nMaximum length: ~4-5 pages",
     "crumbs": [
       "Assignments",
       "Research Project",
@@ -1126,7 +1119,7 @@
     "href": "assignments/project_report.html",
     "title": "Project Report",
     "section": "",
-    "text": "Due date: December 11\nMaximum length: 4000 words (~15 pages)",
+    "text": "Due date: May 4\nMaximum length: 4000 words (~15 pages)",
     "crumbs": [
       "Assignments",
       "Research Project",
