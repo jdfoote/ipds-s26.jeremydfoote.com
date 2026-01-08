@@ -5,14 +5,14 @@ title: "Syllabus"
 ## Course Information
 
 **Course**: COM 674: Introduction to Programming and Data Science  
-**Location**: BRNG 2275  
-**Class Hours**: Tuesdays and Thursdays, 10:30–11:45 AM
+**Location**: BRNG 2273
+**Class Hours**: Tuesdays and Thursdays, 1:30–2:45 pm
 
 ### Instructor
 
 **Instructor**: [Jeremy Foote](https://jeremydfoote.com/)  
 **Email**: jdfoote@purdue.edu  
-**Office Hours**: Tuesdays, 2–4 pm in BRNG 2156 or by appointment
+**Office Hours**: Tuesdays, 2–4 pm in BRNG 2134 or by appointment
 
 ## Course Overview and Learning Objectives
 
