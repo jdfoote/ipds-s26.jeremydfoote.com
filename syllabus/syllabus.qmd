@@ -12,7 +12,7 @@ title: "Syllabus"
 
 **Instructor**: [Jeremy Foote](https://jeremydfoote.com/)  
 **Email**: jdfoote@purdue.edu  
-**Office Hours**: Tuesdays, 2–4 pm in BRNG 2134 or by appointment
+**Office Hours**: Tuesdays and Thursdays, 10–11 am in BRNG 2134 or by appointment
 
 ## Course Overview and Learning Objectives
 
@@ -74,7 +74,7 @@ I try to make the classes useful and to tailor them to the needs of the students
 
 ### Office Hours and Email
 
-I will hold office hours from 2-4 on Tuesdays and by appointment. If you come with a programming question, I will expect that you have already tried to solve it yourself in multiple ways and that you have discussed it with a classmate. This policy lets me have time to help more students, but it's also a useful strategy. Often [just trying to explain your code](https://en.wikipedia.org/wiki/Rubber_duck_debugging) can help you to recognize where you've gone wrong.
+I will hold office hours from 10-11 on Tuesdays and Thursdays and by appointment. If you come with a programming question, I will expect that you have already tried to solve it yourself in multiple ways and that you have discussed it with a classmate. This policy lets me have time to help more students, but it's also a useful strategy. Often [just trying to explain your code](https://en.wikipedia.org/wiki/Rubber_duck_debugging) can help you to recognize where you've gone wrong.
 
 I am also available by email at jdfoote@purdue.edu. I try hard to maintain a boundary between work and home and I typically respond only on weekdays during business hours (~9-5) but during the week I will generally respond within 24 hours.
 
