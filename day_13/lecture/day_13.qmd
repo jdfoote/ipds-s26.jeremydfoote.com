@@ -45,7 +45,7 @@ Not Happy.
 > - Intermediate Python
 >	- Regular expressions, list comprehensions, classes, debugging
 > - Agent-based modeling, cluster computing, more computational text analysis
->   - Some resources on the wiki (Advanced Computational Communication)
+>   - Some resources on the course website (Advanced Computational Communication)
 > - Project presentation signup
 >   - tinyurl.com/com674fp
 

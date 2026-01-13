@@ -38,7 +38,7 @@ p <- function (x) {formatC(x, format='f', digits=1, big.mark=',')}
 >   - Wikipedia
 >   - StackOverflow
 > - Also, consider existing datasets
->	- Link on wiki
+>	- Link on course website
 
 ## Housekeeping
 > - How to lead discussions?

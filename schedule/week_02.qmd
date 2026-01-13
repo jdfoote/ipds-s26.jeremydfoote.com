@@ -7,7 +7,7 @@ date: "2026-01-20"
 
 - Finish Week 1 exercises and tutorials
 - Fill out the short survey
-- Sign up to be a discussant
+- [Sign up to be a discussant](https://docs.google.com/spreadsheets/d/1uSo-Ya5DghaLu1BYk94EVU2kBVmExRWwOa1586GbFUU/edit?gid=0#gid=0)
 - [Week 2 Coding Challenge](../assignments/week_2_coding_challenges.qmd) (turn in on Brightspace)
 
 ## Programming Materials
