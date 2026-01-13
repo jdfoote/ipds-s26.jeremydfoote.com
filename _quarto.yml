@@ -8,9 +8,10 @@ project:
     - "syllabus/*.qmd"
     - "day_*/lecture/*.qmd"
     - "!day_*/lecture/*_files/"
-
-resources:
+  resources:
+    - CNAME
     - "resources/**/*"
+
 
 preview:
   port: 4200

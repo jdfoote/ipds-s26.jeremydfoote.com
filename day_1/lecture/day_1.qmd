@@ -3,11 +3,14 @@ pagetitle: Welcome to COM 674!
 date: Week 1
 format: 
   revealjs:
-    css: ./resources/custom_css.css
+    css: /resources/custom_css.css
     theme: white
     progress: true
     transition: convex
     reveal_plugins: ['notes']
+    width: 1200
+    height: 800
+    
 ---
 
 ```{r setup, include=FALSE}
@@ -27,7 +30,7 @@ p <- function (x) {formatC(x, format='f', digits=1, big.mark=',')}
 
 <div class='container'>
 <div class='col fragment'>
-<img src='./images/the_fam.jpg' style='max-width:200px;'/>
+<img src='./images/the_fam.jpg' style='max-width:250px;'/>
 </div>
 <div class='col fragment'>
 <img src='./images/sna.png' style='max-width:250px;'>
@@ -125,9 +128,9 @@ p <- function (x) {formatC(x, format='f', digits=1, big.mark=',')}
 ## Project Milestones
 
 > - Final project
->	- Identify a dataset and general plan (September 5)
->	- Project planning doc (October 15)
->	- Project presentation + report (December 3 and 5)
+>	- Identify a dataset and general plan (February 3)
+>	- Project planning doc (March 10)
+>	- Project presentation + report (May 4)
 
 ## Grades
 
@@ -136,7 +139,7 @@ p <- function (x) {formatC(x, format='f', digits=1, big.mark=',')}
 
 # Resources
 
-## Wiki
+## Course Website
 
 > - Schedule
 > - Links to readings
