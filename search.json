@@ -4,14 +4,14 @@
     "href": "syllabus/syllabus.html",
     "title": "Syllabus",
     "section": "",
-    "text": "Course: COM 674: Introduction to Programming and Data Science\nLocation: BRNG 2273 Class Hours: Tuesdays and Thursdays, 1:30–2:45 pm\n\n\nInstructor: Jeremy Foote\nEmail: jdfoote@purdue.edu\nOffice Hours: Tuesdays and Thursdays, 10–11 am in BRNG 2134 or by appointment"
+    "text": "Course: COM 674: Introduction to Programming and Data Science\nLocation: BRNG 2273\nClass Hours: Tuesdays and Thursdays, 1:30–2:45 pm\n\n\nInstructor: Jeremy Foote\nEmail: jdfoote@purdue.edu\nOffice Hours: Tuesdays and Thursdays, 10–11 am in BRNG 2134 or by appointment"
   },
   {
     "objectID": "syllabus/syllabus.html#course-information",
     "href": "syllabus/syllabus.html#course-information",
     "title": "Syllabus",
     "section": "",
-    "text": "Course: COM 674: Introduction to Programming and Data Science\nLocation: BRNG 2273 Class Hours: Tuesdays and Thursdays, 1:30–2:45 pm\n\n\nInstructor: Jeremy Foote\nEmail: jdfoote@purdue.edu\nOffice Hours: Tuesdays and Thursdays, 10–11 am in BRNG 2134 or by appointment"
+    "text": "Course: COM 674: Introduction to Programming and Data Science\nLocation: BRNG 2273\nClass Hours: Tuesdays and Thursdays, 1:30–2:45 pm\n\n\nInstructor: Jeremy Foote\nEmail: jdfoote@purdue.edu\nOffice Hours: Tuesdays and Thursdays, 10–11 am in BRNG 2134 or by appointment"
   },
   {
     "objectID": "syllabus/syllabus.html#course-overview-and-learning-objectives",
@@ -207,7 +207,7 @@
     "href": "day_2/lecture/day_2.html#hw-review",
     "title": "Day 2",
     "section": "HW Review",
-    "text": "HW Review\n\nStart with small group discussions\nSelect respondents by bot\n\nIdentify things that you are still confused about\n\nPerson chosen will make sure there is a good response on Element"
+    "text": "HW Review\n\nStart with small group discussions \n\nIdentify things that you are still confused about"
   },
   {
     "objectID": "day_2/lecture/day_2.html#wordplay-project",
@@ -242,7 +242,7 @@
     "href": "day_2/lecture/day_2.html#conditionals",
     "title": "Day 2",
     "section": "Conditionals",
-    "text": "Conditionals\n\nControl flow\n\nRun different parts of the code depending on the “state”\n\nConditionals depend on booleans\n\nExpressions that evaluate to True or False\n&lt;, &gt;, &gt;=, &lt;=, ==, !=, in, or not in\nThey are evaluated in order and can “short circuit”"
+    "text": "Conditionals\n\nControl flow\n\nRun different parts of the code depending on the “state”\nConditionals depend on booleans\n\nExpressions that evaluate to True or False\n&lt;, &gt;, &gt;=, &lt;=, ==, !=, in, or not in\nThey are evaluated in order and can “short circuit”"
   },
   {
     "objectID": "day_2/lecture/day_2.html#example-of-a-conditional",
@@ -1299,7 +1299,7 @@
     "href": "assignments/week_1_coding_challenge.html#goal-1-set-up-python-and-make-a-class-folder",
     "title": "Week 1 Coding Challenge",
     "section": "Goal #1: Set up Python and make a class folder",
-    "text": "Goal #1: Set up Python and make a class folder\n(Estimated time: 15 minutes)\n\nFirst things first: We are going to install “Miniconda”. This includes Python and a package manager, for installing more stuff. You should be able to install it from https://docs.anaconda.com/miniconda/.\nWe are also going to install VSCode. This is an IDE, which is an application designed to make programming easier. Find your operating system on this page and follow the instructions.\nNext, let’s install the packages we’ll need for the class. Open VSCode, and click Terminal &gt; New Terminal. In the terminal window (at the bottom), type conda install pandas seaborn jupyterlab. It will ask if you want to install a whole bunch of stuff. Type y and press enter.\nOnce you have VSCode installed, you should also install the Python, Jupyter, Quarto, and Github Copilot extensions. Extension search can be found on the left-hand menu, or with Ctrl-Shift-X.\nYou should also make a folder to use for your class files. A dedicated folder will help you keep track of all the items you download or write as part of the class, and make them easier to find later. One of the secrets of data science is being kind to your future self by being extremely organized. You may want to create sub-folders like Programming Challenges and Final Project.",
+    "text": "Goal #1: Set up Python and make a class folder\n(Estimated time: 15 minutes)\n\nFirst things first: We are going to install “Miniconda”. This includes Python and a package manager, for installing more stuff. You should be able to install it from https://docs.anaconda.com/miniconda/.\nWe are also going to install VSCode. This is an IDE, which is an application designed to make programming easier. Find your operating system on this page and follow the instructions.\nNext, let’s install the packages we’ll need for the class. Open VSCode, and click Terminal &gt; New Terminal. In the terminal window (at the bottom), type conda install pandas seaborn jupyterlab. It will ask if you want to install a whole bunch of stuff. Type y and press enter.\nOnce you have VSCode installed, you should also install the Python, Jupyter, Quarto, and Github Copilot extensions. Extension search can be found on the left-hand menu, or with Ctrl-Shift-X.\nYou should also make a folder to use for your class files. A dedicated folder will help you keep track of all the items you download or write as part of the class, and make them easier to find later. One of the secrets of data science is being kind to your future self by being extremely organized. You may want to create sub-folders like Programming Challenges and Final Project. In VSCode, open the folder by clicking File &gt; Open Folder....",
     "crumbs": [
       "Assignments",
       "Coding Challenges",
