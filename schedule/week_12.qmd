@@ -15,8 +15,9 @@ date: "2026-04-07"
 
 ## Discussion Reading
 
-- Robert K. Merton. 1948. [The Bearing of Empirical Research Upon the Development of Social Theory](https://www-jstor-org.ezproxy.lib.purdue.edu/stable/2087142). American Sociological Review 13(5): 505-515.
-- Tan, C. (2018). [Tracing community genealogy: How new communities emerge from the old](https://aaai.org/ocs/index.php/ICWSM/ICWSM18/paper/view/17811). Proceedings of the Twelfth International Conference on Web and Social Media (ICWSM '18), 395–404.
+**Discussant: Eubin**
+
+- DellaPosta, D., Shi, Y., & Macy, M. (2015). [Why Do Liberals Drink Lattes](https://doi.org/10.1086/681254)? American Journal of Sociology, 120(5), 1473–1511.
 
 ## Agenda
 

@@ -15,7 +15,9 @@ date: "2026-03-31"
 
 ## Discussion Reading
 
-- DellaPosta, D., Shi, Y., & Macy, M. (2015). [Why Do Liberals Drink Lattes](https://doi.org/10.1086/681254)? American Journal of Sociology, 120(5), 1473–1511.
+**Discussant: Ogadinma**
+
+- Hu, L., & Kearney, M. W. (2021). Gendered Tweets: Computational Text Analysis of Gender Differences in Political Discussion on Twitter. Journal of Language and Social Psychology, 40(4), 482-503. https://doi.org/10.1177/0261927X20969752
 
 ## Agenda
 

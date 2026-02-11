@@ -17,6 +17,8 @@ date: "2026-02-03"
 
 ## Discussion Reading
 
+**Discussant: Rushdah**
+
 - Nelson, Laura K. 2017. "[Computational Grounded Theory: A Methodological Framework](https://doi.org/10.1177%2F0049124117729703)." Sociological Methods and Research.
 
 ## Agenda

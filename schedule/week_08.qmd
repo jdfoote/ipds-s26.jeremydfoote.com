@@ -16,7 +16,9 @@ date: "2026-03-03"
 
 ## Discussion Reading
 
-- Kieran Healy and James Moody (2014). "[Data Visualization in Sociology](https://doi.org/10.1146/annurev-soc-071312-145551)." American Review of Sociology. 40: 105-28.
+**Discussant: Sam**
+
+- Lazer, D., & Radford, J. (2017). [Data ex Machina: Introduction to Big Data](https://doi.org/10.1146/annurev-soc-060116-053457). Annual Review of Sociology, 43(1), 19–39.
 
 ## Agenda
 

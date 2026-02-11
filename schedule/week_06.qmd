@@ -15,7 +15,9 @@ date: "2026-02-17"
 
 ## Discussion Reading
 
-- Vázquez-Herrero, J., Negreira-Rey, M. C., & López-García, X. (2023). Misinformation on Trial: Media Coverage of a Murder, Public Conversation and Fact-Checking. Journalism Practice, 17(10), 2218–2240.
+**Discussant: Sam**
+
+- Benefield, G. A., Shen, C., & Leavitt, A. (2016). Virtual Team Networks: How Group Social Capital Affects Team Success in a Massively Multiplayer Online Game. Proceedings of the 19th ACM Conference on Computer-Supported Cooperative Work & Social Computing, 679–690.
 
 ## Agenda
 

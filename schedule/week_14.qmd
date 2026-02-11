@@ -3,13 +3,17 @@ title: "Week 14: Ethics of Online Research"
 date: "2026-04-21"
 ---
 
-Async discussion on Element about ethics of online research
+## Discussion Reading
 
-## Required Readings
+**Discussant: Rushdah**
 
-- (Optional) Williams, M. L., Burnap, P., & Sloan, L. (2017). [Towards an Ethical Framework for Publishing Twitter Data in Social Research](https://doi.org/10.1177/0038038517708140): Sociology.
-- (Optional) Salganik, M. [Ethics](https://www.bitbybitbook.com/en/1st-ed/ethics/) chapter from Bit By Bit.
-- (Optional) Crawford, K., & Finn, M. (2015). [The limits of crisis data](https://doi.org/10.1007/s10708-014-9597-z). GeoJournal, 80(4), 491–502.
+- Vitak, J., Shilton, K., & Ashktorab, Z. (2016). [Beyond the Belmont Principles: Ethical Challenges, Practices, and Beliefs in the Online Data Research Community](https://doi.org/10.1145/2818048.2820078). Proceedings of the 19th ACM Conference on Computer-Supported Cooperative Work & Social Computing, 941–953.
+
+## Additional Optional Readings
+
+- Williams, M. L., Burnap, P., & Sloan, L. (2017). [Towards an Ethical Framework for Publishing Twitter Data in Social Research](https://doi.org/10.1177/0038038517708140): Sociology.
+- Salganik, M. [Ethics](https://www.bitbybitbook.com/en/1st-ed/ethics/) chapter from Bit By Bit.
+- Crawford, K., & Finn, M. (2015). [The limits of crisis data](https://doi.org/10.1007/s10708-014-9597-z). GeoJournal, 80(4), 491–502.
 
 ## Agenda
 

@@ -15,7 +15,9 @@ date: "2026-04-14"
 
 ## Discussion Reading
 
-- Vitak, J., Shilton, K., & Ashktorab, Z. (2016). [Beyond the Belmont Principles](https://doi.org/10.1145/2818048.2820078). Proceedings of the 19th ACM Conference on Computer-Supported Cooperative Work & Social Computing, 941–953.
+**Discussant: Sam**
+
+- Tan, C. (2018). [Tracing community genealogy: How new communities emerge from the old](https://aaai.org/ocs/index.php/ICWSM/ICWSM18/paper/view/17811). Proceedings of the Twelfth International Conference on Web and Social Media (ICWSM '18), 395–404.
 
 ## Agenda
 

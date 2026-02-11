@@ -18,7 +18,9 @@ date: "2026-03-10"
 
 ## Discussion Reading
 
-- Christopher A. Bail et al. 2018. [Exposure to opposing views on social media can increase political polarization](https://doi.org/10.1073/pnas.1804840115). PNAS 115(37): 9216-9221
+**Discussant: Rushdah**
+
+- Kieran Healy and James Moody (2014). "[Data Visualization in Sociology](https://doi.org/10.1146/annurev-soc-071312-145551)." American Review of Sociology. 40: 105-28.
 
 ## Agenda
 

@@ -16,6 +16,8 @@ date: "2026-01-27"
 
 ## Discussion Reading
 
+**Discussant: Ogadinma**
+
 - Foote, J., Shaw, A., & Hill, B.M. (2017). [Computational analysis of social media scholarship](https://jeremydfoote.com/files/foote_computational_2017.pdf). In Burgess, J., Poell, T., Marwick, A. (Eds.), The Sage Handbook of Social Media. Sage.
 
 ## Agenda

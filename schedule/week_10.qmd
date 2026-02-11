@@ -15,7 +15,9 @@ date: "2026-03-24"
 
 ## Discussion Reading
 
-- Hu, L., & Kearney, M. W. (2021). Gendered Tweets: Computational Text Analysis of Gender Differences in Political Discussion on Twitter. Journal of Language and Social Psychology, 40(4), 482-503.
+**Discussant: Eubin**
+
+- Christopher A. Bail et al. 2018. [Exposure to opposing views on social media can increase political polarization](https://doi.org/10.1073/pnas.1804840115). PNAS 115(37): 9216-9221
 
 ## Agenda
 

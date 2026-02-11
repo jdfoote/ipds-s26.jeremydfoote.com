@@ -20,7 +20,9 @@ date: "2026-01-20"
 
 ## Paper Discussion
 
-None (first week)
+**Discussant: Jeremy**
+
+- Bit By bit, [Introduction](https://www.bitbybitbook.com/en/1st-ed/introduction/)
 
 ## Agenda
 
