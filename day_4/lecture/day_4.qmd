@@ -31,11 +31,11 @@ p <- function (x) {formatC(x, format='f', digits=1, big.mark=',')}
 
 ## Housekeeping
 
+> - Project ideas
 > - Signing up for Reddit
 > - Slowing down soon!
 > - New papers to read
 
-## Julius on Computational Grounded Theory
 
 ## Reflection on how things are going
 

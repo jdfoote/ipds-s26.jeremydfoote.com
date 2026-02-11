@@ -10,7 +10,7 @@ title: "Week 3 Coding Challenge"
 
 ## Wordplay Challenges
 
-Download [this zip file](http://jeremydfoote.com/Intro-to-Programming-and-Data-Science/resources/wordplay.zip) and extract it to your Desktop (or the folder you are using for the class). Open the file "Wordplay Examples.ipynb" and run the first cell to make sure that it's working.
+Download [this zip file](/resources/wordplay.zip) and extract it to your Desktop (or the folder you are using for the class). Open the file "Wordplay Examples.ipynb" and run the first cell to make sure that it's working.
 
 Use the examples given to answer the following questions:
 

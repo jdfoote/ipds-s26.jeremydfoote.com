@@ -18,7 +18,7 @@ Work through the goals on this page in order; they should take around 2 hours. D
 
 4. Once you have VSCode installed, you should also install the `Python`, `Jupyter`, `Quarto`, and `Github Copilot` extensions. Extension search can be found on the left-hand menu, or with `Ctrl-Shift-X`.
 
-5. You should also make a folder to use for your class files. A dedicated folder will help you keep track of all the items you download or write as part of the class, and make them easier to find later. One of the secrets of data science is being kind to your future self by being extremely organized. You may want to create sub-folders like `Programming Challenges` and `Final Project`.
+5. You should also make a folder to use for your class files. A dedicated folder will help you keep track of all the items you download or write as part of the class, and make them easier to find later. One of the secrets of data science is being kind to your future self by being extremely organized. You may want to create sub-folders like `Programming Challenges` and `Final Project`. In VSCode, open the folder by clicking `File > Open Folder...`.
 
 ## Goal #2: Practice running Python code from an existing Jupyter notebook
 

@@ -32,15 +32,15 @@ Brochure
 
 ## Housekeeping
 
-> - Catch up week next week
->   - Review and regroup
 > - Reddit checkin
+> - How are we doing?
 
 ## HW Review
 
 > - Things to be sure to cover?
 
 
+<!--
 ## Paper discussion
 
 > - Computational Grounded Theory 
@@ -49,3 +49,5 @@ Brochure
 
 > - An idea
 >   - Review in groups for 10 minutes and then focus on remaining questions?
+
+-->

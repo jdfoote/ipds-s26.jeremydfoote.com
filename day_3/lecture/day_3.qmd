@@ -32,7 +32,6 @@ p <- function (x) {formatC(x, format='f', digits=1, big.mark=',')}
 > - Pep talk :)
 >	- It's OK to be lost
 >	- The class is front-loaded; we will slow down
->   - Move catch up week?
 
 
 ## Concepts I want to discuss

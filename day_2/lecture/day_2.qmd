@@ -60,9 +60,8 @@ p <- function (x) {formatC(x, format='f', digits=1, big.mark=',')}
 ## HW Review
 
 > - Start with small group discussions
-> - Select respondents by bot
+<!-- > - Select respondents by bot -->
 >	- Identify things that you are still confused about
-> - Person chosen will make sure there is a good response on Element
 
 ## Wordplay project
 
@@ -83,35 +82,35 @@ p <- function (x) {formatC(x, format='f', digits=1, big.mark=',')}
 ## Debugging
 
 > - Common bugs
->	- Syntax
->	- Intermediate objects
->	- Complexity
+>	  - Syntax
+>	  - Intermediate objects
+>	  - Complexity
 > - Strategies
->	- Read through the code
->	- Make things visible
->	- Simplify
+>	  - Read through the code
+>	  - Make things visible
+>	  - Simplify
 
 ## Variables
 
 > - Name that stores data
 > - Has different types, e.g.:
->	- Strings
->	- Integers
->	- Floats
->	- Lists
->	- Dictionaries
-> - Can't start with a number
-> - Usually written_like_this
-> - If it's not saved to a variable (or to disk), it's gone!
+>	  - Strings
+>	  - Integers
+>	  - Floats
+>	  - Lists
+>	  - Dictionaries
+> -  Can't start with a number
+>   - Usually written_like_this
+> -  If it's not saved to a variable (or to disk), it's gone!
 
 ## Conditionals
 
 > - Control flow
->	- Run different parts of the code depending on the "state"
-> - Conditionals depend on booleans
->	- Expressions that evaluate to `True` or `False`
->	- `<`, `>`, `>=`, `<=`, `==`, `!=`, `in`, or `not in`
->	- They are evaluated in order and can "short circuit"
+>	  - Run different parts of the code depending on the "state"
+>   - Conditionals depend on booleans
+>	  - Expressions that evaluate to `True` or `False`
+>	  - `<`, `>`, `>=`, `<=`, `==`, `!=`, `in`, or `not in`
+>	  - They are evaluated in order and can "short circuit"
 
 ## Example of a conditional
 
