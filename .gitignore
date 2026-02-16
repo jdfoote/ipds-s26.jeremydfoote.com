@@ -11,7 +11,7 @@ reddit_auth.py
 reddit_authentication.py
 day_9/*.csv
 day_*files/
-
+*credentials.py
 /.quarto/
 anthropic_credentials.py
 day_11/hobbies.csv
