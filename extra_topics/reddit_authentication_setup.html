@@ -6,9 +6,8 @@
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
-<meta name="dcterms.date" content="2026-02-17">
 
-<title>Intro to Programming and Data Science - Week 6: Dataframes and Visualization</title>
+<title>Intro to Programming and Data Science - Reddit Authentication Setup</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -20,6 +19,40 @@ ul.task-list li input[type="checkbox"] {
   width: 0.8em;
   margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
   vertical-align: middle;
+}
+/* CSS for syntax highlighting */
+pre > code.sourceCode { white-space: pre; position: relative; }
+pre > code.sourceCode > span { line-height: 1.25; }
+pre > code.sourceCode > span:empty { height: 1.2em; }
+.sourceCode { overflow: visible; }
+code.sourceCode > span { color: inherit; text-decoration: inherit; }
+div.sourceCode { margin: 1em 0; }
+pre.sourceCode { margin: 0; }
+@media screen {
+div.sourceCode { overflow: auto; }
+}
+@media print {
+pre > code.sourceCode { white-space: pre-wrap; }
+pre > code.sourceCode > span { text-indent: -5em; padding-left: 5em; }
+}
+pre.numberSource code
+  { counter-reset: source-line 0; }
+pre.numberSource code > span
+  { position: relative; left: -4em; counter-increment: source-line; }
+pre.numberSource code > span > a:first-child::before
+  { content: counter(source-line);
+    position: relative; left: -1em; text-align: right; vertical-align: baseline;
+    border: none; display: inline-block;
+    -webkit-touch-callout: none; -webkit-user-select: none;
+    -khtml-user-select: none; -moz-user-select: none;
+    -ms-user-select: none; user-select: none;
+    padding: 0 4px; width: 4em;
+  }
+pre.numberSource { margin-left: 3em;  padding-left: 4px; }
+div.sourceCode
+  {   }
+@media screen {
+pre > code.sourceCode > span > a:first-child::before { text-decoration: underline; }
 }
 </style>
 
@@ -72,7 +105,7 @@ ul.task-list li input[type="checkbox"] {
 <link rel="stylesheet" href="../resources/custom_css.css">
 </head>
 
-<body class="nav-sidebar docked nav-fixed">
+<body class="nav-fixed">
 
 <div id="quarto-search-results"></div>
   <header id="quarto-header" class="headroom fixed-top">
@@ -94,7 +127,7 @@ ul.task-list li input[type="checkbox"] {
 <span class="menu-text">Syllabus</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link active" href="../schedule.html" aria-current="page"> 
+    <a class="nav-link" href="../schedule.html"> 
 <span class="menu-text">Schedule</span></a>
   </li>  
   <li class="nav-item">
@@ -107,207 +140,75 @@ ul.task-list li input[type="checkbox"] {
 </div>
       </div> <!-- /container-fluid -->
     </nav>
-  <nav class="quarto-secondary-nav">
-    <div class="container-fluid d-flex">
-      <button type="button" class="quarto-btn-toggle btn" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
-        <i class="bi bi-layout-text-sidebar-reverse"></i>
-      </button>
-        <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="../schedule/week_01.html">Course content</a></li><li class="breadcrumb-item"><a href="../schedule/week_06.html">Week 6: Dataframes and Visualization</a></li></ol></nav>
-        <a class="flex-grow-1" role="button" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">      
-        </a>
-    </div>
-  </nav>
 </header>
 <!-- content -->
 <div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
 <!-- sidebar -->
-  <nav id="quarto-sidebar" class="sidebar collapse collapse-horizontal quarto-sidebar-collapse-item sidebar-navigation docked overflow-auto">
-    <div class="sidebar-menu-container"> 
-    <ul class="list-unstyled mt-1">
-        <li class="sidebar-item sidebar-item-section">
-      <div class="sidebar-item-container"> 
-            <a class="sidebar-item-text sidebar-link text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-1" aria-expanded="true">
- <span class="menu-text">Overview</span></a>
-          <a class="sidebar-item-toggle text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-1" aria-expanded="true" aria-label="Toggle section">
-            <i class="bi bi-chevron-right ms-2"></i>
-          </a> 
-      </div>
-      <ul id="quarto-sidebar-section-1" class="collapse list-unstyled sidebar-section depth1 show">  
-          <li class="sidebar-item">
-  <div class="sidebar-item-container"> 
-  <a href="../schedule.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text">Course Schedule</span></a>
-  </div>
-</li>
-      </ul>
-  </li>
-        <li class="sidebar-item sidebar-item-section">
-      <div class="sidebar-item-container"> 
-            <a class="sidebar-item-text sidebar-link text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-2" aria-expanded="true">
- <span class="menu-text">Course content</span></a>
-          <a class="sidebar-item-toggle text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-2" aria-expanded="true" aria-label="Toggle section">
-            <i class="bi bi-chevron-right ms-2"></i>
-          </a> 
-      </div>
-      <ul id="quarto-sidebar-section-2" class="collapse list-unstyled sidebar-section depth1 show">  
-          <li class="sidebar-item">
-  <div class="sidebar-item-container"> 
-  <a href="../schedule/week_01.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text">Week 1: Introduction to Python and Computational Thinking</span></a>
-  </div>
-</li>
-          <li class="sidebar-item">
-  <div class="sidebar-item-container"> 
-  <a href="../schedule/week_02.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text">Week 2: Variables, conditionals, and functions</span></a>
-  </div>
-</li>
-          <li class="sidebar-item">
-  <div class="sidebar-item-container"> 
-  <a href="../schedule/week_03.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text">Week 3: Functions and Iteration</span></a>
-  </div>
-</li>
-          <li class="sidebar-item">
-  <div class="sidebar-item-container"> 
-  <a href="../schedule/week_04.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text">Week 4: Strings and Lists</span></a>
-  </div>
-</li>
-          <li class="sidebar-item">
-  <div class="sidebar-item-container"> 
-  <a href="../schedule/week_05.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text">Week 5: Files, Dictionaries, and Tuples</span></a>
-  </div>
-</li>
-          <li class="sidebar-item">
-  <div class="sidebar-item-container"> 
-  <a href="../schedule/week_06.html" class="sidebar-item-text sidebar-link active">
- <span class="menu-text">Week 6: Dataframes and Visualization</span></a>
-  </div>
-</li>
-          <li class="sidebar-item">
-  <div class="sidebar-item-container"> 
-  <a href="../schedule/week_07.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text">Week 7: Dataframes and visualization (continued)</span></a>
-  </div>
-</li>
-          <li class="sidebar-item">
-  <div class="sidebar-item-container"> 
-  <a href="../schedule/week_08.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text">Week 8: Collecting Data with APIs</span></a>
-  </div>
-</li>
-          <li class="sidebar-item">
-  <div class="sidebar-item-container"> 
-  <a href="../schedule/week_09.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text">Week 9: Collecting Data with APIs (continued)</span></a>
-  </div>
-</li>
-          <li class="sidebar-item">
-  <div class="sidebar-item-container"> 
-  <a href="../schedule/week_10.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text">Week 10: Introduction to Computational Text Analysis</span></a>
-  </div>
-</li>
-          <li class="sidebar-item">
-  <div class="sidebar-item-container"> 
-  <a href="../schedule/week_11.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text">Week 11: Intro to Computational Text Analysis (continued)</span></a>
-  </div>
-</li>
-          <li class="sidebar-item">
-  <div class="sidebar-item-container"> 
-  <a href="../schedule/week_12.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text">Week 12: Data cleaning and operationalization</span></a>
-  </div>
-</li>
-          <li class="sidebar-item">
-  <div class="sidebar-item-container"> 
-  <a href="../schedule/week_13.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text">Week 13: Organizing and storing computational projects</span></a>
-  </div>
-</li>
-          <li class="sidebar-item">
-  <div class="sidebar-item-container"> 
-  <a href="../schedule/week_14.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text">Week 14: Ethics of Online Research</span></a>
-  </div>
-</li>
-          <li class="sidebar-item">
-  <div class="sidebar-item-container"> 
-  <a href="../schedule/week_15.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text">Week 15: Final Project Presentations</span></a>
-  </div>
-</li>
-          <li class="sidebar-item">
-  <div class="sidebar-item-container"> 
-  <a href="../schedule/week_16.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text">Week 16: Final Paper Due</span></a>
-  </div>
-</li>
-      </ul>
-  </li>
-    </ul>
-    </div>
-</nav>
-<div id="quarto-sidebar-glass" class="quarto-sidebar-collapse-item" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item"></div>
 <!-- margin-sidebar -->
     <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
         <nav id="TOC" role="doc-toc" class="toc-active">
     <h2 id="toc-title">On this page</h2>
    
   <ul>
-  <li><a href="#assignments-due" id="toc-assignments-due" class="nav-link active" data-scroll-target="#assignments-due">Assignments Due</a></li>
-  <li><a href="#programming-materials" id="toc-programming-materials" class="nav-link" data-scroll-target="#programming-materials">Programming Materials</a></li>
-  <li><a href="#discussion-reading" id="toc-discussion-reading" class="nav-link" data-scroll-target="#discussion-reading">Discussion Reading</a></li>
-  <li><a href="#agenda" id="toc-agenda" class="nav-link" data-scroll-target="#agenda">Agenda</a></li>
+  <li><a href="#create-a-reddit-app" id="toc-create-a-reddit-app" class="nav-link active" data-scroll-target="#create-a-reddit-app">Create a Reddit App</a></li>
+  <li><a href="#create-your-authentication-file" id="toc-create-your-authentication-file" class="nav-link" data-scroll-target="#create-your-authentication-file">Create Your Authentication File</a></li>
   </ul>
-<div class="toc-actions"><ul><li><a href="https://github.com/jdfoote/ipds-s26.jeremydfoote.com/edit/main/schedule/week_06.qmd" class="toc-action"><i class="bi bi-github"></i>Edit this page</a></li><li><a href="https://github.com/jdfoote/ipds-s26.jeremydfoote.com/issues/new" class="toc-action"><i class="bi empty"></i>Report an issue</a></li></ul></div></nav>
+<div class="toc-actions"><ul><li><a href="https://github.com/jdfoote/ipds-s26.jeremydfoote.com/edit/main/extra_topics/reddit_authentication_setup.qmd" class="toc-action"><i class="bi bi-github"></i>Edit this page</a></li><li><a href="https://github.com/jdfoote/ipds-s26.jeremydfoote.com/issues/new" class="toc-action"><i class="bi empty"></i>Report an issue</a></li></ul></div></nav>
     </div>
 <!-- main -->
 <main class="content" id="quarto-document-content">
 
-<header id="title-block-header">
-<h1 class="title display-7">Week 6: Dataframes and Visualization</h1>
-
-<div class="date-block bg-content text-white p-2">
-  <p class="date">Content for the week of February 17, 2026</p>
+<header id="title-block-header" class="quarto-title-block default">
+<div class="quarto-title">
+<h1 class="title">Reddit Authentication Setup</h1>
 </div>
 
 
 
-<section id="assignments-due" class="level2">
-<h2 class="anchored" data-anchor-id="assignments-due">Assignments Due</h2>
+<div class="quarto-title-meta">
+
+    
+  
+    
+  </div>
+  
+
+
+</header>
+
+
+<p>We’re going to be using Reddit as a context for learning to gather web data. Like many APIs, you need a developer account to use the Reddit API. This is pretty easy on Reddit.</p>
+<section id="create-a-reddit-app" class="level2">
+<h2 class="anchored" data-anchor-id="create-a-reddit-app">Create a Reddit App</h2>
+<ol type="1">
+<li>Create a Reddit account at https://www.reddit.com/</li>
+<li>Go to https://www.reddit.com/prefs/apps and click “Create an app”</li>
+<li>Enter the following (or similar):
 <ul>
-<li><a href="../assignments/week_6_coding_challenges.html">Week 6 Coding Challenges</a></li>
-</ul>
+<li>Name: COM 674 Project App</li>
+<li>Description: This bot will be used to collect data as part of a course at Purdue University.</li>
+<li>About URL: Leave blank</li>
+<li>Redirect URL: http://localhost:8080 (we will not actually be using this)</li>
+<li>Application type: Script</li>
+</ul></li>
+<li>Submit the app.</li>
+</ol>
 </section>
-<section id="programming-materials" class="level2">
-<h2 class="anchored" data-anchor-id="programming-materials">Programming Materials</h2>
-<ul>
-<li><a href="../day_6/day_6.ipynb">Week 6 notebook</a></li>
-</ul>
-<div class="quarto-video ratio ratio-16x9"><iframe data-external="1" src="https://www.youtube.com/embed/cevyNtquwuA" title="" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
-</section>
-<section id="discussion-reading" class="level2">
-<h2 class="anchored" data-anchor-id="discussion-reading">Discussion Reading</h2>
-<p><strong>Discussant: Sam</strong></p>
-<ul>
-<li>Benefield, G. A., Shen, C., &amp; Leavitt, A. (2016). Virtual Team Networks: How Group Social Capital Affects Team Success in a Massively Multiplayer Online Game. Proceedings of the 19th ACM Conference on Computer-Supported Cooperative Work &amp; Social Computing, 679–690.</li>
-</ul>
-</section>
-<section id="agenda" class="level2">
-<h2 class="anchored" data-anchor-id="agenda">Agenda</h2>
-<ul>
-<li>Dataframes and visualization</li>
-<li><a href="../day_6/lecture/day_6.html">Today’s slides</a></li>
-</ul>
+<section id="create-your-authentication-file" class="level2">
+<h2 class="anchored" data-anchor-id="create-your-authentication-file">Create Your Authentication File</h2>
+<p>Create a new Python file called <code>reddit_authentication.py</code> that looks like this:</p>
+<div class="sourceCode" id="cb1"><pre class="sourceCode python code-with-copy"><code class="sourceCode python"><span id="cb1-1"><a href="#cb1-1" aria-hidden="true" tabindex="-1"></a>client_id <span class="op">=</span> <span class="st">"your_client_id_here"</span></span>
+<span id="cb1-2"><a href="#cb1-2" aria-hidden="true" tabindex="-1"></a>client_secret <span class="op">=</span> <span class="st">"your_client_secret_here"</span></span>
+<span id="cb1-3"><a href="#cb1-3" aria-hidden="true" tabindex="-1"></a>user_agent <span class="op">=</span> <span class="st">"python:COM 674 class project:v1.0 (by /u/yourusername)"</span></span>
+<span id="cb1-4"><a href="#cb1-4" aria-hidden="true" tabindex="-1"></a>username <span class="op">=</span> <span class="st">"yourusername"</span></span>
+<span id="cb1-5"><a href="#cb1-5" aria-hidden="true" tabindex="-1"></a>password <span class="op">=</span> <span class="st">"yourpassword"</span></span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<p>The <code>client_id</code> is found at the top left of the apps page, under your app’s name. The <code>client_secret</code> is right below it.</p>
+<p>We will use this authentication file in future lessons.</p>
 
 
 </section>
 
-</header></main> <!-- /main -->
+</main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
 window.document.addEventListener("DOMContentLoaded", function (event) {
   const toggleBodyColorMode = (bsSheetEl) => {
@@ -722,4 +623,4 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
 
 
 
-<footer class="footer"><div class="nav-footer"><div class="nav-footer-center"><div class="toc-actions d-sm-block d-md-none"><ul><li><a href="https://github.com/jdfoote/ipds-s26.jeremydfoote.com/edit/main/schedule/week_06.qmd" class="toc-action"><i class="bi bi-github"></i>Edit this page</a></li><li><a href="https://github.com/jdfoote/ipds-s26.jeremydfoote.com/issues/new" class="toc-action"><i class="bi empty"></i>Report an issue</a></li></ul></div></div></div></footer></body></html>
+<footer class="footer"><div class="nav-footer"><div class="nav-footer-center"><div class="toc-actions d-sm-block d-md-none"><ul><li><a href="https://github.com/jdfoote/ipds-s26.jeremydfoote.com/edit/main/extra_topics/reddit_authentication_setup.qmd" class="toc-action"><i class="bi bi-github"></i>Edit this page</a></li><li><a href="https://github.com/jdfoote/ipds-s26.jeremydfoote.com/issues/new" class="toc-action"><i class="bi empty"></i>Report an issue</a></li></ul></div></div></div></footer></body></html>

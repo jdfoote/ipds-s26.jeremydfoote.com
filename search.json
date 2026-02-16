@@ -77,95 +77,1641 @@
     "text": "Course Links\nThe top of the page includes links to the syllabus, schedule, and assignments. The schedule includes links to all of the readings and resources for the class. The assignments page includes links to all of the coding challenges and project milestones for the class."
   },
   {
-    "objectID": "day_8/lecture/day_8.html#dad-joke",
-    "href": "day_8/lecture/day_8.html#dad-joke",
-    "title": "Intro to APIs",
+    "objectID": "day_9/lecture/day_9.html#dad-joke",
+    "href": "day_9/lecture/day_9.html#dad-joke",
+    "title": "APIs continued",
     "section": "Dad Joke",
-    "text": "Dad Joke\nWithin minutes, the detective knew exactly what the murder weapon was.\n It was a brief case."
+    "text": "Dad Joke\nI married my wife for her looks.\n But not the ones she’s been giving me lately!"
   },
   {
-    "objectID": "day_8/lecture/day_8.html#housekeeping",
-    "href": "day_8/lecture/day_8.html#housekeeping",
-    "title": "Intro to APIs",
+    "objectID": "day_9/lecture/day_9.html#housekeeping",
+    "href": "day_9/lecture/day_9.html#housekeeping",
+    "title": "APIs continued",
     "section": "Housekeeping",
-    "text": "Housekeeping\n\nSelf-assessment reflection and planning documents due\n\nFeedback on planning documents - during class on October 31 (unless you want feedback sooner)\n\nSome adjustments - extra day for computational text analysis, moving Stats and ML to optional\nAre people going to NCA?"
+    "text": "Housekeeping\n\nSelf-assessment reflection + proposal"
   },
   {
-    "objectID": "day_8/lecture/day_8.html#scraping-data",
-    "href": "day_8/lecture/day_8.html#scraping-data",
-    "title": "Intro to APIs",
-    "section": "Scraping Data",
-    "text": "Scraping Data\n\nThree main ways of getting web data:\n\nDownloading\nAPIs\nScraping"
+    "objectID": "day_9/lecture/day_9.html#working-with-online-data",
+    "href": "day_9/lecture/day_9.html#working-with-online-data",
+    "title": "APIs continued",
+    "section": "Working with online data",
+    "text": "Working with online data\n\nSave the raw data\nMake your process as reproducible as possible"
   },
   {
-    "objectID": "day_8/lecture/day_8.html#hw-review",
-    "href": "day_8/lecture/day_8.html#hw-review",
-    "title": "Intro to APIs",
+    "objectID": "day_9/lecture/day_9.html#limitations-of-online-data",
+    "href": "day_9/lecture/day_9.html#limitations-of-online-data",
+    "title": "APIs continued",
+    "section": "Limitations of online data",
+    "text": "Limitations of online data\n\nFound, not made\nMissing (sometimes invisibly)\nCan result from changing/hidden processes"
+  },
+  {
+    "objectID": "day_9/lecture/day_9.html#ethics-in-online-data",
+    "href": "day_9/lecture/day_9.html#ethics-in-online-data",
+    "title": "APIs continued",
+    "section": "Ethics in online data",
+    "text": "Ethics in online data\n\nSome dangers\n\nPrivacy\nTransparency\n\nData is “exhaust” and people may not know it exists\nWhat is “public” data? Expected audiences may differ greatly\nInformed consent is difficult\n\nUnintended consequences\n\nData can be aggregated or used by bad actors\nSalganik gives 18 examples of states using population data for genocide/forced migration"
+  },
+  {
+    "objectID": "day_9/lecture/day_9.html#ethics-in-online-data-1",
+    "href": "day_9/lecture/day_9.html#ethics-in-online-data-1",
+    "title": "APIs continued",
+    "section": "Ethics in online data",
+    "text": "Ethics in online data\n\nMore dangers!\n\nData release\n\nData can be “de-anonymized”\nNYC taxi data\nZIP + birthdate + gender is enough for ~1/3 of people\n\nGeneralization\n\nTwitter users != all people\nMost active users != all users"
+  },
+  {
+    "objectID": "day_9/lecture/day_9.html#balance-is-needed",
+    "href": "day_9/lecture/day_9.html#balance-is-needed",
+    "title": "APIs continued",
+    "section": "Balance is needed",
+    "text": "Balance is needed\nWhat are the dangers of too much caution? &gt; - Emotional contagion as example case"
+  },
+  {
+    "objectID": "day_9/lecture/day_9.html#some-principles",
+    "href": "day_9/lecture/day_9.html#some-principles",
+    "title": "APIs continued",
+    "section": "Some principles",
+    "text": "Some principles\n\nRespect for persons, beneficence, justice, respect for law, and public interest\nThink through possible harms to participants and the systems\nDo work that has benefits\nConsult with others\nAssume that data is sensitive\nAggregate when possible\nNotify participants of data collection and obtain consent when possible\nAlter quotes/usernames\nShare research with participants"
+  },
+  {
+    "objectID": "day_7/lecture/day_7.html#dad-joke",
+    "href": "day_7/lecture/day_7.html#dad-joke",
+    "title": "COM 674 - Day 7",
+    "section": "Dad Joke",
+    "text": "Dad Joke\nA thief stole my anti-depressant medication.\n I hope he’s happy!"
+  },
+  {
+    "objectID": "day_7/lecture/day_7.html#housekeeping",
+    "href": "day_7/lecture/day_7.html#housekeeping",
+    "title": "COM 674 - Day 7",
+    "section": "Housekeeping",
+    "text": "Housekeeping\n\nProject planning doc\nSelf assessment reflection\nPlan for the rest of the semester"
+  },
+  {
+    "objectID": "day_7/lecture/day_7.html#paper-discussion",
+    "href": "day_7/lecture/day_7.html#paper-discussion",
+    "title": "COM 674 - Day 7",
+    "section": "Paper discussion",
+    "text": "Paper discussion"
+  },
+  {
+    "objectID": "day_7/lecture/day_7.html#review",
+    "href": "day_7/lecture/day_7.html#review",
+    "title": "COM 674 - Day 7",
+    "section": "Review",
+    "text": "Review"
+  },
+  {
+    "objectID": "day_5/lecture/day_5.html#todays-dad-joke",
+    "href": "day_5/lecture/day_5.html#todays-dad-joke",
+    "title": "Week 5: Dictionaries and Tuples",
+    "section": "Today’s Dad Joke",
+    "text": "Today’s Dad Joke\nBro, can you hand me that leaflet?\n Brochure"
+  },
+  {
+    "objectID": "day_5/lecture/day_5.html#housekeeping",
+    "href": "day_5/lecture/day_5.html#housekeeping",
+    "title": "Week 5: Dictionaries and Tuples",
+    "section": "Housekeeping",
+    "text": "Housekeeping\n\nReddit checkin\nHow are we doing?"
+  },
+  {
+    "objectID": "day_5/lecture/day_5.html#hw-review",
+    "href": "day_5/lecture/day_5.html#hw-review",
+    "title": "Week 5: Dictionaries and Tuples",
+    "section": "HW Review",
+    "text": "HW Review\n\nThings to be sure to cover?"
+  },
+  {
+    "objectID": "day_3/lecture/day_3.html#dad-joke",
+    "href": "day_3/lecture/day_3.html#dad-joke",
+    "title": "Week 3!",
+    "section": "Dad Joke",
+    "text": "Dad Joke\n\nWhat did the French man say when he went down the slide?\nYeeesss!"
+  },
+  {
+    "objectID": "day_3/lecture/day_3.html#housekeeping",
+    "href": "day_3/lecture/day_3.html#housekeeping",
+    "title": "Week 3!",
+    "section": "Housekeeping",
+    "text": "Housekeeping\n\nIdeas for projects due today\n\nFeedback within the next few days\n\nPep talk :)\n\nIt’s OK to be lost\nThe class is front-loaded; we will slow down"
+  },
+  {
+    "objectID": "day_3/lecture/day_3.html#concepts-i-want-to-discuss",
+    "href": "day_3/lecture/day_3.html#concepts-i-want-to-discuss",
+    "title": "Week 3!",
+    "section": "Concepts I want to discuss",
+    "text": "Concepts I want to discuss\n\nImporting\nComments in code"
+  },
+  {
+    "objectID": "day_3/lecture/day_3.html#comments-and-functions",
+    "href": "day_3/lecture/day_3.html#comments-and-functions",
+    "title": "Week 3!",
+    "section": "Comments and functions",
+    "text": "Comments and functions\n\n\ndef exclaim(s):\n  # Changes a normal string into an exclamation!\n  s = s.upper()\n  return s + '!!'\n  \nexclaim(\"Hello, everyone\")\n\n'HELLO, EVERYONE!!'"
+  },
+  {
+    "objectID": "day_3/lecture/day_3.html#concepts-i-want-to-discuss-1",
+    "href": "day_3/lecture/day_3.html#concepts-i-want-to-discuss-1",
+    "title": "Week 3!",
+    "section": "Concepts I want to discuss",
+    "text": "Concepts I want to discuss\n\nDebugging\n\nprint()\nintermediate outputs\nKISS\n\nSimple functions\nUnderstandable variable names"
+  },
+  {
+    "objectID": "day_3/lecture/day_3.html#other-concepts-that-are-confusing",
+    "href": "day_3/lecture/day_3.html#other-concepts-that-are-confusing",
+    "title": "Week 3!",
+    "section": "Other concepts that are confusing?",
+    "text": "Other concepts that are confusing?"
+  },
+  {
+    "objectID": "day_3/lecture/day_3.html#code-challenge-review",
+    "href": "day_3/lecture/day_3.html#code-challenge-review",
+    "title": "Week 3!",
+    "section": "Code Challenge Review",
+    "text": "Code Challenge Review"
+  },
+  {
+    "objectID": "day_3/lecture/day_3.html#analyzing-large-datasets-is-different",
+    "href": "day_3/lecture/day_3.html#analyzing-large-datasets-is-different",
+    "title": "Week 3!",
+    "section": "Analyzing large datasets is different",
+    "text": "Analyzing large datasets is different\n\nOften trace data is complete*\n\nDoesn’t suffer from sampling bias\nBut lots of other biases:\n\nSampled population != population of interest\nReliant on systems / APIs produced by others\nBugs in code\nConstruct validity"
+  },
+  {
+    "objectID": "day_3/lecture/day_3.html#network-analysis",
+    "href": "day_3/lecture/day_3.html#network-analysis",
+    "title": "Week 3!",
+    "section": "Network analysis",
+    "text": "Network analysis\n\nTurn relationships into networks\nVisual representations can be confusing \nUseful when relationships are important part of understanding a process"
+  },
+  {
+    "objectID": "day_3/lecture/day_3.html#text-analysis",
+    "href": "day_3/lecture/day_3.html#text-analysis",
+    "title": "Week 3!",
+    "section": "Text analysis",
+    "text": "Text analysis\n\nLots of different approaches\n\nDictionary\nSentiment analysis"
+  },
+  {
+    "objectID": "day_3/lecture/day_3.html#topic-modeling",
+    "href": "day_3/lecture/day_3.html#topic-modeling",
+    "title": "Week 3!",
+    "section": "Topic modeling",
+    "text": "Topic modeling\n\n\nGoal is to find a set of k topics where each topic is made up of a combination of terms and each document is made up of a combination of topics.\nRequires a lot of interpretation\nComputational grounded theory (Nelson, 2017) is one attempt to get “best of both worlds”"
+  },
+  {
+    "objectID": "day_3/lecture/day_3.html#prediction-vs-inference",
+    "href": "day_3/lecture/day_3.html#prediction-vs-inference",
+    "title": "Week 3!",
+    "section": "Prediction vs inference",
+    "text": "Prediction vs inference\n\nDifferences in focus\n\nGood at predicting outcomes or understanding the process that leads to outcomes\n\nPrediction approaches\n\nTraining data and test data\nCross-validation and overfitting\nCares less about interpretability of the model or connection to theory\n\nSome of these can (and should!) be used by social scientists."
+  },
+  {
+    "objectID": "day_3/lecture/day_3.html#reproducibility",
+    "href": "day_3/lecture/day_3.html#reproducibility",
+    "title": "Week 3!",
+    "section": "Reproducibility",
+    "text": "Reproducibility\n\nCode and data can be shared really easily\nReplicate this paper?"
+  },
+  {
+    "objectID": "day_14/lecture/day_14.html#dad-joke",
+    "href": "day_14/lecture/day_14.html#dad-joke",
+    "title": "COM 674",
+    "section": "Dad Joke",
+    "text": "Dad Joke\nSay “mucho” to your friends who speak Spanish.\nIt means a lot to them"
+  },
+  {
+    "objectID": "day_14/lecture/day_14.html#housekeeping",
+    "href": "day_14/lecture/day_14.html#housekeeping",
+    "title": "COM 674",
+    "section": "Housekeeping",
+    "text": "Housekeeping\n\nEthics discussion on Thursday\nNo class next Tuesday\nPresentations during last week (~8 minutes each)\n\nFocus on 1-2 key points\n\nFinal project and SAR due the next week (~December 11)"
+  },
+  {
+    "objectID": "day_14/lecture/day_14.html#reflection",
+    "href": "day_14/lecture/day_14.html#reflection",
+    "title": "COM 674",
+    "section": "Reflection",
+    "text": "Reflection\n\nWhat topics do you wish we covered in class?\nAre there topics you’d like help finding resources for?"
+  },
+  {
+    "objectID": "day_14/lecture/day_14.html#plan-for-the-day",
+    "href": "day_14/lecture/day_14.html#plan-for-the-day",
+    "title": "COM 674",
+    "section": "Plan for the day",
+    "text": "Plan for the day\n\nCo-working"
+  },
+  {
+    "objectID": "day_12/lecture/day_12.html#dad-joke",
+    "href": "day_12/lecture/day_12.html#dad-joke",
+    "title": "COM 674",
+    "section": "Dad Joke",
+    "text": "Dad Joke\nWhen I was a kid we were so poor that we had to share a calculator, and the “X” button didn’t even work.\n Times were hard."
+  },
+  {
+    "objectID": "day_12/lecture/day_12.html#housekeeping",
+    "href": "day_12/lecture/day_12.html#housekeeping",
+    "title": "COM 674",
+    "section": "Housekeeping",
+    "text": "Housekeeping\n\nWeek 13 is up\nShould have data by now for your final project\nGroups for Week 12 assignment\nThe rest of the class\n\nGit\nAdditional topics"
+  },
+  {
+    "objectID": "day_12/lecture/day_12.html#cleaning-data",
+    "href": "day_12/lecture/day_12.html#cleaning-data",
+    "title": "COM 674",
+    "section": "Cleaning data",
+    "text": "Cleaning data\n\nWhy is data ‘dirty’?\n\nErrors in transcription\nBugs in software that produced it\nMissing data (e.g., when a date is unknown it’s recoded as Jan 1)\nCan’t be read by software\n\nWrong date format\nMultiple age formats - e.g., ‘4’, ‘4 yo’, ‘4 years’"
+  },
+  {
+    "objectID": "day_12/lecture/day_12.html#cleaning-data-1",
+    "href": "day_12/lecture/day_12.html#cleaning-data-1",
+    "title": "COM 674",
+    "section": "Cleaning data",
+    "text": "Cleaning data\n\nObservations that shouldn’t be in the analysis\nInappropriate for statistical tests\n\nlog-transformations\nCoding groups (e.g., high-risk and low-risk)"
+  },
+  {
+    "objectID": "day_12/lecture/day_12.html#operationalization",
+    "href": "day_12/lecture/day_12.html#operationalization",
+    "title": "COM 674",
+    "section": "Operationalization",
+    "text": "Operationalization\n\nMaking a construct measurable\n\nConstructs are not empirical and can’t be tested directly\nWe must argue that our measures represent or at least are correlated with the concepts we really care about\nHypotheses relate concepts together, e.g., “socially cohesive groups are more willing to contribute to shared goals”\nIn order to test this, need to argue that you have something that represents social cohesion, and something that represents shared goals."
+  },
+  {
+    "objectID": "day_12/lecture/day_12.html#online-data",
+    "href": "day_12/lecture/day_12.html#online-data",
+    "title": "COM 674",
+    "section": "Online data",
+    "text": "Online data\n\nOnline data is “raw”\n\nThis is generally wonderful - we have actual conversations, full text, etc.\n\nHowever, it isn’t made for researchers\n\nIt isn’t designed to measure a construct\nWe have to do the work to create measures that measure them (and recognize when we can’t)"
+  },
+  {
+    "objectID": "day_12/lecture/day_12.html#hw-review",
+    "href": "day_12/lecture/day_12.html#hw-review",
+    "title": "COM 674",
     "section": "HW Review",
     "text": "HW Review"
   },
   {
-    "objectID": "day_8/lecture/day_8.html#paper-discussion",
-    "href": "day_8/lecture/day_8.html#paper-discussion",
-    "title": "Intro to APIs",
-    "section": "Paper Discussion",
-    "text": "Paper Discussion\nKieran Healy and James Moody (2014). “Data Visualization in Sociology.” American Review of Sociology. 40: 105-28.\nDiscussant: Jeremy"
+    "objectID": "day_12/lecture/day_12.html#papers",
+    "href": "day_12/lecture/day_12.html#papers",
+    "title": "COM 674",
+    "section": "Papers",
+    "text": "Papers\nSara Klingenstein, Tim Hitchcock, and Simon DeDeo. 2014. The civilizing process in London’s Old Baily. Proceedings of the National Academy of Sciences"
   },
   {
-    "objectID": "day_6/lecture/day_6.html#weekly-dad-joke",
-    "href": "day_6/lecture/day_6.html#weekly-dad-joke",
-    "title": "Week 6: Pandas and Dataframes",
-    "section": "Weekly Dad Joke",
-    "text": "Weekly Dad Joke\nI accidentally swallowed a bunch of scrabble tiles.\n My next trip to the bathroom could spell disaster."
+    "objectID": "day_12/lecture/day_12.html#how-can-we-detect-changes-in-culture",
+    "href": "day_12/lecture/day_12.html#how-can-we-detect-changes-in-culture",
+    "title": "COM 674",
+    "section": "How can we detect changes in culture?",
+    "text": "How can we detect changes in culture?\n\nDigitization of historical records allows for comparison across time\n\nGoogle N-gram viewer\nCensuses\n\nThis paper uses court transcripts from London’s Old Bailey courthouse from 1760s-1910s"
   },
   {
-    "objectID": "day_6/lecture/day_6.html#housekeeping",
-    "href": "day_6/lecture/day_6.html#housekeeping",
-    "title": "Week 6: Pandas and Dataframes",
+    "objectID": "day_12/lecture/day_12.html#violent-and-non-violent-offenses-are-talked-about-differently",
+    "href": "day_12/lecture/day_12.html#violent-and-non-violent-offenses-are-talked-about-differently",
+    "title": "COM 674",
+    "section": "Violent and non-violent offenses are talked about differently",
+    "text": "Violent and non-violent offenses are talked about differently"
+  },
+  {
+    "objectID": "day_12/lecture/day_12.html#some-questions",
+    "href": "day_12/lecture/day_12.html#some-questions",
+    "title": "COM 674",
+    "section": "Some questions",
+    "text": "Some questions\n\nWhat are some of the dangers of doing this kind of work?\nWhat are some computational methods that are becoming “normalized” in your discipline?"
+  },
+  {
+    "objectID": "day_12/lecture/day_12.html#merton-paper",
+    "href": "day_12/lecture/day_12.html#merton-paper",
+    "title": "COM 674",
+    "section": "Merton Paper",
+    "text": "Merton Paper\nMerton, Robert K. 1948. The Bearing of Empirical Research upon the Development of Social Theory. American Sociological Review."
+  },
+  {
+    "objectID": "day_12/lecture/day_12.html#empirical-research-for-developing-theory",
+    "href": "day_12/lecture/day_12.html#empirical-research-for-developing-theory",
+    "title": "COM 674",
+    "section": "Empirical research for developing theory",
+    "text": "Empirical research for developing theory\n\nEmpirical work doesn’t just verify/test theories\nSerendipity: Something odd in data that needs an explanation\nRecasting: New aspects become more salient\nRefocusing: Advances in procedures lead to attention where things can be measured/tested\nClarification: Operationalizing concepts requires drawing boundaries around them"
+  },
+  {
+    "objectID": "day_10/lecture/day_10.html#dad-joke",
+    "href": "day_10/lecture/day_10.html#dad-joke",
+    "title": "Computational Text Analysis",
+    "section": "Dad Joke",
+    "text": "Dad Joke\nI wanted to marry a Carbon 14 expert but all she wanted to do was date"
+  },
+  {
+    "objectID": "day_10/lecture/day_10.html#housekeeping",
+    "href": "day_10/lecture/day_10.html#housekeeping",
+    "title": "Computational Text Analysis",
     "section": "Housekeeping",
-    "text": "Housekeeping\n\nProject Planning Doc\nSelf assessment doc\nOctober Break next week"
+    "text": "Housekeeping\n\nSelf-assessment reflection - sign up to talk to me"
   },
   {
-    "objectID": "day_6/lecture/day_6.html#homework-review",
-    "href": "day_6/lecture/day_6.html#homework-review",
-    "title": "Week 6: Pandas and Dataframes",
-    "section": "Homework Review",
-    "text": "Homework Review"
+    "objectID": "day_10/lecture/day_10.html#text-analysis",
+    "href": "day_10/lecture/day_10.html#text-analysis",
+    "title": "Computational Text Analysis",
+    "section": "Text Analysis",
+    "text": "Text Analysis\n\nThe Power of Counting\n\nWord frequency\nWord co-occurrence\nTF-IDF\n\nSentiment Analysis\n\nPositive vs. Negative\n\nClassification\n\nSupervised vs. Unsupervised\n\nTopic Modeling"
   },
   {
-    "objectID": "day_4/lecture/day_4.html#weekly-dad-joke",
-    "href": "day_4/lecture/day_4.html#weekly-dad-joke",
-    "title": "Week 4: Files",
-    "section": "Weekly Dad Joke",
-    "text": "Weekly Dad Joke\n\nMy girlfriend left me because I’m insecure…\n\n\nNevermind, she’s back. She just went to the bathroom."
+    "objectID": "assignments/week_9_coding_challenges.html",
+    "href": "assignments/week_9_coding_challenges.html",
+    "title": "Week 9 Coding Challenge",
+    "section": "",
+    "text": "In our earlier assignment, we played around with the Reddit API and you learned how to query APIs. In the project, we’re going to try to move from this technical understanding to actually using APIs to answer real questions.\nDo the following, in a Jupyter notebook:",
+    "crumbs": [
+      "Assignments",
+      "Coding Challenges",
+      "Week 9 Coding Challenge"
+    ]
   },
   {
-    "objectID": "day_4/lecture/day_4.html#housekeeping",
-    "href": "day_4/lecture/day_4.html#housekeeping",
-    "title": "Week 4: Files",
+    "objectID": "assignments/week_9_coding_challenges.html#the-question",
+    "href": "assignments/week_9_coding_challenges.html#the-question",
+    "title": "Week 9 Coding Challenge",
+    "section": "The Question",
+    "text": "The Question\nIdentify a question that Reddit data (or data gathered from another API) could help you to answer. Figure out a query that would gather that data.\n\nExplain the question you would like to answer, and why it is interesting.\nDescribe the data that you would like to gather, the analysis on the data that you would like to perform, and why it would answer the question",
+    "crumbs": [
+      "Assignments",
+      "Coding Challenges",
+      "Week 9 Coding Challenge"
+    ]
+  },
+  {
+    "objectID": "assignments/week_9_coding_challenges.html#gathering-data",
+    "href": "assignments/week_9_coding_challenges.html#gathering-data",
+    "title": "Week 9 Coding Challenge",
+    "section": "Gathering Data",
+    "text": "Gathering Data\n\nSave the raw data that you get from PRAW\nWrite code that filters the data into what you are interested in and saves it as a CSV file.",
+    "crumbs": [
+      "Assignments",
+      "Coding Challenges",
+      "Week 9 Coding Challenge"
+    ]
+  },
+  {
+    "objectID": "assignments/week_9_coding_challenges.html#analysis",
+    "href": "assignments/week_9_coding_challenges.html#analysis",
+    "title": "Week 9 Coding Challenge",
+    "section": "Analysis",
+    "text": "Analysis\n\nCome up with a visualization and/or statistical test that would help to answer your question.\nCreate that visualization or run that statistical test.",
+    "crumbs": [
+      "Assignments",
+      "Coding Challenges",
+      "Week 9 Coding Challenge"
+    ]
+  },
+  {
+    "objectID": "assignments/week_9_coding_challenges.html#submission",
+    "href": "assignments/week_9_coding_challenges.html#submission",
+    "title": "Week 9 Coding Challenge",
+    "section": "Submission",
+    "text": "Submission\nSubmit your completed work via Brightspace.",
+    "crumbs": [
+      "Assignments",
+      "Coding Challenges",
+      "Week 9 Coding Challenge"
+    ]
+  },
+  {
+    "objectID": "assignments/week_9_coding_challenges.html#presentation",
+    "href": "assignments/week_9_coding_challenges.html#presentation",
+    "title": "Week 9 Coding Challenge",
+    "section": "Presentation",
+    "text": "Presentation\nBe prepared to present your solution if randomly selected during class.",
+    "crumbs": [
+      "Assignments",
+      "Coding Challenges",
+      "Week 9 Coding Challenge"
+    ]
+  },
+  {
+    "objectID": "assignments/week_7_coding_challenges.html",
+    "href": "assignments/week_7_coding_challenges.html",
+    "title": "Week 7 Coding Challenge",
+    "section": "",
+    "text": "There are 7 exercises in today’s notebook. We will talk about the first five in class; the last two exercises are more open-ended and I would love everyone to upload your code and visualization to Element, so that we can all admire your work.",
+    "crumbs": [
+      "Assignments",
+      "Coding Challenges",
+      "Week 7 Coding Challenge"
+    ]
+  },
+  {
+    "objectID": "assignments/week_7_coding_challenges.html#submission",
+    "href": "assignments/week_7_coding_challenges.html#submission",
+    "title": "Week 7 Coding Challenge",
+    "section": "Submission",
+    "text": "Submission\nSubmit your completed work via Brightspace.",
+    "crumbs": [
+      "Assignments",
+      "Coding Challenges",
+      "Week 7 Coding Challenge"
+    ]
+  },
+  {
+    "objectID": "assignments/week_7_coding_challenges.html#presentation",
+    "href": "assignments/week_7_coding_challenges.html#presentation",
+    "title": "Week 7 Coding Challenge",
+    "section": "Presentation",
+    "text": "Presentation\nBe prepared to present your solution if randomly selected during class.",
+    "crumbs": [
+      "Assignments",
+      "Coding Challenges",
+      "Week 7 Coding Challenge"
+    ]
+  },
+  {
+    "objectID": "assignments/week_5_coding_challenges.html",
+    "href": "assignments/week_5_coding_challenges.html",
+    "title": "Week 5 Coding Challenge",
+    "section": "",
+    "text": "Chapter 9: Exercises 2, 3, 4, and 5*\nChapter 10: Exercises 1, 2, 3*",
+    "crumbs": [
+      "Assignments",
+      "Coding Challenges",
+      "Week 5 Coding Challenge"
+    ]
+  },
+  {
+    "objectID": "assignments/week_5_coding_challenges.html#python-for-everybody",
+    "href": "assignments/week_5_coding_challenges.html#python-for-everybody",
+    "title": "Week 5 Coding Challenge",
+    "section": "",
+    "text": "Chapter 9: Exercises 2, 3, 4, and 5*\nChapter 10: Exercises 1, 2, 3*",
+    "crumbs": [
+      "Assignments",
+      "Coding Challenges",
+      "Week 5 Coding Challenge"
+    ]
+  },
+  {
+    "objectID": "assignments/week_5_coding_challenges.html#dictionary-and-tuple-notebook",
+    "href": "assignments/week_5_coding_challenges.html#dictionary-and-tuple-notebook",
+    "title": "Week 5 Coding Challenge",
+    "section": "Dictionary and Tuple Notebook",
+    "text": "Dictionary and Tuple Notebook\nComplete the exercises in today’s notebook.",
+    "crumbs": [
+      "Assignments",
+      "Coding Challenges",
+      "Week 5 Coding Challenge"
+    ]
+  },
+  {
+    "objectID": "assignments/week_5_coding_challenges.html#baby-name-challenges",
+    "href": "assignments/week_5_coding_challenges.html#baby-name-challenges",
+    "title": "Week 5 Coding Challenge",
+    "section": "Baby Name Challenges",
+    "text": "Baby Name Challenges\nDownload the baby names data and code and complete each of the exercises.\n\nAbove and beyond\n\nWrite a function that takes a prefix as input and prints the number of boys and girls with that prefix (e.g., get_names(“m”) would list all names that start with “m” and get_names(“ma”) would only list those that start with “ma”).\nPlot (in Excel) the number of people who share a name with n other people in the data set, where n is 4 to 19.",
+    "crumbs": [
+      "Assignments",
+      "Coding Challenges",
+      "Week 5 Coding Challenge"
+    ]
+  },
+  {
+    "objectID": "assignments/week_5_coding_challenges.html#submission",
+    "href": "assignments/week_5_coding_challenges.html#submission",
+    "title": "Week 5 Coding Challenge",
+    "section": "Submission",
+    "text": "Submission\nSubmit your completed work via Brightspace.",
+    "crumbs": [
+      "Assignments",
+      "Coding Challenges",
+      "Week 5 Coding Challenge"
+    ]
+  },
+  {
+    "objectID": "assignments/week_5_coding_challenges.html#presentation",
+    "href": "assignments/week_5_coding_challenges.html#presentation",
+    "title": "Week 5 Coding Challenge",
+    "section": "Presentation",
+    "text": "Presentation\nBe prepared to present your solution if randomly selected during class.",
+    "crumbs": [
+      "Assignments",
+      "Coding Challenges",
+      "Week 5 Coding Challenge"
+    ]
+  },
+  {
+    "objectID": "assignments/week_3_coding_challenges.html",
+    "href": "assignments/week_3_coding_challenges.html",
+    "title": "Week 3 Coding Challenge",
+    "section": "",
+    "text": "Chapter 5: Exercises 1, 2\nChapter 6: Exercise 5\nChapter 8: Exercises 4, 5, and 6",
+    "crumbs": [
+      "Assignments",
+      "Coding Challenges",
+      "Week 3 Coding Challenge"
+    ]
+  },
+  {
+    "objectID": "assignments/week_3_coding_challenges.html#questions-from-python-for-everybody",
+    "href": "assignments/week_3_coding_challenges.html#questions-from-python-for-everybody",
+    "title": "Week 3 Coding Challenge",
+    "section": "",
+    "text": "Chapter 5: Exercises 1, 2\nChapter 6: Exercise 5\nChapter 8: Exercises 4, 5, and 6",
+    "crumbs": [
+      "Assignments",
+      "Coding Challenges",
+      "Week 3 Coding Challenge"
+    ]
+  },
+  {
+    "objectID": "assignments/week_3_coding_challenges.html#wordplay-challenges",
+    "href": "assignments/week_3_coding_challenges.html#wordplay-challenges",
+    "title": "Week 3 Coding Challenge",
+    "section": "Wordplay Challenges",
+    "text": "Wordplay Challenges\nDownload this zip file and extract it to your Desktop (or the folder you are using for the class). Open the file “Wordplay Examples.ipynb” and run the first cell to make sure that it’s working.\nUse the examples given to answer the following questions:\n\nFind all words that start with ‘a’ and are 9 or more letters long.\nWhat is the longest word that starts with a ‘q’?\nFind all words that end with ‘nge’\nFind a word that matches “aey” (here ”” means any letter). Are there any words that match?\nPrint every other word that matches the condition in (1) above.\nFind at least one word that uses all five vowels in order.",
+    "crumbs": [
+      "Assignments",
+      "Coding Challenges",
+      "Week 3 Coding Challenge"
+    ]
+  },
+  {
+    "objectID": "assignments/week_3_coding_challenges.html#submission",
+    "href": "assignments/week_3_coding_challenges.html#submission",
+    "title": "Week 3 Coding Challenge",
+    "section": "Submission",
+    "text": "Submission\nSubmit your completed work via Brightspace.",
+    "crumbs": [
+      "Assignments",
+      "Coding Challenges",
+      "Week 3 Coding Challenge"
+    ]
+  },
+  {
+    "objectID": "assignments/week_3_coding_challenges.html#presentation",
+    "href": "assignments/week_3_coding_challenges.html#presentation",
+    "title": "Week 3 Coding Challenge",
+    "section": "Presentation",
+    "text": "Presentation\nBe prepared to present your solution if randomly selected during class.",
+    "crumbs": [
+      "Assignments",
+      "Coding Challenges",
+      "Week 3 Coding Challenge"
+    ]
+  },
+  {
+    "objectID": "assignments/week_1_coding_challenge.html",
+    "href": "assignments/week_1_coding_challenge.html",
+    "title": "Week 1 Coding Challenge",
+    "section": "",
+    "text": "Our goal is to get your computer set up with the software you will need for this course and to get started with some basic programming concepts.\nWork through the goals on this page in order; they should take around 2 hours. Don’t hesitate to ask for help!",
+    "crumbs": [
+      "Assignments",
+      "Coding Challenges",
+      "Week 1 Coding Challenge"
+    ]
+  },
+  {
+    "objectID": "assignments/week_1_coding_challenge.html#goal-1-set-up-python-and-make-a-class-folder",
+    "href": "assignments/week_1_coding_challenge.html#goal-1-set-up-python-and-make-a-class-folder",
+    "title": "Week 1 Coding Challenge",
+    "section": "Goal #1: Set up Python and make a class folder",
+    "text": "Goal #1: Set up Python and make a class folder\n(Estimated time: 15 minutes)\n\nFirst things first: We are going to install “Miniconda”. This includes Python and a package manager, for installing more stuff. You should be able to install it from https://docs.anaconda.com/miniconda/.\nWe are also going to install VSCode. This is an IDE, which is an application designed to make programming easier. Find your operating system on this page and follow the instructions.\nNext, let’s install the packages we’ll need for the class. Open VSCode, and click Terminal &gt; New Terminal. In the terminal window (at the bottom), type conda install pandas seaborn jupyterlab. It will ask if you want to install a whole bunch of stuff. Type y and press enter.\nOnce you have VSCode installed, you should also install the Python, Jupyter, Quarto, and Github Copilot extensions. Extension search can be found on the left-hand menu, or with Ctrl-Shift-X.\nYou should also make a folder to use for your class files. A dedicated folder will help you keep track of all the items you download or write as part of the class, and make them easier to find later. One of the secrets of data science is being kind to your future self by being extremely organized. You may want to create sub-folders like Programming Challenges and Final Project. In VSCode, open the folder by clicking File &gt; Open Folder....",
+    "crumbs": [
+      "Assignments",
+      "Coding Challenges",
+      "Week 1 Coding Challenge"
+    ]
+  },
+  {
+    "objectID": "assignments/week_1_coding_challenge.html#goal-2-practice-running-python-code-from-an-existing-jupyter-notebook",
+    "href": "assignments/week_1_coding_challenge.html#goal-2-practice-running-python-code-from-an-existing-jupyter-notebook",
+    "title": "Week 1 Coding Challenge",
+    "section": "Goal #2: Practice running Python code from an existing Jupyter notebook",
+    "text": "Goal #2: Practice running Python code from an existing Jupyter notebook\n(Estimated time: 5 minutes)\nWe’re going to use Jupyter notebooks to write and run Python throughout the class. Jupyter notebooks can mix together text and code. You can make changes and immediately see what happens and you can even export them to different file formats. In this section of the setup process, we’ll try out your Python setup by running code in an existing notebook.\nRight click this link, save it to your computer, and then open it in VSCode. Run each of the cells and read through the instructions.",
+    "crumbs": [
+      "Assignments",
+      "Coding Challenges",
+      "Week 1 Coding Challenge"
+    ]
+  },
+  {
+    "objectID": "assignments/week_1_coding_challenge.html#goal-3-start-learning-python",
+    "href": "assignments/week_1_coding_challenge.html#goal-3-start-learning-python",
+    "title": "Week 1 Coding Challenge",
+    "section": "Goal #3: Start learning Python!",
+    "text": "Goal #3: Start learning Python!\n(Estimated time: 60 - 90 minutes)\nIt’s time to start learning, reading, and writing some Python! This is a self-directed tutorial that goes through some of the basic syntax and concepts which we will come back to and explain further over the next few weeks.\nDay 1 Tutorial",
+    "crumbs": [
+      "Assignments",
+      "Coding Challenges",
+      "Week 1 Coding Challenge"
+    ]
+  },
+  {
+    "objectID": "assignments/week_1_coding_challenge.html#goal-4-practice-python-using-learnpython",
+    "href": "assignments/week_1_coding_challenge.html#goal-4-practice-python-using-learnpython",
+    "title": "Week 1 Coding Challenge",
+    "section": "Goal #4: Practice Python using LearnPython",
+    "text": "Goal #4: Practice Python using LearnPython\n(Estimated time: 30 - 60 minutes)\nIt’s time to use what we’ve learned in the tutorial and get some practice thinking about and solving problems in Python.\nYour next task is to work through the first two lessons on learnpython.org (there are many lessons, so don’t just keep hitting “Next” or you’ll never finish!):\n\nHello, World\nVariables and Types\n\nYou may find the LearnPython interface is different from your Jupyter Notebook. No worries, it’s still Python, even though it looks a bit different. You could do these lessons in Jupyter Notebook by copying & pasting the code in the left-hand boxes from LearnPython into Jupyter Notebook cells and run them from Jupyter.",
+    "crumbs": [
+      "Assignments",
+      "Coding Challenges",
+      "Week 1 Coding Challenge"
+    ]
+  },
+  {
+    "objectID": "assignments/week_1_coding_challenge.html#submission",
+    "href": "assignments/week_1_coding_challenge.html#submission",
+    "title": "Week 1 Coding Challenge",
+    "section": "Submission",
+    "text": "Submission\nSubmit your completed work via Brightspace.",
+    "crumbs": [
+      "Assignments",
+      "Coding Challenges",
+      "Week 1 Coding Challenge"
+    ]
+  },
+  {
+    "objectID": "assignments/week_12_coding_challenges.html",
+    "href": "assignments/week_12_coding_challenges.html",
+    "title": "Week 12 Coding Challenge",
+    "section": "",
+    "text": "Today’s coding challenges are really simple:\nThis should be pretty quick and I encourage you to use some time today to go back to a lesson that is confusing and do some work to understand it better.",
+    "crumbs": [
+      "Assignments",
+      "Coding Challenges",
+      "Week 12 Coding Challenge"
+    ]
+  },
+  {
+    "objectID": "assignments/week_12_coding_challenges.html#submission",
+    "href": "assignments/week_12_coding_challenges.html#submission",
+    "title": "Week 12 Coding Challenge",
+    "section": "Submission",
+    "text": "Submission\nSubmit your completed work via Brightspace.",
+    "crumbs": [
+      "Assignments",
+      "Coding Challenges",
+      "Week 12 Coding Challenge"
+    ]
+  },
+  {
+    "objectID": "assignments/week_12_coding_challenges.html#presentation",
+    "href": "assignments/week_12_coding_challenges.html#presentation",
+    "title": "Week 12 Coding Challenge",
+    "section": "Presentation",
+    "text": "Presentation\nBe prepared to present your solution if randomly selected during class.",
+    "crumbs": [
+      "Assignments",
+      "Coding Challenges",
+      "Week 12 Coding Challenge"
+    ]
+  },
+  {
+    "objectID": "assignments/week_10_coding_challenges.html",
+    "href": "assignments/week_10_coding_challenges.html",
+    "title": "Week 10 Coding Challenge",
+    "section": "",
+    "text": "Today’s notebook only has four exercises, but they are tough.",
+    "crumbs": [
+      "Assignments",
+      "Coding Challenges",
+      "Week 10 Coding Challenge"
+    ]
+  },
+  {
+    "objectID": "assignments/week_10_coding_challenges.html#submission",
+    "href": "assignments/week_10_coding_challenges.html#submission",
+    "title": "Week 10 Coding Challenge",
+    "section": "Submission",
+    "text": "Submission\nSubmit your completed work via Brightspace.",
+    "crumbs": [
+      "Assignments",
+      "Coding Challenges",
+      "Week 10 Coding Challenge"
+    ]
+  },
+  {
+    "objectID": "assignments/week_10_coding_challenges.html#presentation",
+    "href": "assignments/week_10_coding_challenges.html#presentation",
+    "title": "Week 10 Coding Challenge",
+    "section": "Presentation",
+    "text": "Presentation\nBe prepared to present your solution if randomly selected during class.",
+    "crumbs": [
+      "Assignments",
+      "Coding Challenges",
+      "Week 10 Coding Challenge"
+    ]
+  },
+  {
+    "objectID": "assignments/project_report.html",
+    "href": "assignments/project_report.html",
+    "title": "Project Report",
+    "section": "",
+    "text": "Due date: May 4\nMaximum length: 4000 words (~15 pages)",
+    "crumbs": [
+      "Assignments",
+      "Research Project",
+      "Project Report"
+    ]
+  },
+  {
+    "objectID": "assignments/project_report.html#overview",
+    "href": "assignments/project_report.html#overview",
+    "title": "Project Report",
+    "section": "Overview",
+    "text": "Overview\nYou will write a document or a Jupyter Notebook that will ideally provide the foundation for a high quality short research paper that you might revise and submit for publication. I do not expect the report to be ready for publication, but it should contain polished drafts of all the necessary components of a scholarly quantitative empirical research study.",
+    "crumbs": [
+      "Assignments",
+      "Research Project",
+      "Project Report"
+    ]
+  },
+  {
+    "objectID": "assignments/project_report.html#format-options",
+    "href": "assignments/project_report.html#format-options",
+    "title": "Project Report",
+    "section": "Format Options",
+    "text": "Format Options\n\nJupyter Notebook (Recommended)\nThe great thing about a Jupyter Notebook is that it allows you to provide data, code, and any documentation sufficient to enable the replication of all analysis and visualizations.\n\n\nWord Document\nIf you choose to write the report as a Word document, then you will need to include the code in a separate file.",
+    "crumbs": [
+      "Assignments",
+      "Research Project",
+      "Project Report"
+    ]
+  },
+  {
+    "objectID": "assignments/project_report.html#content-requirements",
+    "href": "assignments/project_report.html#content-requirements",
+    "title": "Project Report",
+    "section": "Content Requirements",
+    "text": "Content Requirements\nYour report should include:\n\nBrief summary of the purpose and importance of this research\nResearch questions or hypotheses\nMethods: How you collected and processed the data\nAnalysis: Visualizations, tables, and statistical tests\nResults and Discussion: Interpretation of your findings\nCode and data: Sufficient for replication",
+    "crumbs": [
+      "Assignments",
+      "Research Project",
+      "Project Report"
+    ]
+  },
+  {
+    "objectID": "assignments/project_report.html#what-you-can-skip",
+    "href": "assignments/project_report.html#what-you-can-skip",
+    "title": "Project Report",
+    "section": "What You Can Skip",
+    "text": "What You Can Skip\nBecause the emphasis in this class is on methods and because I’m not an expert in each of your fields, I’m happy to assume that your paper has already established: - The relevance and significance of your study - A comprehensive literature review - A well-grounded conceptual approach - Compelling reason why this research is important\nYou do not need to focus extensively on these elements in your written submission.",
+    "crumbs": [
+      "Assignments",
+      "Research Project",
+      "Project Report"
+    ]
+  },
+  {
+    "objectID": "assignments/project_report.html#citations",
+    "href": "assignments/project_report.html#citations",
+    "title": "Project Report",
+    "section": "Citations",
+    "text": "Citations\nJupyter Notebooks do not have all of the tools for citations that Word or LaTeX or even Google Docs have, so while I expect you to cite related work your references section does not need to be as polished as citation management software would make it.",
+    "crumbs": [
+      "Assignments",
+      "Research Project",
+      "Project Report"
+    ]
+  },
+  {
+    "objectID": "assignments/project_report.html#submission",
+    "href": "assignments/project_report.html#submission",
+    "title": "Project Report",
+    "section": "Submission",
+    "text": "Submission\nSubmit your report via Brightspace.",
+    "crumbs": [
+      "Assignments",
+      "Research Project",
+      "Project Report"
+    ]
+  },
+  {
+    "objectID": "assignments/project_report.html#tips",
+    "href": "assignments/project_report.html#tips",
+    "title": "Project Report",
+    "section": "Tips",
+    "text": "Tips\n\nEnsure your work is replicable\nProvide clear documentation\nInclude well-labeled visualizations\nMake sure your code runs without errors",
+    "crumbs": [
+      "Assignments",
+      "Research Project",
+      "Project Report"
+    ]
+  },
+  {
+    "objectID": "assignments/project_planning.html",
+    "href": "assignments/project_planning.html",
+    "title": "Project Planning Document",
+    "section": "",
+    "text": "Due date: March 10\nMaximum length: ~4-5 pages",
+    "crumbs": [
+      "Assignments",
+      "Research Project",
+      "Project Planning Document"
+    ]
+  },
+  {
+    "objectID": "assignments/project_planning.html#overview",
+    "href": "assignments/project_planning.html#overview",
+    "title": "Project Planning Document",
+    "section": "Overview",
+    "text": "Overview\nThe project planning document is a basic shell/outline of an empirical quantitative research paper.",
+    "crumbs": [
+      "Assignments",
+      "Research Project",
+      "Project Planning Document"
+    ]
+  },
+  {
+    "objectID": "assignments/project_planning.html#three-big-questions",
+    "href": "assignments/project_planning.html#three-big-questions",
+    "title": "Project Planning Document",
+    "section": "Three Big Questions",
+    "text": "Three Big Questions\nThe planning document should focus around three big questions:\n\n1. Why are you planning to do this analysis?\nMake sure to introduce any background information about the topic, the community, your business, or anything else that will be required to properly contextualize your study.\n\n\n2. How will you get the data to analyze?\nDescribe the data sources you will collect and how they will be collected.\n\n\n3. How will you analyze the data?\nDescribe the visualizations, tables, or statistical tests that you will produce.",
+    "crumbs": [
+      "Assignments",
+      "Research Project",
+      "Project Planning Document"
+    ]
+  },
+  {
+    "objectID": "assignments/project_planning.html#submission",
+    "href": "assignments/project_planning.html#submission",
+    "title": "Project Planning Document",
+    "section": "Submission",
+    "text": "Submission\nSubmit your planning document via Brightspace.",
+    "crumbs": [
+      "Assignments",
+      "Research Project",
+      "Project Planning Document"
+    ]
+  },
+  {
+    "objectID": "assignments/project_planning.html#resources",
+    "href": "assignments/project_planning.html#resources",
+    "title": "Project Planning Document",
+    "section": "Resources",
+    "text": "Resources\n\nSee the planning document guide for a helpful approach.",
+    "crumbs": [
+      "Assignments",
+      "Research Project",
+      "Project Planning Document"
+    ]
+  },
+  {
+    "objectID": "assignments/final_self_reflection.html",
+    "href": "assignments/final_self_reflection.html",
+    "title": "Final Self-Reflection",
+    "section": "",
+    "text": "Due date: May 4",
+    "crumbs": [
+      "Assignments",
+      "Reflections",
+      "Final Self-Reflection"
+    ]
+  },
+  {
+    "objectID": "assignments/final_self_reflection.html#overview",
+    "href": "assignments/final_self_reflection.html#overview",
+    "title": "Final Self-Reflection",
+    "section": "Overview",
+    "text": "Overview\nThis final reflection is your opportunity to assess your learning and growth throughout the entire course. By the end of the semester, you should have a clear vision of your accomplishments and growth, which you will turn into a grade recommendation.",
+    "crumbs": [
+      "Assignments",
+      "Reflections",
+      "Final Self-Reflection"
+    ]
+  },
+  {
+    "objectID": "assignments/final_self_reflection.html#questions-to-address",
+    "href": "assignments/final_self_reflection.html#questions-to-address",
+    "title": "Final Self-Reflection",
+    "section": "Questions to Address",
+    "text": "Questions to Address\nPlease respond to the following:\n\nCourse Goals: Review your initial learning goals. To what extent did you achieve them?\nAccomplishments: What are your major accomplishments from this course?\nGrowth: How have you grown as a programmer and data scientist?\nChallenges: What were the biggest challenges you faced and how did you overcome them?\nSkills: What specific skills have you developed that you will use in the future?\nFinal Project: Reflect on your final project. What are you proud of? What would you do differently?\nGrade Assessment: Based on the grading rubric in the syllabus and your honest and meaningful reflection of your work, what grade do you believe you have earned? Provide specific evidence for your assessment using the rubric:\n\nClass participation (25%)\nFinal Project Idea (5%)\nFinal Project Proposal (10%)\nFinal Project paper/Jupyter notebook (40%)\nFinal Presentation (20%)\n\nFuture Learning: What computational methods or data science topics would you like to learn next?",
+    "crumbs": [
+      "Assignments",
+      "Reflections",
+      "Final Self-Reflection"
+    ]
+  },
+  {
+    "objectID": "assignments/final_self_reflection.html#submission",
+    "href": "assignments/final_self_reflection.html#submission",
+    "title": "Final Self-Reflection",
+    "section": "Submission",
+    "text": "Submission\nSubmit your reflection via Brightspace.",
+    "crumbs": [
+      "Assignments",
+      "Reflections",
+      "Final Self-Reflection"
+    ]
+  },
+  {
+    "objectID": "assignments/final_self_reflection.html#format",
+    "href": "assignments/final_self_reflection.html#format",
+    "title": "Final Self-Reflection",
+    "section": "Format",
+    "text": "Format\nThis should be a comprehensive and thoughtful reflection. Aim for 3-5 pages total.",
+    "crumbs": [
+      "Assignments",
+      "Reflections",
+      "Final Self-Reflection"
+    ]
+  },
+  {
+    "objectID": "assignments/final_self_reflection.html#note",
+    "href": "assignments/final_self_reflection.html#note",
+    "title": "Final Self-Reflection",
+    "section": "Note",
+    "text": "Note\nAs the instructor-of-record, I maintain the right to disagree with your assessment and alter grades as I see fit, but any time that I do this it will be accompanied by an explanation and discussion. These personal assessments, reflecting both honest and meaningful reflection of your work will be the most important factor in final grades.",
+    "crumbs": [
+      "Assignments",
+      "Reflections",
+      "Final Self-Reflection"
+    ]
+  },
+  {
+    "objectID": "assignments/assignments.html",
+    "href": "assignments/assignments.html",
+    "title": "Assignments",
+    "section": "",
+    "text": "This page provides links to all of the assignments for the course.",
+    "crumbs": [
+      "Assignments",
+      "Overview"
+    ]
+  },
+  {
+    "objectID": "assignments/assignments.html#assignment-types",
+    "href": "assignments/assignments.html#assignment-types",
+    "title": "Assignments",
+    "section": "Assignment Types",
+    "text": "Assignment Types\nThere are three main types of assignments in this course:\n\n1. Coding Challenges\nNearly every week you will have a set of coding challenges to complete. These coding challenges will be turned in on Brightspace but will not be graded. I encourage you to work together on these challenges but to make sure that you understand the concepts yourself.\nEach day I will randomly select a set of students to share their solutions to a selected exercise. If you can’t figure out the problem that’s been assigned to you, then explain where you got stuck and what you tried.\n\n\n2. Research Project\nAs a demonstration of your learning in this course, you will design and carry out a quantitative research project, start to finish. The project has several milestones:\n\nProject Idea and Dataset Identification - Due September 3\nProject Planning Document - Due October 15\nProject Presentation - Due December 3 & 5\nProject Report - Due December 11\n\n\n\n3. Reflection Papers\nTwo times during the course you will respond to a set of reflection questions:\n\nSelf-Assessment Reflection - Due October 15\nFinal Self-Reflection - Due December 12",
+    "crumbs": [
+      "Assignments",
+      "Overview"
+    ]
+  },
+  {
+    "objectID": "assignments/assignments.html#weekly-coding-challenges",
+    "href": "assignments/assignments.html#weekly-coding-challenges",
+    "title": "Assignments",
+    "section": "Weekly Coding Challenges",
+    "text": "Weekly Coding Challenges\n\nWeek 1 Coding Challenge\nWeek 2 Coding Challenges\nWeek 3 Coding Challenges\nWeek 4 Coding Challenges\nWeek 5 Coding Challenges\nWeek 6 Coding Challenges\nWeek 7 Coding Challenges\nWeek 8 Coding Challenges\nWeek 9 Coding Challenges\nWeek 10 Coding Challenges\nWeek 11 Coding Challenges\nWeek 12 Coding Challenges\nWeek 13 Coding Challenges",
+    "crumbs": [
+      "Assignments",
+      "Overview"
+    ]
+  },
+  {
+    "objectID": "assignments/assignments.html#paper-discussions",
+    "href": "assignments/assignments.html#paper-discussions",
+    "title": "Assignments",
+    "section": "Paper Discussions",
+    "text": "Paper Discussions\nEvery Thursday we will review a paper that uses computational methods. On the first day, you will sign up to lead the discussion for one or more of these papers. When leading the discussion, you will prepare a presentation as though you were presenting the paper at a conference and then lead a discussion about it.\nSee the schedule for the list of papers we’ll be discussing each week.",
+    "crumbs": [
+      "Assignments",
+      "Overview"
+    ]
+  },
+  {
+    "objectID": "assignments/project_idea.html",
+    "href": "assignments/project_idea.html",
+    "title": "Project Idea and Dataset Identification",
+    "section": "",
+    "text": "Due date: February 3\nMaximum length: 500 words (~1-2 pages)",
+    "crumbs": [
+      "Assignments",
+      "Research Project",
+      "Project Idea and Dataset Identification"
+    ]
+  },
+  {
+    "objectID": "assignments/project_idea.html#overview",
+    "href": "assignments/project_idea.html#overview",
+    "title": "Project Idea and Dataset Identification",
+    "section": "Overview",
+    "text": "Overview\nEarly on, I want you to identify and describe your final project. Your description should be short and can be either paragraphs or bullets.",
+    "crumbs": [
+      "Assignments",
+      "Research Project",
+      "Project Idea and Dataset Identification"
+    ]
+  },
+  {
+    "objectID": "assignments/project_idea.html#requirements",
+    "href": "assignments/project_idea.html#requirements",
+    "title": "Project Idea and Dataset Identification",
+    "section": "Requirements",
+    "text": "Requirements\nYour project idea should include the following:\n\nAbstract: An abstract of the proposed study including:\n\nThe topic\nResearch question\nTheoretical motivation\nObject(s) of study\nAnticipated research contribution\n\nDataset Identification: An identification of the dataset you will use and a description of the columns or type of data it will include. If you do not currently have access to these data, explain why not and when you will have access.\nCareer Trajectory: A short (several sentences) description of how the project will fit into your career trajectory.",
+    "crumbs": [
+      "Assignments",
+      "Research Project",
+      "Project Idea and Dataset Identification"
+    ]
+  },
+  {
+    "objectID": "assignments/project_idea.html#submission",
+    "href": "assignments/project_idea.html#submission",
+    "title": "Project Idea and Dataset Identification",
+    "section": "Submission",
+    "text": "Submission\nSubmit your project idea via Brightspace.",
+    "crumbs": [
+      "Assignments",
+      "Research Project",
+      "Project Idea and Dataset Identification"
+    ]
+  },
+  {
+    "objectID": "assignments/project_idea.html#tips",
+    "href": "assignments/project_idea.html#tips",
+    "title": "Project Idea and Dataset Identification",
+    "section": "Tips",
+    "text": "Tips\n\nI strongly urge you to work on a project that will further your academic career outside of the class.\nConsider projects that could lead to publication, pilot analysis for grants or thesis proposals, or fulfill degree requirements.\nYou may work in teams of up to 3 people, but team projects are expected to be more ambitious.\nIf you need ideas for datasets, check out available open datasets.",
+    "crumbs": [
+      "Assignments",
+      "Research Project",
+      "Project Idea and Dataset Identification"
+    ]
+  },
+  {
+    "objectID": "assignments/project_presentation.html",
+    "href": "assignments/project_presentation.html",
+    "title": "Project Presentation",
+    "section": "",
+    "text": "Due date: December 3 and December 5\nMaximum length: 8 minutes",
+    "crumbs": [
+      "Assignments",
+      "Research Project",
+      "Project Presentation"
+    ]
+  },
+  {
+    "objectID": "assignments/project_presentation.html#overview",
+    "href": "assignments/project_presentation.html#overview",
+    "title": "Project Presentation",
+    "section": "Overview",
+    "text": "Overview\nThe presentation will provide an opportunity to share a brief summary of your project and findings with the other members of the class.",
+    "crumbs": [
+      "Assignments",
+      "Research Project",
+      "Project Presentation"
+    ]
+  },
+  {
+    "objectID": "assignments/project_presentation.html#guidelines",
+    "href": "assignments/project_presentation.html#guidelines",
+    "title": "Project Presentation",
+    "section": "Guidelines",
+    "text": "Guidelines\n\nDon’t treat it as a comprehensive overview of your paper\nI would rather you tell a subset of the story well than the whole story in a rushed fashion\nFor instance, you can give a completely successful presentation by describing the motivation and walking through one plot in your paper",
+    "crumbs": [
+      "Assignments",
+      "Research Project",
+      "Project Presentation"
+    ]
+  },
+  {
+    "objectID": "assignments/project_presentation.html#format",
+    "href": "assignments/project_presentation.html#format",
+    "title": "Project Presentation",
+    "section": "Format",
+    "text": "Format\nI anticipate that most people will either: - Create a PowerPoint presentation, or - Walk us through a simple Jupyter Notebook\nAll presentations must be a maximum of 8 minutes long. Concisely communicating an idea in the time allotted is an important skill in its own right.",
+    "crumbs": [
+      "Assignments",
+      "Research Project",
+      "Project Presentation"
+    ]
+  },
+  {
+    "objectID": "assignments/project_presentation.html#submission",
+    "href": "assignments/project_presentation.html#submission",
+    "title": "Project Presentation",
+    "section": "Submission",
+    "text": "Submission\nPresentations should be uploaded to the Discussion forum on Brightspace created for this purpose.",
+    "crumbs": [
+      "Assignments",
+      "Research Project",
+      "Project Presentation"
+    ]
+  },
+  {
+    "objectID": "assignments/project_presentation.html#tips",
+    "href": "assignments/project_presentation.html#tips",
+    "title": "Project Presentation",
+    "section": "Tips",
+    "text": "Tips\nSince many of you will give many research presentations throughout your career, I strongly encourage you to take the opportunity to refine your academic presentation skills.",
+    "crumbs": [
+      "Assignments",
+      "Research Project",
+      "Project Presentation"
+    ]
+  },
+  {
+    "objectID": "assignments/self_assessment_reflection.html",
+    "href": "assignments/self_assessment_reflection.html",
+    "title": "Self-Assessment Reflection",
+    "section": "",
+    "text": "Due date: October 15",
+    "crumbs": [
+      "Assignments",
+      "Reflections",
+      "Self-Assessment Reflection"
+    ]
+  },
+  {
+    "objectID": "assignments/self_assessment_reflection.html#overview",
+    "href": "assignments/self_assessment_reflection.html#overview",
+    "title": "Self-Assessment Reflection",
+    "section": "Overview",
+    "text": "Overview\nThis reflection is intended to help you to think about what you have learned and accomplished and to craft goals for the remainder of the course. It is also an important way for me to gather feedback about how the course is going so that I can adjust.",
+    "crumbs": [
+      "Assignments",
+      "Reflections",
+      "Self-Assessment Reflection"
+    ]
+  },
+  {
+    "objectID": "assignments/self_assessment_reflection.html#questions-to-address",
+    "href": "assignments/self_assessment_reflection.html#questions-to-address",
+    "title": "Self-Assessment Reflection",
+    "section": "Questions to Address",
+    "text": "Questions to Address\nPlease respond to the following:\n\nLearning Goals: What did you hope to learn at the beginning of this course?\nAccomplishments: What have you accomplished so far in the course?\nChallenges: What challenges have you faced? How have you addressed them?\nGoals: What are your goals for the remainder of the course?\nSelf-Assessment: Based on the grading rubric in the syllabus, how would you assess your performance so far?\nCourse Feedback: What is working well in the course? What could be improved?",
+    "crumbs": [
+      "Assignments",
+      "Reflections",
+      "Self-Assessment Reflection"
+    ]
+  },
+  {
+    "objectID": "assignments/self_assessment_reflection.html#submission",
+    "href": "assignments/self_assessment_reflection.html#submission",
+    "title": "Self-Assessment Reflection",
+    "section": "Submission",
+    "text": "Submission\nSubmit your reflection via Brightspace.",
+    "crumbs": [
+      "Assignments",
+      "Reflections",
+      "Self-Assessment Reflection"
+    ]
+  },
+  {
+    "objectID": "assignments/self_assessment_reflection.html#format",
+    "href": "assignments/self_assessment_reflection.html#format",
+    "title": "Self-Assessment Reflection",
+    "section": "Format",
+    "text": "Format\nThis should be a thoughtful reflection, not just brief answers. Aim for 2-3 pages total.",
+    "crumbs": [
+      "Assignments",
+      "Reflections",
+      "Self-Assessment Reflection"
+    ]
+  },
+  {
+    "objectID": "assignments/week_11_coding_challenges.html",
+    "href": "assignments/week_11_coding_challenges.html",
+    "title": "Week 11 Coding Challenge",
+    "section": "",
+    "text": "Go through the notebook and do the problems.\nPlay around with the notebook and do some new analyses.",
+    "crumbs": [
+      "Assignments",
+      "Coding Challenges",
+      "Week 11 Coding Challenge"
+    ]
+  },
+  {
+    "objectID": "assignments/week_11_coding_challenges.html#submission",
+    "href": "assignments/week_11_coding_challenges.html#submission",
+    "title": "Week 11 Coding Challenge",
+    "section": "Submission",
+    "text": "Submission\nSubmit your completed work via Brightspace.",
+    "crumbs": [
+      "Assignments",
+      "Coding Challenges",
+      "Week 11 Coding Challenge"
+    ]
+  },
+  {
+    "objectID": "assignments/week_11_coding_challenges.html#presentation",
+    "href": "assignments/week_11_coding_challenges.html#presentation",
+    "title": "Week 11 Coding Challenge",
+    "section": "Presentation",
+    "text": "Presentation\nBe prepared to present your solution if randomly selected during class.",
+    "crumbs": [
+      "Assignments",
+      "Coding Challenges",
+      "Week 11 Coding Challenge"
+    ]
+  },
+  {
+    "objectID": "assignments/week_13_coding_challenges.html",
+    "href": "assignments/week_13_coding_challenges.html",
+    "title": "Week 13 Coding Challenge",
+    "section": "",
+    "text": "Load the example project at https://github.com/jdfoote/Intro-to-Programming-and-Data-Science/raw/refs/heads/master/day_13/example_project.zip\nTweak it to answer your own question using Reddit data. See if you can create your own visualization.\nYou probably won’t be able to get the LaTeX portion to work because it requires installing LaTeX on your computer, which I actually don’t recommend - I recommend using Overleaf instead.",
+    "crumbs": [
+      "Assignments",
+      "Coding Challenges",
+      "Week 13 Coding Challenge"
+    ]
+  },
+  {
+    "objectID": "assignments/week_13_coding_challenges.html#submission",
+    "href": "assignments/week_13_coding_challenges.html#submission",
+    "title": "Week 13 Coding Challenge",
+    "section": "Submission",
+    "text": "Submission\nSubmit your completed work via Brightspace.",
+    "crumbs": [
+      "Assignments",
+      "Coding Challenges",
+      "Week 13 Coding Challenge"
+    ]
+  },
+  {
+    "objectID": "assignments/week_13_coding_challenges.html#presentation",
+    "href": "assignments/week_13_coding_challenges.html#presentation",
+    "title": "Week 13 Coding Challenge",
+    "section": "Presentation",
+    "text": "Presentation\nBe prepared to present your solution if randomly selected during class.",
+    "crumbs": [
+      "Assignments",
+      "Coding Challenges",
+      "Week 13 Coding Challenge"
+    ]
+  },
+  {
+    "objectID": "assignments/week_2_coding_challenges.html",
+    "href": "assignments/week_2_coding_challenges.html",
+    "title": "Week 2 Coding Challenge",
+    "section": "",
+    "text": "As a reminder, it’s not essential that you solve or get through all of these — I’m not grading your answers on these. That said, being able to work through at least many of them is a good sign that you have mastered the concepts for the week. It is always fine to collaborate or work together on these problem sets but I encourage you to make sure that you understand the concepts yourself.",
+    "crumbs": [
+      "Assignments",
+      "Coding Challenges",
+      "Week 2 Coding Challenge"
+    ]
+  },
+  {
+    "objectID": "assignments/week_2_coding_challenges.html#required",
+    "href": "assignments/week_2_coding_challenges.html#required",
+    "title": "Week 2 Coding Challenge",
+    "section": "Required",
+    "text": "Required\nPython for Everybody Exercises:\n\nChapter 1: Exercises 1, 6, 7\nChapter 2: Exercises 2, 3, 4, 5\nChapter 3: Exercises 1, 2, 3*\nChapter 4: Exercises 1-4, 5, 6, 7\n\nStarred exercises are optional; if you feel like you need more practice in a topic",
+    "crumbs": [
+      "Assignments",
+      "Coding Challenges",
+      "Week 2 Coding Challenge"
+    ]
+  },
+  {
+    "objectID": "assignments/week_2_coding_challenges.html#submission",
+    "href": "assignments/week_2_coding_challenges.html#submission",
+    "title": "Week 2 Coding Challenge",
+    "section": "Submission",
+    "text": "Submission\nSubmit your completed work via Brightspace.",
+    "crumbs": [
+      "Assignments",
+      "Coding Challenges",
+      "Week 2 Coding Challenge"
+    ]
+  },
+  {
+    "objectID": "assignments/week_2_coding_challenges.html#presentation",
+    "href": "assignments/week_2_coding_challenges.html#presentation",
+    "title": "Week 2 Coding Challenge",
+    "section": "Presentation",
+    "text": "Presentation\nBe prepared to present your solution if randomly selected during class.",
+    "crumbs": [
+      "Assignments",
+      "Coding Challenges",
+      "Week 2 Coding Challenge"
+    ]
+  },
+  {
+    "objectID": "assignments/week_4_coding_challenges.html",
+    "href": "assignments/week_4_coding_challenges.html",
+    "title": "Week 4 Coding Challenge",
+    "section": "",
+    "text": "Chapter 7: Exercises 1, 2, and 3",
+    "crumbs": [
+      "Assignments",
+      "Coding Challenges",
+      "Week 4 Coding Challenge"
+    ]
+  },
+  {
+    "objectID": "assignments/week_4_coding_challenges.html#python-for-everybody",
+    "href": "assignments/week_4_coding_challenges.html#python-for-everybody",
+    "title": "Week 4 Coding Challenge",
+    "section": "",
+    "text": "Chapter 7: Exercises 1, 2, and 3",
+    "crumbs": [
+      "Assignments",
+      "Coding Challenges",
+      "Week 4 Coding Challenge"
+    ]
+  },
+  {
+    "objectID": "assignments/week_4_coding_challenges.html#wordplay-level-2",
+    "href": "assignments/week_4_coding_challenges.html#wordplay-level-2",
+    "title": "Week 4 Coding Challenge",
+    "section": "Wordplay Level 2",
+    "text": "Wordplay Level 2\nFor every letter, print the word that uses that character the most. Hint: use two nested for loops. First one is:\nfor letter in 'abcdefghijklmnopqrstuvwxyz':\n    # do something\nFind the longest string where no character appears more than 1 time. (Hint: look up counters)\nUse Python to find one other interesting fact about the data set. Examples (that you can’t use) might be:\n\nOne of the words that is tied for the most vowels is aquifoliaceous\nThe word with the highest consonant to vowel ratio is sulphhydryls",
+    "crumbs": [
+      "Assignments",
+      "Coding Challenges",
+      "Week 4 Coding Challenge"
+    ]
+  },
+  {
+    "objectID": "assignments/week_4_coding_challenges.html#submission",
+    "href": "assignments/week_4_coding_challenges.html#submission",
+    "title": "Week 4 Coding Challenge",
+    "section": "Submission",
+    "text": "Submission\nSubmit your completed work via Brightspace.",
+    "crumbs": [
+      "Assignments",
+      "Coding Challenges",
+      "Week 4 Coding Challenge"
+    ]
+  },
+  {
+    "objectID": "assignments/week_4_coding_challenges.html#presentation",
+    "href": "assignments/week_4_coding_challenges.html#presentation",
+    "title": "Week 4 Coding Challenge",
+    "section": "Presentation",
+    "text": "Presentation\nBe prepared to present your solution if randomly selected during class.",
+    "crumbs": [
+      "Assignments",
+      "Coding Challenges",
+      "Week 4 Coding Challenge"
+    ]
+  },
+  {
+    "objectID": "assignments/week_6_coding_challenges.html",
+    "href": "assignments/week_6_coding_challenges.html",
+    "title": "Week 6 Coding Challenge",
+    "section": "",
+    "text": "Open today’s Jupyter Notebook and complete the exercises.",
+    "crumbs": [
+      "Assignments",
+      "Coding Challenges",
+      "Week 6 Coding Challenge"
+    ]
+  },
+  {
+    "objectID": "assignments/week_6_coding_challenges.html#exercise-assignments",
+    "href": "assignments/week_6_coding_challenges.html#exercise-assignments",
+    "title": "Week 6 Coding Challenge",
+    "section": "",
+    "text": "Open today’s Jupyter Notebook and complete the exercises.",
+    "crumbs": [
+      "Assignments",
+      "Coding Challenges",
+      "Week 6 Coding Challenge"
+    ]
+  },
+  {
+    "objectID": "assignments/week_6_coding_challenges.html#submission",
+    "href": "assignments/week_6_coding_challenges.html#submission",
+    "title": "Week 6 Coding Challenge",
+    "section": "Submission",
+    "text": "Submission\nSubmit your completed work via Brightspace.",
+    "crumbs": [
+      "Assignments",
+      "Coding Challenges",
+      "Week 6 Coding Challenge"
+    ]
+  },
+  {
+    "objectID": "assignments/week_6_coding_challenges.html#presentation",
+    "href": "assignments/week_6_coding_challenges.html#presentation",
+    "title": "Week 6 Coding Challenge",
+    "section": "Presentation",
+    "text": "Presentation\nBe prepared to present your solution if randomly selected during class.",
+    "crumbs": [
+      "Assignments",
+      "Coding Challenges",
+      "Week 6 Coding Challenge"
+    ]
+  },
+  {
+    "objectID": "assignments/week_8_coding_challenges.html",
+    "href": "assignments/week_8_coding_challenges.html",
+    "title": "Week 8 Coding Challenge",
+    "section": "",
+    "text": "There are 13 exercises in today’s notebook.\nAs always, do as many of these as you can. If you get stumped, ask a question on Element and move on to the next question.",
+    "crumbs": [
+      "Assignments",
+      "Coding Challenges",
+      "Week 8 Coding Challenge"
+    ]
+  },
+  {
+    "objectID": "assignments/week_8_coding_challenges.html#submission",
+    "href": "assignments/week_8_coding_challenges.html#submission",
+    "title": "Week 8 Coding Challenge",
+    "section": "Submission",
+    "text": "Submission\nSubmit your completed work via Brightspace.",
+    "crumbs": [
+      "Assignments",
+      "Coding Challenges",
+      "Week 8 Coding Challenge"
+    ]
+  },
+  {
+    "objectID": "assignments/week_8_coding_challenges.html#presentation",
+    "href": "assignments/week_8_coding_challenges.html#presentation",
+    "title": "Week 8 Coding Challenge",
+    "section": "Presentation",
+    "text": "Presentation\nBe prepared to present your solution if randomly selected during class.",
+    "crumbs": [
+      "Assignments",
+      "Coding Challenges",
+      "Week 8 Coding Challenge"
+    ]
+  },
+  {
+    "objectID": "day_1/lecture/day_1.html#about-me",
+    "href": "day_1/lecture/day_1.html#about-me",
+    "title": "Intro to Programming and Data Science",
+    "section": "About Me",
+    "text": "About Me"
+  },
+  {
+    "objectID": "day_1/lecture/day_1.html#introductions",
+    "href": "day_1/lecture/day_1.html#introductions",
+    "title": "Intro to Programming and Data Science",
+    "section": "Introductions",
+    "text": "Introductions"
+  },
+  {
+    "objectID": "day_1/lecture/day_1.html#dad-joke",
+    "href": "day_1/lecture/day_1.html#dad-joke",
+    "title": "Intro to Programming and Data Science",
+    "section": "Dad Joke",
+    "text": "Dad Joke\n\nWhy did the nearsighted man fall in the well?\n\n\nHe couldn’t see that well!"
+  },
+  {
+    "objectID": "day_1/lecture/day_1.html#programming-provides-exciting-opportunities-for-social-scientists",
+    "href": "day_1/lecture/day_1.html#programming-provides-exciting-opportunities-for-social-scientists",
+    "title": "Intro to Programming and Data Science",
+    "section": "Programming provides exciting opportunities for social scientists",
+    "text": "Programming provides exciting opportunities for social scientists\n\nDigital data is exploding and programming is required to do research at scale\nAlgorithms mediate more and more interactions and understanding programming can help us to analyze them\nComputational methods let us do new things\n\nNatural language processing\nSimulation\nLarge-scale experiments\n\nThere is value in “thinking like a computer”"
+  },
+  {
+    "objectID": "day_1/lecture/day_1.html#goals",
+    "href": "day_1/lecture/day_1.html#goals",
+    "title": "Intro to Programming and Data Science",
+    "section": "Goals",
+    "text": "Goals\n\nLearn basic programming\nCollect data using APIs\nPerform basic visualizations using Pandas\nLearn about fundamental computational social science techniques\nRead and evaluate computational social science research\nMeaningfully progress a research project that uses computation"
+  },
+  {
+    "objectID": "day_1/lecture/day_1.html#this-is-an-intense-class-intended-to-teach-the-basics-of-skills-used-by-computational-social-scientists",
+    "href": "day_1/lecture/day_1.html#this-is-an-intense-class-intended-to-teach-the-basics-of-skills-used-by-computational-social-scientists",
+    "title": "Intro to Programming and Data Science",
+    "section": "This is an intense class intended to teach the basics of skills used by computational social scientists",
+    "text": "This is an intense class intended to teach the basics of skills used by computational social scientists\n\nBut we can do it!\nModule 1: Python for Everybody\nModule 2: Pandas, visualizations, and APIs\nModule 3: Data cleaning, version control, etc.\nModule 4: Work on final project"
+  },
+  {
+    "objectID": "day_1/lecture/day_1.html#day-to-day",
+    "href": "day_1/lecture/day_1.html#day-to-day",
+    "title": "Intro to Programming and Data Science",
+    "section": "Day-to-day",
+    "text": "Day-to-day\n\nLecture\n\nRecorded lecture on coding topic\nNotebook to follow along - download and run each day\nClass time focused on confusions + Coding Challenges\n\nCoding Challenges\n\nRandom “cold calling” for reviewing solutions\n\nExample paper\n\nOne person will present each Thursday + lead discussion\nOthers will be prepared to discuss\n\nCo-working"
+  },
+  {
+    "objectID": "day_1/lecture/day_1.html#readings",
+    "href": "day_1/lecture/day_1.html#readings",
+    "title": "Intro to Programming and Data Science",
+    "section": "Readings",
+    "text": "Readings\n\nGetting kind of stale\n\nHelp me find new things to read!\n\nSign up to present twice on Google Spreadsheet\n\nPresent the work as though you were the researcher\nEveryone else will skim and be prepared to ask questions"
+  },
+  {
+    "objectID": "day_1/lecture/day_1.html#coding-challenges",
+    "href": "day_1/lecture/day_1.html#coding-challenges",
+    "title": "Intro to Programming and Data Science",
+    "section": "Coding Challenges",
+    "text": "Coding Challenges\n\nExercises from the book\nJupyter Notebooks\nSuggested approach:\n\nWork with a partner\n\nUse AI (ChatGPT, Github Copilot, Claude, etc)\n\nMake sure you understand the result!\nAsk questions on Element\nLook up solutions (where available)"
+  },
+  {
+    "objectID": "day_1/lecture/day_1.html#coding-challenge-reviews",
+    "href": "day_1/lecture/day_1.html#coding-challenge-reviews",
+    "title": "Intro to Programming and Data Science",
+    "section": "Coding Challenge Reviews",
+    "text": "Coding Challenge Reviews\n\nThe coldcaller will choose someone to share in class\nDo you want solutions posted as well? We can use Element rooms"
+  },
+  {
+    "objectID": "day_1/lecture/day_1.html#final-project",
+    "href": "day_1/lecture/day_1.html#final-project",
+    "title": "Intro to Programming and Data Science",
+    "section": "Final Project",
+    "text": "Final Project\n\nDefault option\n\nJupyter notebook\nShort intro + Methods + Result section of paper\n\nReplication\nDo what is best for your future goals\n\nLet’s meet if you have questions"
+  },
+  {
+    "objectID": "day_1/lecture/day_1.html#project-milestones",
+    "href": "day_1/lecture/day_1.html#project-milestones",
+    "title": "Intro to Programming and Data Science",
+    "section": "Project Milestones",
+    "text": "Project Milestones\n\nFinal project\n\nIdentify a dataset and general plan (February 3)\nProject planning doc (March 10)\nProject presentation + report (May 4)"
+  },
+  {
+    "objectID": "day_1/lecture/day_1.html#grades",
+    "href": "day_1/lecture/day_1.html#grades",
+    "title": "Intro to Programming and Data Science",
+    "section": "Grades",
+    "text": "Grades\n\nGoal is learning\nTwo self-assessment reflections"
+  },
+  {
+    "objectID": "day_1/lecture/day_1.html#course-website",
+    "href": "day_1/lecture/day_1.html#course-website",
+    "title": "Intro to Programming and Data Science",
+    "section": "Course Website",
+    "text": "Course Website\n\nSchedule\nLinks to readings\nSlides and videos may be from older versions of the class\n\nI will try to stay 1-2 weeks ahead"
+  },
+  {
+    "objectID": "day_1/lecture/day_1.html#brightspace",
+    "href": "day_1/lecture/day_1.html#brightspace",
+    "title": "Intro to Programming and Data Science",
+    "section": "Brightspace",
+    "text": "Brightspace\n\nReadings\nExample Projects\nAnnouncements"
+  },
+  {
+    "objectID": "day_1/lecture/day_1.html#element",
+    "href": "day_1/lecture/day_1.html#element",
+    "title": "Intro to Programming and Data Science",
+    "section": "Element",
+    "text": "Element\n\nPost questions and help each other\nPost solutions to homework problems"
+  },
+  {
+    "objectID": "day_1/lecture/day_1.html#anaconda-vscode-intro",
+    "href": "day_1/lecture/day_1.html#anaconda-vscode-intro",
+    "title": "Intro to Programming and Data Science",
+    "section": "Anaconda / VSCode Intro",
+    "text": "Anaconda / VSCode Intro"
+  },
+  {
+    "objectID": "day_11/lecture/day_11.html#dad-joke",
+    "href": "day_11/lecture/day_11.html#dad-joke",
+    "title": "COM 674 - Day 10",
+    "section": "Dad Joke",
+    "text": "Dad Joke\nDid you hear about the mathematician who was afraid of negative numbers?\n He would stop at nothing to avoid them"
+  },
+  {
+    "objectID": "day_11/lecture/day_11.html#housekeeping",
+    "href": "day_11/lecture/day_11.html#housekeeping",
+    "title": "COM 674 - Day 10",
     "section": "Housekeeping",
-    "text": "Housekeeping\n\nSigning up for Reddit\nSlowing down soon!\nNew papers to read"
+    "text": "Housekeeping\nGroups for Day 12"
   },
   {
-    "objectID": "day_4/lecture/day_4.html#julius-on-computational-grounded-theory",
-    "href": "day_4/lecture/day_4.html#julius-on-computational-grounded-theory",
-    "title": "Week 4: Files",
-    "section": "Julius on Computational Grounded Theory",
-    "text": "Julius on Computational Grounded Theory"
+    "objectID": "day_13/lecture/day_13.html#dad-joke",
+    "href": "day_13/lecture/day_13.html#dad-joke",
+    "title": "Code Organization and Reproducibility",
+    "section": "Dad Joke",
+    "text": "Dad Joke\nI was robbed by 6 dwarfs today.\n Not Happy."
   },
   {
-    "objectID": "day_4/lecture/day_4.html#reflection-on-how-things-are-going",
-    "href": "day_4/lecture/day_4.html#reflection-on-how-things-are-going",
-    "title": "Week 4: Files",
-    "section": "Reflection on how things are going",
-    "text": "Reflection on how things are going"
+    "objectID": "day_13/lecture/day_13.html#housekeeping",
+    "href": "day_13/lecture/day_13.html#housekeeping",
+    "title": "Code Organization and Reproducibility",
+    "section": "Housekeeping",
+    "text": "Housekeeping\n\nEthics discussion on Thursday\nNo class next Tuesday\nPresentations during last week (~8 minutes each)\n\nFocus on 1-2 key points\n\nFinal project and SAR due the next week (~December 11)"
   },
   {
-    "objectID": "day_4/lecture/day_4.html#questions-from-homework",
-    "href": "day_4/lecture/day_4.html#questions-from-homework",
-    "title": "Week 4: Files",
-    "section": "Questions from homework",
-    "text": "Questions from homework"
+    "objectID": "day_13/lecture/day_13.html#housekeeping-1",
+    "href": "day_13/lecture/day_13.html#housekeeping-1",
+    "title": "Code Organization and Reproducibility",
+    "section": "Housekeeping",
+    "text": "Housekeeping\n\nIntermediate Python\n\nRegular expressions, list comprehensions, classes, debugging\n\nAgent-based modeling, cluster computing, more computational text analysis\n\nSome resources on the course website (Advanced Computational Communication)\n\nProject presentation signup\n\ntinyurl.com/com674fp"
+  },
+  {
+    "objectID": "day_13/lecture/day_13.html#web-scraping",
+    "href": "day_13/lecture/day_13.html#web-scraping",
+    "title": "Code Organization and Reproducibility",
+    "section": "Web scraping",
+    "text": "Web scraping\n\nPython impersonates a web browser\nHTML instead of JSON\nrequests\nBeautifulSoup\nSelenium\nscrapy\nsplinter"
+  },
+  {
+    "objectID": "day_13/lecture/day_13.html#principles-for-code-organization",
+    "href": "day_13/lecture/day_13.html#principles-for-code-organization",
+    "title": "Code Organization and Reproducibility",
+    "section": "Principles for code organization",
+    "text": "Principles for code organization\n\n3 directories\n\ncode\ndata\npaper"
+  },
+  {
+    "objectID": "day_13/lecture/day_13.html#reproducible-workflows-and-best-practices",
+    "href": "day_13/lecture/day_13.html#reproducible-workflows-and-best-practices",
+    "title": "Code Organization and Reproducibility",
+    "section": "Reproducible workflows and best practices",
+    "text": "Reproducible workflows and best practices\n\nThe idea is to be able to fix any step in the workflow and have the rest run with minimal problems\n\nData updates\nBugs\nChanges to measures or questions\n\nSave raw data\nRun code in order\nWrite comments! (or text in Jupyter)\nAdvanced mode: Makefiles, knitr"
+  },
+  {
+    "objectID": "day_13/lecture/day_13.html#statistics-in-python",
+    "href": "day_13/lecture/day_13.html#statistics-in-python",
+    "title": "Code Organization and Reproducibility",
+    "section": "Statistics in Python",
+    "text": "Statistics in Python\n\nMeh :)\nMy workflow uses Python to collect data and create measures, then R to do statistics and create visualizations\nCan also export to SPSS, Stata, or whatever. Everything reads CSV files!\nPython is great for ML, OTOH"
+  },
+  {
+    "objectID": "day_13/lecture/day_13.html#hw-review",
+    "href": "day_13/lecture/day_13.html#hw-review",
+    "title": "Code Organization and Reproducibility",
+    "section": "HW Review",
+    "text": "HW Review"
   },
   {
     "objectID": "day_2/lecture/day_2.html#dad-joke",
@@ -294,1655 +1840,109 @@
     "text": "Questions\n\nWhat did you think of the distinction between ready made and custom made data? Are there kinds of research that don’t fit neatly into one or the other? What other dimensions can we classify research along?\nAre there different ethical concerns when using one type of data or the other?\nWhat are the different analytic concerns for each type of data?"
   },
   {
-    "objectID": "day_13/lecture/day_13.html#dad-joke",
-    "href": "day_13/lecture/day_13.html#dad-joke",
-    "title": "Code Organization and Reproducibility",
+    "objectID": "day_4/lecture/day_4.html#weekly-dad-joke",
+    "href": "day_4/lecture/day_4.html#weekly-dad-joke",
+    "title": "Week 4: Files",
+    "section": "Weekly Dad Joke",
+    "text": "Weekly Dad Joke\n\nMy girlfriend left me because I’m insecure…\n\n\nNevermind, she’s back. She just went to the bathroom."
+  },
+  {
+    "objectID": "day_4/lecture/day_4.html#housekeeping",
+    "href": "day_4/lecture/day_4.html#housekeeping",
+    "title": "Week 4: Files",
+    "section": "Housekeeping",
+    "text": "Housekeeping\n\nProject ideas\nSigning up for Reddit\nSlowing down soon!\nNew papers to read"
+  },
+  {
+    "objectID": "day_4/lecture/day_4.html#reflection-on-how-things-are-going",
+    "href": "day_4/lecture/day_4.html#reflection-on-how-things-are-going",
+    "title": "Week 4: Files",
+    "section": "Reflection on how things are going",
+    "text": "Reflection on how things are going"
+  },
+  {
+    "objectID": "day_4/lecture/day_4.html#questions-from-homework",
+    "href": "day_4/lecture/day_4.html#questions-from-homework",
+    "title": "Week 4: Files",
+    "section": "Questions from homework",
+    "text": "Questions from homework"
+  },
+  {
+    "objectID": "day_6/lecture/day_6.html#weekly-dad-joke",
+    "href": "day_6/lecture/day_6.html#weekly-dad-joke",
+    "title": "Week 6: Pandas and Dataframes",
+    "section": "Weekly Dad Joke",
+    "text": "Weekly Dad Joke\nI accidentally swallowed a bunch of scrabble tiles.\n My next trip to the bathroom could spell disaster."
+  },
+  {
+    "objectID": "day_6/lecture/day_6.html#housekeeping",
+    "href": "day_6/lecture/day_6.html#housekeeping",
+    "title": "Week 6: Pandas and Dataframes",
+    "section": "Housekeeping",
+    "text": "Housekeeping\n\nProject Planning Doc\nSelf assessment doc\nOctober Break next week"
+  },
+  {
+    "objectID": "day_6/lecture/day_6.html#homework-review",
+    "href": "day_6/lecture/day_6.html#homework-review",
+    "title": "Week 6: Pandas and Dataframes",
+    "section": "Homework Review",
+    "text": "Homework Review"
+  },
+  {
+    "objectID": "day_8/lecture/day_8.html#dad-joke",
+    "href": "day_8/lecture/day_8.html#dad-joke",
+    "title": "Intro to APIs",
     "section": "Dad Joke",
-    "text": "Dad Joke\nI was robbed by 6 dwarfs today.\n Not Happy."
+    "text": "Dad Joke\nWithin minutes, the detective knew exactly what the murder weapon was.\n It was a brief case."
   },
   {
-    "objectID": "day_13/lecture/day_13.html#housekeeping",
-    "href": "day_13/lecture/day_13.html#housekeeping",
-    "title": "Code Organization and Reproducibility",
+    "objectID": "day_8/lecture/day_8.html#housekeeping",
+    "href": "day_8/lecture/day_8.html#housekeeping",
+    "title": "Intro to APIs",
     "section": "Housekeeping",
-    "text": "Housekeeping\n\nEthics discussion on Thursday\nNo class next Tuesday\nPresentations during last week (~8 minutes each)\n\nFocus on 1-2 key points\n\nFinal project and SAR due the next week (~December 11)"
+    "text": "Housekeeping\n\nSelf-assessment reflection and planning documents due\n\nFeedback on planning documents - during class on October 31 (unless you want feedback sooner)\n\nSome adjustments - extra day for computational text analysis, moving Stats and ML to optional\nAre people going to NCA?"
   },
   {
-    "objectID": "day_13/lecture/day_13.html#housekeeping-1",
-    "href": "day_13/lecture/day_13.html#housekeeping-1",
-    "title": "Code Organization and Reproducibility",
-    "section": "Housekeeping",
-    "text": "Housekeeping\n\nIntermediate Python\n\nRegular expressions, list comprehensions, classes, debugging\n\nAgent-based modeling, cluster computing, more computational text analysis\n\nSome resources on the course website (Advanced Computational Communication)\n\nProject presentation signup\n\ntinyurl.com/com674fp"
+    "objectID": "day_8/lecture/day_8.html#scraping-data",
+    "href": "day_8/lecture/day_8.html#scraping-data",
+    "title": "Intro to APIs",
+    "section": "Scraping Data",
+    "text": "Scraping Data\n\nThree main ways of getting web data:\n\nDownloading\nAPIs\nScraping"
   },
   {
-    "objectID": "day_13/lecture/day_13.html#web-scraping",
-    "href": "day_13/lecture/day_13.html#web-scraping",
-    "title": "Code Organization and Reproducibility",
-    "section": "Web scraping",
-    "text": "Web scraping\n\nPython impersonates a web browser\nHTML instead of JSON\nrequests\nBeautifulSoup\nSelenium\nscrapy\nsplinter"
-  },
-  {
-    "objectID": "day_13/lecture/day_13.html#principles-for-code-organization",
-    "href": "day_13/lecture/day_13.html#principles-for-code-organization",
-    "title": "Code Organization and Reproducibility",
-    "section": "Principles for code organization",
-    "text": "Principles for code organization\n\n3 directories\n\ncode\ndata\npaper"
-  },
-  {
-    "objectID": "day_13/lecture/day_13.html#reproducible-workflows-and-best-practices",
-    "href": "day_13/lecture/day_13.html#reproducible-workflows-and-best-practices",
-    "title": "Code Organization and Reproducibility",
-    "section": "Reproducible workflows and best practices",
-    "text": "Reproducible workflows and best practices\n\nThe idea is to be able to fix any step in the workflow and have the rest run with minimal problems\n\nData updates\nBugs\nChanges to measures or questions\n\nSave raw data\nRun code in order\nWrite comments! (or text in Jupyter)\nAdvanced mode: Makefiles, knitr"
-  },
-  {
-    "objectID": "day_13/lecture/day_13.html#statistics-in-python",
-    "href": "day_13/lecture/day_13.html#statistics-in-python",
-    "title": "Code Organization and Reproducibility",
-    "section": "Statistics in Python",
-    "text": "Statistics in Python\n\nMeh :)\nMy workflow uses Python to collect data and create measures, then R to do statistics and create visualizations\nCan also export to SPSS, Stata, or whatever. Everything reads CSV files!\nPython is great for ML, OTOH"
-  },
-  {
-    "objectID": "day_13/lecture/day_13.html#hw-review",
-    "href": "day_13/lecture/day_13.html#hw-review",
-    "title": "Code Organization and Reproducibility",
+    "objectID": "day_8/lecture/day_8.html#hw-review",
+    "href": "day_8/lecture/day_8.html#hw-review",
+    "title": "Intro to APIs",
     "section": "HW Review",
     "text": "HW Review"
   },
   {
-    "objectID": "day_11/lecture/day_11.html#dad-joke",
-    "href": "day_11/lecture/day_11.html#dad-joke",
-    "title": "COM 674 - Day 10",
-    "section": "Dad Joke",
-    "text": "Dad Joke\nDid you hear about the mathematician who was afraid of negative numbers?\n He would stop at nothing to avoid them"
+    "objectID": "day_8/lecture/day_8.html#paper-discussion",
+    "href": "day_8/lecture/day_8.html#paper-discussion",
+    "title": "Intro to APIs",
+    "section": "Paper Discussion",
+    "text": "Paper Discussion\nKieran Healy and James Moody (2014). “Data Visualization in Sociology.” American Review of Sociology. 40: 105-28.\nDiscussant: Jeremy"
   },
   {
-    "objectID": "day_11/lecture/day_11.html#housekeeping",
-    "href": "day_11/lecture/day_11.html#housekeeping",
-    "title": "COM 674 - Day 10",
-    "section": "Housekeeping",
-    "text": "Housekeeping\nGroups for Day 12"
-  },
-  {
-    "objectID": "day_1/lecture/day_1.html#about-me",
-    "href": "day_1/lecture/day_1.html#about-me",
-    "title": "Intro to Programming and Data Science",
-    "section": "About Me",
-    "text": "About Me"
-  },
-  {
-    "objectID": "day_1/lecture/day_1.html#introductions",
-    "href": "day_1/lecture/day_1.html#introductions",
-    "title": "Intro to Programming and Data Science",
-    "section": "Introductions",
-    "text": "Introductions"
-  },
-  {
-    "objectID": "day_1/lecture/day_1.html#dad-joke",
-    "href": "day_1/lecture/day_1.html#dad-joke",
-    "title": "Intro to Programming and Data Science",
-    "section": "Dad Joke",
-    "text": "Dad Joke\n\nWhy did the nearsighted man fall in the well?\n\n\nHe couldn’t see that well!"
-  },
-  {
-    "objectID": "day_1/lecture/day_1.html#programming-provides-exciting-opportunities-for-social-scientists",
-    "href": "day_1/lecture/day_1.html#programming-provides-exciting-opportunities-for-social-scientists",
-    "title": "Intro to Programming and Data Science",
-    "section": "Programming provides exciting opportunities for social scientists",
-    "text": "Programming provides exciting opportunities for social scientists\n\nDigital data is exploding and programming is required to do research at scale\nAlgorithms mediate more and more interactions and understanding programming can help us to analyze them\nComputational methods let us do new things\n\nNatural language processing\nSimulation\nLarge-scale experiments\n\nThere is value in “thinking like a computer”"
-  },
-  {
-    "objectID": "day_1/lecture/day_1.html#goals",
-    "href": "day_1/lecture/day_1.html#goals",
-    "title": "Intro to Programming and Data Science",
-    "section": "Goals",
-    "text": "Goals\n\nLearn basic programming\nCollect data using APIs\nPerform basic visualizations using Pandas\nLearn about fundamental computational social science techniques\nRead and evaluate computational social science research\nMeaningfully progress a research project that uses computation"
-  },
-  {
-    "objectID": "day_1/lecture/day_1.html#this-is-an-intense-class-intended-to-teach-the-basics-of-skills-used-by-computational-social-scientists",
-    "href": "day_1/lecture/day_1.html#this-is-an-intense-class-intended-to-teach-the-basics-of-skills-used-by-computational-social-scientists",
-    "title": "Intro to Programming and Data Science",
-    "section": "This is an intense class intended to teach the basics of skills used by computational social scientists",
-    "text": "This is an intense class intended to teach the basics of skills used by computational social scientists\n\nBut we can do it!\nModule 1: Python for Everybody\nModule 2: Pandas, visualizations, and APIs\nModule 3: Data cleaning, version control, etc.\nModule 4: Work on final project"
-  },
-  {
-    "objectID": "day_1/lecture/day_1.html#day-to-day",
-    "href": "day_1/lecture/day_1.html#day-to-day",
-    "title": "Intro to Programming and Data Science",
-    "section": "Day-to-day",
-    "text": "Day-to-day\n\nLecture\n\nRecorded lecture on coding topic\nNotebook to follow along - download and run each day\nClass time focused on confusions + Coding Challenges\n\nCoding Challenges\n\nRandom “cold calling” for reviewing solutions\n\nExample paper\n\nOne person will present each Thursday + lead discussion\nOthers will be prepared to discuss\n\nCo-working"
-  },
-  {
-    "objectID": "day_1/lecture/day_1.html#readings",
-    "href": "day_1/lecture/day_1.html#readings",
-    "title": "Intro to Programming and Data Science",
-    "section": "Readings",
-    "text": "Readings\n\nGetting kind of stale\n\nHelp me find new things to read!\n\nSign up to present twice on Google Spreadsheet\n\nPresent the work as though you were the researcher\nEveryone else will skim and be prepared to ask questions"
-  },
-  {
-    "objectID": "day_1/lecture/day_1.html#coding-challenges",
-    "href": "day_1/lecture/day_1.html#coding-challenges",
-    "title": "Intro to Programming and Data Science",
-    "section": "Coding Challenges",
-    "text": "Coding Challenges\n\nExercises from the book\nJupyter Notebooks\nSuggested approach:\n\nWork with a partner\n\nUse AI (ChatGPT, Github Copilot, Claude, etc)\n\nMake sure you understand the result!\nAsk questions on Element\nLook up solutions (where available)"
-  },
-  {
-    "objectID": "day_1/lecture/day_1.html#coding-challenge-reviews",
-    "href": "day_1/lecture/day_1.html#coding-challenge-reviews",
-    "title": "Intro to Programming and Data Science",
-    "section": "Coding Challenge Reviews",
-    "text": "Coding Challenge Reviews\n\nThe coldcaller will choose someone to share in class\nDo you want solutions posted as well? We can use Element rooms"
-  },
-  {
-    "objectID": "day_1/lecture/day_1.html#final-project",
-    "href": "day_1/lecture/day_1.html#final-project",
-    "title": "Intro to Programming and Data Science",
-    "section": "Final Project",
-    "text": "Final Project\n\nDefault option\n\nJupyter notebook\nShort intro + Methods + Result section of paper\n\nReplication\nDo what is best for your future goals\n\nLet’s meet if you have questions"
-  },
-  {
-    "objectID": "day_1/lecture/day_1.html#project-milestones",
-    "href": "day_1/lecture/day_1.html#project-milestones",
-    "title": "Intro to Programming and Data Science",
-    "section": "Project Milestones",
-    "text": "Project Milestones\n\nFinal project\n\nIdentify a dataset and general plan (February 3)\nProject planning doc (March 10)\nProject presentation + report (May 4)"
-  },
-  {
-    "objectID": "day_1/lecture/day_1.html#grades",
-    "href": "day_1/lecture/day_1.html#grades",
-    "title": "Intro to Programming and Data Science",
-    "section": "Grades",
-    "text": "Grades\n\nGoal is learning\nTwo self-assessment reflections"
-  },
-  {
-    "objectID": "day_1/lecture/day_1.html#course-website",
-    "href": "day_1/lecture/day_1.html#course-website",
-    "title": "Intro to Programming and Data Science",
-    "section": "Course Website",
-    "text": "Course Website\n\nSchedule\nLinks to readings\nSlides and videos may be from older versions of the class\n\nI will try to stay 1-2 weeks ahead"
-  },
-  {
-    "objectID": "day_1/lecture/day_1.html#brightspace",
-    "href": "day_1/lecture/day_1.html#brightspace",
-    "title": "Intro to Programming and Data Science",
-    "section": "Brightspace",
-    "text": "Brightspace\n\nReadings\nExample Projects\nAnnouncements"
-  },
-  {
-    "objectID": "day_1/lecture/day_1.html#element",
-    "href": "day_1/lecture/day_1.html#element",
-    "title": "Intro to Programming and Data Science",
-    "section": "Element",
-    "text": "Element\n\nPost questions and help each other\nPost solutions to homework problems"
-  },
-  {
-    "objectID": "day_1/lecture/day_1.html#anaconda-vscode-intro",
-    "href": "day_1/lecture/day_1.html#anaconda-vscode-intro",
-    "title": "Intro to Programming and Data Science",
-    "section": "Anaconda / VSCode Intro",
-    "text": "Anaconda / VSCode Intro"
-  },
-  {
-    "objectID": "assignments/week_8_coding_challenges.html",
-    "href": "assignments/week_8_coding_challenges.html",
-    "title": "Week 8 Coding Challenge",
+    "objectID": "extra_topics/reddit_authentication_setup.html",
+    "href": "extra_topics/reddit_authentication_setup.html",
+    "title": "Reddit Authentication Setup",
     "section": "",
-    "text": "There are 13 exercises in today’s notebook.\nAs always, do as many of these as you can. If you get stumped, ask a question on Element and move on to the next question.",
-    "crumbs": [
-      "Assignments",
-      "Coding Challenges",
-      "Week 8 Coding Challenge"
-    ]
+    "text": "We’re going to be using Reddit as a context for learning to gather web data. Like many APIs, you need a developer account to use the Reddit API. This is pretty easy on Reddit."
   },
   {
-    "objectID": "assignments/week_8_coding_challenges.html#submission",
-    "href": "assignments/week_8_coding_challenges.html#submission",
-    "title": "Week 8 Coding Challenge",
-    "section": "Submission",
-    "text": "Submission\nSubmit your completed work via Brightspace.",
-    "crumbs": [
-      "Assignments",
-      "Coding Challenges",
-      "Week 8 Coding Challenge"
-    ]
+    "objectID": "extra_topics/reddit_authentication_setup.html#create-a-reddit-app",
+    "href": "extra_topics/reddit_authentication_setup.html#create-a-reddit-app",
+    "title": "Reddit Authentication Setup",
+    "section": "Create a Reddit App",
+    "text": "Create a Reddit App\n\nCreate a Reddit account at https://www.reddit.com/\nGo to https://www.reddit.com/prefs/apps and click “Create an app”\nEnter the following (or similar):\n\nName: COM 674 Project App\nDescription: This bot will be used to collect data as part of a course at Purdue University.\nAbout URL: Leave blank\nRedirect URL: http://localhost:8080 (we will not actually be using this)\nApplication type: Script\n\nSubmit the app."
   },
   {
-    "objectID": "assignments/week_8_coding_challenges.html#presentation",
-    "href": "assignments/week_8_coding_challenges.html#presentation",
-    "title": "Week 8 Coding Challenge",
-    "section": "Presentation",
-    "text": "Presentation\nBe prepared to present your solution if randomly selected during class.",
-    "crumbs": [
-      "Assignments",
-      "Coding Challenges",
-      "Week 8 Coding Challenge"
-    ]
-  },
-  {
-    "objectID": "assignments/week_6_coding_challenges.html",
-    "href": "assignments/week_6_coding_challenges.html",
-    "title": "Week 6 Coding Challenge",
-    "section": "",
-    "text": "Open today’s Jupyter Notebook and complete the exercises.",
-    "crumbs": [
-      "Assignments",
-      "Coding Challenges",
-      "Week 6 Coding Challenge"
-    ]
-  },
-  {
-    "objectID": "assignments/week_6_coding_challenges.html#exercise-assignments",
-    "href": "assignments/week_6_coding_challenges.html#exercise-assignments",
-    "title": "Week 6 Coding Challenge",
-    "section": "",
-    "text": "Open today’s Jupyter Notebook and complete the exercises.",
-    "crumbs": [
-      "Assignments",
-      "Coding Challenges",
-      "Week 6 Coding Challenge"
-    ]
-  },
-  {
-    "objectID": "assignments/week_6_coding_challenges.html#submission",
-    "href": "assignments/week_6_coding_challenges.html#submission",
-    "title": "Week 6 Coding Challenge",
-    "section": "Submission",
-    "text": "Submission\nSubmit your completed work via Brightspace.",
-    "crumbs": [
-      "Assignments",
-      "Coding Challenges",
-      "Week 6 Coding Challenge"
-    ]
-  },
-  {
-    "objectID": "assignments/week_6_coding_challenges.html#presentation",
-    "href": "assignments/week_6_coding_challenges.html#presentation",
-    "title": "Week 6 Coding Challenge",
-    "section": "Presentation",
-    "text": "Presentation\nBe prepared to present your solution if randomly selected during class.",
-    "crumbs": [
-      "Assignments",
-      "Coding Challenges",
-      "Week 6 Coding Challenge"
-    ]
-  },
-  {
-    "objectID": "assignments/week_4_coding_challenges.html",
-    "href": "assignments/week_4_coding_challenges.html",
-    "title": "Week 4 Coding Challenge",
-    "section": "",
-    "text": "Chapter 7: Exercises 1, 2, and 3",
-    "crumbs": [
-      "Assignments",
-      "Coding Challenges",
-      "Week 4 Coding Challenge"
-    ]
-  },
-  {
-    "objectID": "assignments/week_4_coding_challenges.html#python-for-everybody",
-    "href": "assignments/week_4_coding_challenges.html#python-for-everybody",
-    "title": "Week 4 Coding Challenge",
-    "section": "",
-    "text": "Chapter 7: Exercises 1, 2, and 3",
-    "crumbs": [
-      "Assignments",
-      "Coding Challenges",
-      "Week 4 Coding Challenge"
-    ]
-  },
-  {
-    "objectID": "assignments/week_4_coding_challenges.html#wordplay-level-2",
-    "href": "assignments/week_4_coding_challenges.html#wordplay-level-2",
-    "title": "Week 4 Coding Challenge",
-    "section": "Wordplay Level 2",
-    "text": "Wordplay Level 2\nFor every letter, print the word that uses that character the most. Hint: use two nested for loops. First one is:\nfor letter in 'abcdefghijklmnopqrstuvwxyz':\n    # do something\nFind the longest string where no character appears more than 1 time. (Hint: look up counters)\nUse Python to find one other interesting fact about the data set. Examples (that you can’t use) might be:\n\nOne of the words that is tied for the most vowels is aquifoliaceous\nThe word with the highest consonant to vowel ratio is sulphhydryls",
-    "crumbs": [
-      "Assignments",
-      "Coding Challenges",
-      "Week 4 Coding Challenge"
-    ]
-  },
-  {
-    "objectID": "assignments/week_4_coding_challenges.html#submission",
-    "href": "assignments/week_4_coding_challenges.html#submission",
-    "title": "Week 4 Coding Challenge",
-    "section": "Submission",
-    "text": "Submission\nSubmit your completed work via Brightspace.",
-    "crumbs": [
-      "Assignments",
-      "Coding Challenges",
-      "Week 4 Coding Challenge"
-    ]
-  },
-  {
-    "objectID": "assignments/week_4_coding_challenges.html#presentation",
-    "href": "assignments/week_4_coding_challenges.html#presentation",
-    "title": "Week 4 Coding Challenge",
-    "section": "Presentation",
-    "text": "Presentation\nBe prepared to present your solution if randomly selected during class.",
-    "crumbs": [
-      "Assignments",
-      "Coding Challenges",
-      "Week 4 Coding Challenge"
-    ]
-  },
-  {
-    "objectID": "assignments/week_2_coding_challenges.html",
-    "href": "assignments/week_2_coding_challenges.html",
-    "title": "Week 2 Coding Challenge",
-    "section": "",
-    "text": "As a reminder, it’s not essential that you solve or get through all of these — I’m not grading your answers on these. That said, being able to work through at least many of them is a good sign that you have mastered the concepts for the week. It is always fine to collaborate or work together on these problem sets but I encourage you to make sure that you understand the concepts yourself.",
-    "crumbs": [
-      "Assignments",
-      "Coding Challenges",
-      "Week 2 Coding Challenge"
-    ]
-  },
-  {
-    "objectID": "assignments/week_2_coding_challenges.html#required",
-    "href": "assignments/week_2_coding_challenges.html#required",
-    "title": "Week 2 Coding Challenge",
-    "section": "Required",
-    "text": "Required\nPython for Everybody Exercises:\n\nChapter 1: Exercises 1, 6, 7\nChapter 2: Exercises 2, 3, 4, 5\nChapter 3: Exercises 1, 2, 3*\nChapter 4: Exercises 1-4, 5, 6, 7\n\nStarred exercises are optional; if you feel like you need more practice in a topic",
-    "crumbs": [
-      "Assignments",
-      "Coding Challenges",
-      "Week 2 Coding Challenge"
-    ]
-  },
-  {
-    "objectID": "assignments/week_2_coding_challenges.html#submission",
-    "href": "assignments/week_2_coding_challenges.html#submission",
-    "title": "Week 2 Coding Challenge",
-    "section": "Submission",
-    "text": "Submission\nSubmit your completed work via Brightspace.",
-    "crumbs": [
-      "Assignments",
-      "Coding Challenges",
-      "Week 2 Coding Challenge"
-    ]
-  },
-  {
-    "objectID": "assignments/week_2_coding_challenges.html#presentation",
-    "href": "assignments/week_2_coding_challenges.html#presentation",
-    "title": "Week 2 Coding Challenge",
-    "section": "Presentation",
-    "text": "Presentation\nBe prepared to present your solution if randomly selected during class.",
-    "crumbs": [
-      "Assignments",
-      "Coding Challenges",
-      "Week 2 Coding Challenge"
-    ]
-  },
-  {
-    "objectID": "assignments/week_13_coding_challenges.html",
-    "href": "assignments/week_13_coding_challenges.html",
-    "title": "Week 13 Coding Challenge",
-    "section": "",
-    "text": "Load the example project at https://github.com/jdfoote/Intro-to-Programming-and-Data-Science/raw/refs/heads/master/day_13/example_project.zip\nTweak it to answer your own question using Reddit data. See if you can create your own visualization.\nYou probably won’t be able to get the LaTeX portion to work because it requires installing LaTeX on your computer, which I actually don’t recommend - I recommend using Overleaf instead.",
-    "crumbs": [
-      "Assignments",
-      "Coding Challenges",
-      "Week 13 Coding Challenge"
-    ]
-  },
-  {
-    "objectID": "assignments/week_13_coding_challenges.html#submission",
-    "href": "assignments/week_13_coding_challenges.html#submission",
-    "title": "Week 13 Coding Challenge",
-    "section": "Submission",
-    "text": "Submission\nSubmit your completed work via Brightspace.",
-    "crumbs": [
-      "Assignments",
-      "Coding Challenges",
-      "Week 13 Coding Challenge"
-    ]
-  },
-  {
-    "objectID": "assignments/week_13_coding_challenges.html#presentation",
-    "href": "assignments/week_13_coding_challenges.html#presentation",
-    "title": "Week 13 Coding Challenge",
-    "section": "Presentation",
-    "text": "Presentation\nBe prepared to present your solution if randomly selected during class.",
-    "crumbs": [
-      "Assignments",
-      "Coding Challenges",
-      "Week 13 Coding Challenge"
-    ]
-  },
-  {
-    "objectID": "assignments/week_11_coding_challenges.html",
-    "href": "assignments/week_11_coding_challenges.html",
-    "title": "Week 11 Coding Challenge",
-    "section": "",
-    "text": "Go through the notebook and do the problems.\nPlay around with the notebook and do some new analyses.",
-    "crumbs": [
-      "Assignments",
-      "Coding Challenges",
-      "Week 11 Coding Challenge"
-    ]
-  },
-  {
-    "objectID": "assignments/week_11_coding_challenges.html#submission",
-    "href": "assignments/week_11_coding_challenges.html#submission",
-    "title": "Week 11 Coding Challenge",
-    "section": "Submission",
-    "text": "Submission\nSubmit your completed work via Brightspace.",
-    "crumbs": [
-      "Assignments",
-      "Coding Challenges",
-      "Week 11 Coding Challenge"
-    ]
-  },
-  {
-    "objectID": "assignments/week_11_coding_challenges.html#presentation",
-    "href": "assignments/week_11_coding_challenges.html#presentation",
-    "title": "Week 11 Coding Challenge",
-    "section": "Presentation",
-    "text": "Presentation\nBe prepared to present your solution if randomly selected during class.",
-    "crumbs": [
-      "Assignments",
-      "Coding Challenges",
-      "Week 11 Coding Challenge"
-    ]
-  },
-  {
-    "objectID": "assignments/self_assessment_reflection.html",
-    "href": "assignments/self_assessment_reflection.html",
-    "title": "Self-Assessment Reflection",
-    "section": "",
-    "text": "Due date: October 15",
-    "crumbs": [
-      "Assignments",
-      "Reflections",
-      "Self-Assessment Reflection"
-    ]
-  },
-  {
-    "objectID": "assignments/self_assessment_reflection.html#overview",
-    "href": "assignments/self_assessment_reflection.html#overview",
-    "title": "Self-Assessment Reflection",
-    "section": "Overview",
-    "text": "Overview\nThis reflection is intended to help you to think about what you have learned and accomplished and to craft goals for the remainder of the course. It is also an important way for me to gather feedback about how the course is going so that I can adjust.",
-    "crumbs": [
-      "Assignments",
-      "Reflections",
-      "Self-Assessment Reflection"
-    ]
-  },
-  {
-    "objectID": "assignments/self_assessment_reflection.html#questions-to-address",
-    "href": "assignments/self_assessment_reflection.html#questions-to-address",
-    "title": "Self-Assessment Reflection",
-    "section": "Questions to Address",
-    "text": "Questions to Address\nPlease respond to the following:\n\nLearning Goals: What did you hope to learn at the beginning of this course?\nAccomplishments: What have you accomplished so far in the course?\nChallenges: What challenges have you faced? How have you addressed them?\nGoals: What are your goals for the remainder of the course?\nSelf-Assessment: Based on the grading rubric in the syllabus, how would you assess your performance so far?\nCourse Feedback: What is working well in the course? What could be improved?",
-    "crumbs": [
-      "Assignments",
-      "Reflections",
-      "Self-Assessment Reflection"
-    ]
-  },
-  {
-    "objectID": "assignments/self_assessment_reflection.html#submission",
-    "href": "assignments/self_assessment_reflection.html#submission",
-    "title": "Self-Assessment Reflection",
-    "section": "Submission",
-    "text": "Submission\nSubmit your reflection via Brightspace.",
-    "crumbs": [
-      "Assignments",
-      "Reflections",
-      "Self-Assessment Reflection"
-    ]
-  },
-  {
-    "objectID": "assignments/self_assessment_reflection.html#format",
-    "href": "assignments/self_assessment_reflection.html#format",
-    "title": "Self-Assessment Reflection",
-    "section": "Format",
-    "text": "Format\nThis should be a thoughtful reflection, not just brief answers. Aim for 2-3 pages total.",
-    "crumbs": [
-      "Assignments",
-      "Reflections",
-      "Self-Assessment Reflection"
-    ]
-  },
-  {
-    "objectID": "assignments/project_presentation.html",
-    "href": "assignments/project_presentation.html",
-    "title": "Project Presentation",
-    "section": "",
-    "text": "Due date: December 3 and December 5\nMaximum length: 8 minutes",
-    "crumbs": [
-      "Assignments",
-      "Research Project",
-      "Project Presentation"
-    ]
-  },
-  {
-    "objectID": "assignments/project_presentation.html#overview",
-    "href": "assignments/project_presentation.html#overview",
-    "title": "Project Presentation",
-    "section": "Overview",
-    "text": "Overview\nThe presentation will provide an opportunity to share a brief summary of your project and findings with the other members of the class.",
-    "crumbs": [
-      "Assignments",
-      "Research Project",
-      "Project Presentation"
-    ]
-  },
-  {
-    "objectID": "assignments/project_presentation.html#guidelines",
-    "href": "assignments/project_presentation.html#guidelines",
-    "title": "Project Presentation",
-    "section": "Guidelines",
-    "text": "Guidelines\n\nDon’t treat it as a comprehensive overview of your paper\nI would rather you tell a subset of the story well than the whole story in a rushed fashion\nFor instance, you can give a completely successful presentation by describing the motivation and walking through one plot in your paper",
-    "crumbs": [
-      "Assignments",
-      "Research Project",
-      "Project Presentation"
-    ]
-  },
-  {
-    "objectID": "assignments/project_presentation.html#format",
-    "href": "assignments/project_presentation.html#format",
-    "title": "Project Presentation",
-    "section": "Format",
-    "text": "Format\nI anticipate that most people will either: - Create a PowerPoint presentation, or - Walk us through a simple Jupyter Notebook\nAll presentations must be a maximum of 8 minutes long. Concisely communicating an idea in the time allotted is an important skill in its own right.",
-    "crumbs": [
-      "Assignments",
-      "Research Project",
-      "Project Presentation"
-    ]
-  },
-  {
-    "objectID": "assignments/project_presentation.html#submission",
-    "href": "assignments/project_presentation.html#submission",
-    "title": "Project Presentation",
-    "section": "Submission",
-    "text": "Submission\nPresentations should be uploaded to the Discussion forum on Brightspace created for this purpose.",
-    "crumbs": [
-      "Assignments",
-      "Research Project",
-      "Project Presentation"
-    ]
-  },
-  {
-    "objectID": "assignments/project_presentation.html#tips",
-    "href": "assignments/project_presentation.html#tips",
-    "title": "Project Presentation",
-    "section": "Tips",
-    "text": "Tips\nSince many of you will give many research presentations throughout your career, I strongly encourage you to take the opportunity to refine your academic presentation skills.",
-    "crumbs": [
-      "Assignments",
-      "Research Project",
-      "Project Presentation"
-    ]
-  },
-  {
-    "objectID": "assignments/project_idea.html",
-    "href": "assignments/project_idea.html",
-    "title": "Project Idea and Dataset Identification",
-    "section": "",
-    "text": "Due date: February 3\nMaximum length: 500 words (~1-2 pages)",
-    "crumbs": [
-      "Assignments",
-      "Research Project",
-      "Project Idea and Dataset Identification"
-    ]
-  },
-  {
-    "objectID": "assignments/project_idea.html#overview",
-    "href": "assignments/project_idea.html#overview",
-    "title": "Project Idea and Dataset Identification",
-    "section": "Overview",
-    "text": "Overview\nEarly on, I want you to identify and describe your final project. Your description should be short and can be either paragraphs or bullets.",
-    "crumbs": [
-      "Assignments",
-      "Research Project",
-      "Project Idea and Dataset Identification"
-    ]
-  },
-  {
-    "objectID": "assignments/project_idea.html#requirements",
-    "href": "assignments/project_idea.html#requirements",
-    "title": "Project Idea and Dataset Identification",
-    "section": "Requirements",
-    "text": "Requirements\nYour project idea should include the following:\n\nAbstract: An abstract of the proposed study including:\n\nThe topic\nResearch question\nTheoretical motivation\nObject(s) of study\nAnticipated research contribution\n\nDataset Identification: An identification of the dataset you will use and a description of the columns or type of data it will include. If you do not currently have access to these data, explain why not and when you will have access.\nCareer Trajectory: A short (several sentences) description of how the project will fit into your career trajectory.",
-    "crumbs": [
-      "Assignments",
-      "Research Project",
-      "Project Idea and Dataset Identification"
-    ]
-  },
-  {
-    "objectID": "assignments/project_idea.html#submission",
-    "href": "assignments/project_idea.html#submission",
-    "title": "Project Idea and Dataset Identification",
-    "section": "Submission",
-    "text": "Submission\nSubmit your project idea via Brightspace.",
-    "crumbs": [
-      "Assignments",
-      "Research Project",
-      "Project Idea and Dataset Identification"
-    ]
-  },
-  {
-    "objectID": "assignments/project_idea.html#tips",
-    "href": "assignments/project_idea.html#tips",
-    "title": "Project Idea and Dataset Identification",
-    "section": "Tips",
-    "text": "Tips\n\nI strongly urge you to work on a project that will further your academic career outside of the class.\nConsider projects that could lead to publication, pilot analysis for grants or thesis proposals, or fulfill degree requirements.\nYou may work in teams of up to 3 people, but team projects are expected to be more ambitious.\nIf you need ideas for datasets, check out available open datasets.",
-    "crumbs": [
-      "Assignments",
-      "Research Project",
-      "Project Idea and Dataset Identification"
-    ]
-  },
-  {
-    "objectID": "assignments/assignments.html",
-    "href": "assignments/assignments.html",
-    "title": "Assignments",
-    "section": "",
-    "text": "This page provides links to all of the assignments for the course.",
-    "crumbs": [
-      "Assignments",
-      "Overview"
-    ]
-  },
-  {
-    "objectID": "assignments/assignments.html#assignment-types",
-    "href": "assignments/assignments.html#assignment-types",
-    "title": "Assignments",
-    "section": "Assignment Types",
-    "text": "Assignment Types\nThere are three main types of assignments in this course:\n\n1. Coding Challenges\nNearly every week you will have a set of coding challenges to complete. These coding challenges will be turned in on Brightspace but will not be graded. I encourage you to work together on these challenges but to make sure that you understand the concepts yourself.\nEach day I will randomly select a set of students to share their solutions to a selected exercise. If you can’t figure out the problem that’s been assigned to you, then explain where you got stuck and what you tried.\n\n\n2. Research Project\nAs a demonstration of your learning in this course, you will design and carry out a quantitative research project, start to finish. The project has several milestones:\n\nProject Idea and Dataset Identification - Due September 3\nProject Planning Document - Due October 15\nProject Presentation - Due December 3 & 5\nProject Report - Due December 11\n\n\n\n3. Reflection Papers\nTwo times during the course you will respond to a set of reflection questions:\n\nSelf-Assessment Reflection - Due October 15\nFinal Self-Reflection - Due December 12",
-    "crumbs": [
-      "Assignments",
-      "Overview"
-    ]
-  },
-  {
-    "objectID": "assignments/assignments.html#weekly-coding-challenges",
-    "href": "assignments/assignments.html#weekly-coding-challenges",
-    "title": "Assignments",
-    "section": "Weekly Coding Challenges",
-    "text": "Weekly Coding Challenges\n\nWeek 1 Coding Challenge\nWeek 2 Coding Challenges\nWeek 3 Coding Challenges\nWeek 4 Coding Challenges\nWeek 5 Coding Challenges\nWeek 6 Coding Challenges\nWeek 7 Coding Challenges\nWeek 8 Coding Challenges\nWeek 9 Coding Challenges\nWeek 10 Coding Challenges\nWeek 11 Coding Challenges\nWeek 12 Coding Challenges\nWeek 13 Coding Challenges",
-    "crumbs": [
-      "Assignments",
-      "Overview"
-    ]
-  },
-  {
-    "objectID": "assignments/assignments.html#paper-discussions",
-    "href": "assignments/assignments.html#paper-discussions",
-    "title": "Assignments",
-    "section": "Paper Discussions",
-    "text": "Paper Discussions\nEvery Thursday we will review a paper that uses computational methods. On the first day, you will sign up to lead the discussion for one or more of these papers. When leading the discussion, you will prepare a presentation as though you were presenting the paper at a conference and then lead a discussion about it.\nSee the schedule for the list of papers we’ll be discussing each week.",
-    "crumbs": [
-      "Assignments",
-      "Overview"
-    ]
-  },
-  {
-    "objectID": "assignments/final_self_reflection.html",
-    "href": "assignments/final_self_reflection.html",
-    "title": "Final Self-Reflection",
-    "section": "",
-    "text": "Due date: May 4",
-    "crumbs": [
-      "Assignments",
-      "Reflections",
-      "Final Self-Reflection"
-    ]
-  },
-  {
-    "objectID": "assignments/final_self_reflection.html#overview",
-    "href": "assignments/final_self_reflection.html#overview",
-    "title": "Final Self-Reflection",
-    "section": "Overview",
-    "text": "Overview\nThis final reflection is your opportunity to assess your learning and growth throughout the entire course. By the end of the semester, you should have a clear vision of your accomplishments and growth, which you will turn into a grade recommendation.",
-    "crumbs": [
-      "Assignments",
-      "Reflections",
-      "Final Self-Reflection"
-    ]
-  },
-  {
-    "objectID": "assignments/final_self_reflection.html#questions-to-address",
-    "href": "assignments/final_self_reflection.html#questions-to-address",
-    "title": "Final Self-Reflection",
-    "section": "Questions to Address",
-    "text": "Questions to Address\nPlease respond to the following:\n\nCourse Goals: Review your initial learning goals. To what extent did you achieve them?\nAccomplishments: What are your major accomplishments from this course?\nGrowth: How have you grown as a programmer and data scientist?\nChallenges: What were the biggest challenges you faced and how did you overcome them?\nSkills: What specific skills have you developed that you will use in the future?\nFinal Project: Reflect on your final project. What are you proud of? What would you do differently?\nGrade Assessment: Based on the grading rubric in the syllabus and your honest and meaningful reflection of your work, what grade do you believe you have earned? Provide specific evidence for your assessment using the rubric:\n\nClass participation (25%)\nFinal Project Idea (5%)\nFinal Project Proposal (10%)\nFinal Project paper/Jupyter notebook (40%)\nFinal Presentation (20%)\n\nFuture Learning: What computational methods or data science topics would you like to learn next?",
-    "crumbs": [
-      "Assignments",
-      "Reflections",
-      "Final Self-Reflection"
-    ]
-  },
-  {
-    "objectID": "assignments/final_self_reflection.html#submission",
-    "href": "assignments/final_self_reflection.html#submission",
-    "title": "Final Self-Reflection",
-    "section": "Submission",
-    "text": "Submission\nSubmit your reflection via Brightspace.",
-    "crumbs": [
-      "Assignments",
-      "Reflections",
-      "Final Self-Reflection"
-    ]
-  },
-  {
-    "objectID": "assignments/final_self_reflection.html#format",
-    "href": "assignments/final_self_reflection.html#format",
-    "title": "Final Self-Reflection",
-    "section": "Format",
-    "text": "Format\nThis should be a comprehensive and thoughtful reflection. Aim for 3-5 pages total.",
-    "crumbs": [
-      "Assignments",
-      "Reflections",
-      "Final Self-Reflection"
-    ]
-  },
-  {
-    "objectID": "assignments/final_self_reflection.html#note",
-    "href": "assignments/final_self_reflection.html#note",
-    "title": "Final Self-Reflection",
-    "section": "Note",
-    "text": "Note\nAs the instructor-of-record, I maintain the right to disagree with your assessment and alter grades as I see fit, but any time that I do this it will be accompanied by an explanation and discussion. These personal assessments, reflecting both honest and meaningful reflection of your work will be the most important factor in final grades.",
-    "crumbs": [
-      "Assignments",
-      "Reflections",
-      "Final Self-Reflection"
-    ]
-  },
-  {
-    "objectID": "assignments/project_planning.html",
-    "href": "assignments/project_planning.html",
-    "title": "Project Planning Document",
-    "section": "",
-    "text": "Due date: March 10\nMaximum length: ~4-5 pages",
-    "crumbs": [
-      "Assignments",
-      "Research Project",
-      "Project Planning Document"
-    ]
-  },
-  {
-    "objectID": "assignments/project_planning.html#overview",
-    "href": "assignments/project_planning.html#overview",
-    "title": "Project Planning Document",
-    "section": "Overview",
-    "text": "Overview\nThe project planning document is a basic shell/outline of an empirical quantitative research paper.",
-    "crumbs": [
-      "Assignments",
-      "Research Project",
-      "Project Planning Document"
-    ]
-  },
-  {
-    "objectID": "assignments/project_planning.html#three-big-questions",
-    "href": "assignments/project_planning.html#three-big-questions",
-    "title": "Project Planning Document",
-    "section": "Three Big Questions",
-    "text": "Three Big Questions\nThe planning document should focus around three big questions:\n\n1. Why are you planning to do this analysis?\nMake sure to introduce any background information about the topic, the community, your business, or anything else that will be required to properly contextualize your study.\n\n\n2. How will you get the data to analyze?\nDescribe the data sources you will collect and how they will be collected.\n\n\n3. How will you analyze the data?\nDescribe the visualizations, tables, or statistical tests that you will produce.",
-    "crumbs": [
-      "Assignments",
-      "Research Project",
-      "Project Planning Document"
-    ]
-  },
-  {
-    "objectID": "assignments/project_planning.html#submission",
-    "href": "assignments/project_planning.html#submission",
-    "title": "Project Planning Document",
-    "section": "Submission",
-    "text": "Submission\nSubmit your planning document via Brightspace.",
-    "crumbs": [
-      "Assignments",
-      "Research Project",
-      "Project Planning Document"
-    ]
-  },
-  {
-    "objectID": "assignments/project_planning.html#resources",
-    "href": "assignments/project_planning.html#resources",
-    "title": "Project Planning Document",
-    "section": "Resources",
-    "text": "Resources\n\nSee the planning document guide for a helpful approach.",
-    "crumbs": [
-      "Assignments",
-      "Research Project",
-      "Project Planning Document"
-    ]
-  },
-  {
-    "objectID": "assignments/project_report.html",
-    "href": "assignments/project_report.html",
-    "title": "Project Report",
-    "section": "",
-    "text": "Due date: May 4\nMaximum length: 4000 words (~15 pages)",
-    "crumbs": [
-      "Assignments",
-      "Research Project",
-      "Project Report"
-    ]
-  },
-  {
-    "objectID": "assignments/project_report.html#overview",
-    "href": "assignments/project_report.html#overview",
-    "title": "Project Report",
-    "section": "Overview",
-    "text": "Overview\nYou will write a document or a Jupyter Notebook that will ideally provide the foundation for a high quality short research paper that you might revise and submit for publication. I do not expect the report to be ready for publication, but it should contain polished drafts of all the necessary components of a scholarly quantitative empirical research study.",
-    "crumbs": [
-      "Assignments",
-      "Research Project",
-      "Project Report"
-    ]
-  },
-  {
-    "objectID": "assignments/project_report.html#format-options",
-    "href": "assignments/project_report.html#format-options",
-    "title": "Project Report",
-    "section": "Format Options",
-    "text": "Format Options\n\nJupyter Notebook (Recommended)\nThe great thing about a Jupyter Notebook is that it allows you to provide data, code, and any documentation sufficient to enable the replication of all analysis and visualizations.\n\n\nWord Document\nIf you choose to write the report as a Word document, then you will need to include the code in a separate file.",
-    "crumbs": [
-      "Assignments",
-      "Research Project",
-      "Project Report"
-    ]
-  },
-  {
-    "objectID": "assignments/project_report.html#content-requirements",
-    "href": "assignments/project_report.html#content-requirements",
-    "title": "Project Report",
-    "section": "Content Requirements",
-    "text": "Content Requirements\nYour report should include:\n\nBrief summary of the purpose and importance of this research\nResearch questions or hypotheses\nMethods: How you collected and processed the data\nAnalysis: Visualizations, tables, and statistical tests\nResults and Discussion: Interpretation of your findings\nCode and data: Sufficient for replication",
-    "crumbs": [
-      "Assignments",
-      "Research Project",
-      "Project Report"
-    ]
-  },
-  {
-    "objectID": "assignments/project_report.html#what-you-can-skip",
-    "href": "assignments/project_report.html#what-you-can-skip",
-    "title": "Project Report",
-    "section": "What You Can Skip",
-    "text": "What You Can Skip\nBecause the emphasis in this class is on methods and because I’m not an expert in each of your fields, I’m happy to assume that your paper has already established: - The relevance and significance of your study - A comprehensive literature review - A well-grounded conceptual approach - Compelling reason why this research is important\nYou do not need to focus extensively on these elements in your written submission.",
-    "crumbs": [
-      "Assignments",
-      "Research Project",
-      "Project Report"
-    ]
-  },
-  {
-    "objectID": "assignments/project_report.html#citations",
-    "href": "assignments/project_report.html#citations",
-    "title": "Project Report",
-    "section": "Citations",
-    "text": "Citations\nJupyter Notebooks do not have all of the tools for citations that Word or LaTeX or even Google Docs have, so while I expect you to cite related work your references section does not need to be as polished as citation management software would make it.",
-    "crumbs": [
-      "Assignments",
-      "Research Project",
-      "Project Report"
-    ]
-  },
-  {
-    "objectID": "assignments/project_report.html#submission",
-    "href": "assignments/project_report.html#submission",
-    "title": "Project Report",
-    "section": "Submission",
-    "text": "Submission\nSubmit your report via Brightspace.",
-    "crumbs": [
-      "Assignments",
-      "Research Project",
-      "Project Report"
-    ]
-  },
-  {
-    "objectID": "assignments/project_report.html#tips",
-    "href": "assignments/project_report.html#tips",
-    "title": "Project Report",
-    "section": "Tips",
-    "text": "Tips\n\nEnsure your work is replicable\nProvide clear documentation\nInclude well-labeled visualizations\nMake sure your code runs without errors",
-    "crumbs": [
-      "Assignments",
-      "Research Project",
-      "Project Report"
-    ]
-  },
-  {
-    "objectID": "assignments/week_10_coding_challenges.html",
-    "href": "assignments/week_10_coding_challenges.html",
-    "title": "Week 10 Coding Challenge",
-    "section": "",
-    "text": "Today’s notebook only has four exercises, but they are tough.",
-    "crumbs": [
-      "Assignments",
-      "Coding Challenges",
-      "Week 10 Coding Challenge"
-    ]
-  },
-  {
-    "objectID": "assignments/week_10_coding_challenges.html#submission",
-    "href": "assignments/week_10_coding_challenges.html#submission",
-    "title": "Week 10 Coding Challenge",
-    "section": "Submission",
-    "text": "Submission\nSubmit your completed work via Brightspace.",
-    "crumbs": [
-      "Assignments",
-      "Coding Challenges",
-      "Week 10 Coding Challenge"
-    ]
-  },
-  {
-    "objectID": "assignments/week_10_coding_challenges.html#presentation",
-    "href": "assignments/week_10_coding_challenges.html#presentation",
-    "title": "Week 10 Coding Challenge",
-    "section": "Presentation",
-    "text": "Presentation\nBe prepared to present your solution if randomly selected during class.",
-    "crumbs": [
-      "Assignments",
-      "Coding Challenges",
-      "Week 10 Coding Challenge"
-    ]
-  },
-  {
-    "objectID": "assignments/week_12_coding_challenges.html",
-    "href": "assignments/week_12_coding_challenges.html",
-    "title": "Week 12 Coding Challenge",
-    "section": "",
-    "text": "Today’s coding challenges are really simple:\nThis should be pretty quick and I encourage you to use some time today to go back to a lesson that is confusing and do some work to understand it better.",
-    "crumbs": [
-      "Assignments",
-      "Coding Challenges",
-      "Week 12 Coding Challenge"
-    ]
-  },
-  {
-    "objectID": "assignments/week_12_coding_challenges.html#submission",
-    "href": "assignments/week_12_coding_challenges.html#submission",
-    "title": "Week 12 Coding Challenge",
-    "section": "Submission",
-    "text": "Submission\nSubmit your completed work via Brightspace.",
-    "crumbs": [
-      "Assignments",
-      "Coding Challenges",
-      "Week 12 Coding Challenge"
-    ]
-  },
-  {
-    "objectID": "assignments/week_12_coding_challenges.html#presentation",
-    "href": "assignments/week_12_coding_challenges.html#presentation",
-    "title": "Week 12 Coding Challenge",
-    "section": "Presentation",
-    "text": "Presentation\nBe prepared to present your solution if randomly selected during class.",
-    "crumbs": [
-      "Assignments",
-      "Coding Challenges",
-      "Week 12 Coding Challenge"
-    ]
-  },
-  {
-    "objectID": "assignments/week_1_coding_challenge.html",
-    "href": "assignments/week_1_coding_challenge.html",
-    "title": "Week 1 Coding Challenge",
-    "section": "",
-    "text": "Our goal is to get your computer set up with the software you will need for this course and to get started with some basic programming concepts.\nWork through the goals on this page in order; they should take around 2 hours. Don’t hesitate to ask for help!",
-    "crumbs": [
-      "Assignments",
-      "Coding Challenges",
-      "Week 1 Coding Challenge"
-    ]
-  },
-  {
-    "objectID": "assignments/week_1_coding_challenge.html#goal-1-set-up-python-and-make-a-class-folder",
-    "href": "assignments/week_1_coding_challenge.html#goal-1-set-up-python-and-make-a-class-folder",
-    "title": "Week 1 Coding Challenge",
-    "section": "Goal #1: Set up Python and make a class folder",
-    "text": "Goal #1: Set up Python and make a class folder\n(Estimated time: 15 minutes)\n\nFirst things first: We are going to install “Miniconda”. This includes Python and a package manager, for installing more stuff. You should be able to install it from https://docs.anaconda.com/miniconda/.\nWe are also going to install VSCode. This is an IDE, which is an application designed to make programming easier. Find your operating system on this page and follow the instructions.\nNext, let’s install the packages we’ll need for the class. Open VSCode, and click Terminal &gt; New Terminal. In the terminal window (at the bottom), type conda install pandas seaborn jupyterlab. It will ask if you want to install a whole bunch of stuff. Type y and press enter.\nOnce you have VSCode installed, you should also install the Python, Jupyter, Quarto, and Github Copilot extensions. Extension search can be found on the left-hand menu, or with Ctrl-Shift-X.\nYou should also make a folder to use for your class files. A dedicated folder will help you keep track of all the items you download or write as part of the class, and make them easier to find later. One of the secrets of data science is being kind to your future self by being extremely organized. You may want to create sub-folders like Programming Challenges and Final Project. In VSCode, open the folder by clicking File &gt; Open Folder....",
-    "crumbs": [
-      "Assignments",
-      "Coding Challenges",
-      "Week 1 Coding Challenge"
-    ]
-  },
-  {
-    "objectID": "assignments/week_1_coding_challenge.html#goal-2-practice-running-python-code-from-an-existing-jupyter-notebook",
-    "href": "assignments/week_1_coding_challenge.html#goal-2-practice-running-python-code-from-an-existing-jupyter-notebook",
-    "title": "Week 1 Coding Challenge",
-    "section": "Goal #2: Practice running Python code from an existing Jupyter notebook",
-    "text": "Goal #2: Practice running Python code from an existing Jupyter notebook\n(Estimated time: 5 minutes)\nWe’re going to use Jupyter notebooks to write and run Python throughout the class. Jupyter notebooks can mix together text and code. You can make changes and immediately see what happens and you can even export them to different file formats. In this section of the setup process, we’ll try out your Python setup by running code in an existing notebook.\nRight click this link, save it to your computer, and then open it in VSCode. Run each of the cells and read through the instructions.",
-    "crumbs": [
-      "Assignments",
-      "Coding Challenges",
-      "Week 1 Coding Challenge"
-    ]
-  },
-  {
-    "objectID": "assignments/week_1_coding_challenge.html#goal-3-start-learning-python",
-    "href": "assignments/week_1_coding_challenge.html#goal-3-start-learning-python",
-    "title": "Week 1 Coding Challenge",
-    "section": "Goal #3: Start learning Python!",
-    "text": "Goal #3: Start learning Python!\n(Estimated time: 60 - 90 minutes)\nIt’s time to start learning, reading, and writing some Python! This is a self-directed tutorial that goes through some of the basic syntax and concepts which we will come back to and explain further over the next few weeks.\nDay 1 Tutorial",
-    "crumbs": [
-      "Assignments",
-      "Coding Challenges",
-      "Week 1 Coding Challenge"
-    ]
-  },
-  {
-    "objectID": "assignments/week_1_coding_challenge.html#goal-4-practice-python-using-learnpython",
-    "href": "assignments/week_1_coding_challenge.html#goal-4-practice-python-using-learnpython",
-    "title": "Week 1 Coding Challenge",
-    "section": "Goal #4: Practice Python using LearnPython",
-    "text": "Goal #4: Practice Python using LearnPython\n(Estimated time: 30 - 60 minutes)\nIt’s time to use what we’ve learned in the tutorial and get some practice thinking about and solving problems in Python.\nYour next task is to work through the first two lessons on learnpython.org (there are many lessons, so don’t just keep hitting “Next” or you’ll never finish!):\n\nHello, World\nVariables and Types\n\nYou may find the LearnPython interface is different from your Jupyter Notebook. No worries, it’s still Python, even though it looks a bit different. You could do these lessons in Jupyter Notebook by copying & pasting the code in the left-hand boxes from LearnPython into Jupyter Notebook cells and run them from Jupyter.",
-    "crumbs": [
-      "Assignments",
-      "Coding Challenges",
-      "Week 1 Coding Challenge"
-    ]
-  },
-  {
-    "objectID": "assignments/week_1_coding_challenge.html#submission",
-    "href": "assignments/week_1_coding_challenge.html#submission",
-    "title": "Week 1 Coding Challenge",
-    "section": "Submission",
-    "text": "Submission\nSubmit your completed work via Brightspace.",
-    "crumbs": [
-      "Assignments",
-      "Coding Challenges",
-      "Week 1 Coding Challenge"
-    ]
-  },
-  {
-    "objectID": "assignments/week_3_coding_challenges.html",
-    "href": "assignments/week_3_coding_challenges.html",
-    "title": "Week 3 Coding Challenge",
-    "section": "",
-    "text": "Chapter 5: Exercises 1, 2\nChapter 6: Exercise 5\nChapter 8: Exercises 4, 5, and 6",
-    "crumbs": [
-      "Assignments",
-      "Coding Challenges",
-      "Week 3 Coding Challenge"
-    ]
-  },
-  {
-    "objectID": "assignments/week_3_coding_challenges.html#questions-from-python-for-everybody",
-    "href": "assignments/week_3_coding_challenges.html#questions-from-python-for-everybody",
-    "title": "Week 3 Coding Challenge",
-    "section": "",
-    "text": "Chapter 5: Exercises 1, 2\nChapter 6: Exercise 5\nChapter 8: Exercises 4, 5, and 6",
-    "crumbs": [
-      "Assignments",
-      "Coding Challenges",
-      "Week 3 Coding Challenge"
-    ]
-  },
-  {
-    "objectID": "assignments/week_3_coding_challenges.html#wordplay-challenges",
-    "href": "assignments/week_3_coding_challenges.html#wordplay-challenges",
-    "title": "Week 3 Coding Challenge",
-    "section": "Wordplay Challenges",
-    "text": "Wordplay Challenges\nDownload this zip file and extract it to your Desktop (or the folder you are using for the class). Open the file “Wordplay Examples.ipynb” and run the first cell to make sure that it’s working.\nUse the examples given to answer the following questions:\n\nFind all words that start with ‘a’ and are 9 or more letters long.\nWhat is the longest word that starts with a ‘q’?\nFind all words that end with ‘nge’\nFind a word that matches “aey” (here ”” means any letter). Are there any words that match?\nPrint every other word that matches the condition in (1) above.\nFind at least one word that uses all five vowels in order.",
-    "crumbs": [
-      "Assignments",
-      "Coding Challenges",
-      "Week 3 Coding Challenge"
-    ]
-  },
-  {
-    "objectID": "assignments/week_3_coding_challenges.html#submission",
-    "href": "assignments/week_3_coding_challenges.html#submission",
-    "title": "Week 3 Coding Challenge",
-    "section": "Submission",
-    "text": "Submission\nSubmit your completed work via Brightspace.",
-    "crumbs": [
-      "Assignments",
-      "Coding Challenges",
-      "Week 3 Coding Challenge"
-    ]
-  },
-  {
-    "objectID": "assignments/week_3_coding_challenges.html#presentation",
-    "href": "assignments/week_3_coding_challenges.html#presentation",
-    "title": "Week 3 Coding Challenge",
-    "section": "Presentation",
-    "text": "Presentation\nBe prepared to present your solution if randomly selected during class.",
-    "crumbs": [
-      "Assignments",
-      "Coding Challenges",
-      "Week 3 Coding Challenge"
-    ]
-  },
-  {
-    "objectID": "assignments/week_5_coding_challenges.html",
-    "href": "assignments/week_5_coding_challenges.html",
-    "title": "Week 5 Coding Challenge",
-    "section": "",
-    "text": "Chapter 9: Exercises 2, 3, 4, and 5*\nChapter 10: Exercises 1, 2, 3*",
-    "crumbs": [
-      "Assignments",
-      "Coding Challenges",
-      "Week 5 Coding Challenge"
-    ]
-  },
-  {
-    "objectID": "assignments/week_5_coding_challenges.html#python-for-everybody",
-    "href": "assignments/week_5_coding_challenges.html#python-for-everybody",
-    "title": "Week 5 Coding Challenge",
-    "section": "",
-    "text": "Chapter 9: Exercises 2, 3, 4, and 5*\nChapter 10: Exercises 1, 2, 3*",
-    "crumbs": [
-      "Assignments",
-      "Coding Challenges",
-      "Week 5 Coding Challenge"
-    ]
-  },
-  {
-    "objectID": "assignments/week_5_coding_challenges.html#dictionary-and-tuple-notebook",
-    "href": "assignments/week_5_coding_challenges.html#dictionary-and-tuple-notebook",
-    "title": "Week 5 Coding Challenge",
-    "section": "Dictionary and Tuple Notebook",
-    "text": "Dictionary and Tuple Notebook\nComplete the exercises in today’s notebook.",
-    "crumbs": [
-      "Assignments",
-      "Coding Challenges",
-      "Week 5 Coding Challenge"
-    ]
-  },
-  {
-    "objectID": "assignments/week_5_coding_challenges.html#baby-name-challenges",
-    "href": "assignments/week_5_coding_challenges.html#baby-name-challenges",
-    "title": "Week 5 Coding Challenge",
-    "section": "Baby Name Challenges",
-    "text": "Baby Name Challenges\nDownload the baby names data and code and complete each of the exercises.\n\nAbove and beyond\n\nWrite a function that takes a prefix as input and prints the number of boys and girls with that prefix (e.g., get_names(“m”) would list all names that start with “m” and get_names(“ma”) would only list those that start with “ma”).\nPlot (in Excel) the number of people who share a name with n other people in the data set, where n is 4 to 19.",
-    "crumbs": [
-      "Assignments",
-      "Coding Challenges",
-      "Week 5 Coding Challenge"
-    ]
-  },
-  {
-    "objectID": "assignments/week_5_coding_challenges.html#submission",
-    "href": "assignments/week_5_coding_challenges.html#submission",
-    "title": "Week 5 Coding Challenge",
-    "section": "Submission",
-    "text": "Submission\nSubmit your completed work via Brightspace.",
-    "crumbs": [
-      "Assignments",
-      "Coding Challenges",
-      "Week 5 Coding Challenge"
-    ]
-  },
-  {
-    "objectID": "assignments/week_5_coding_challenges.html#presentation",
-    "href": "assignments/week_5_coding_challenges.html#presentation",
-    "title": "Week 5 Coding Challenge",
-    "section": "Presentation",
-    "text": "Presentation\nBe prepared to present your solution if randomly selected during class.",
-    "crumbs": [
-      "Assignments",
-      "Coding Challenges",
-      "Week 5 Coding Challenge"
-    ]
-  },
-  {
-    "objectID": "assignments/week_7_coding_challenges.html",
-    "href": "assignments/week_7_coding_challenges.html",
-    "title": "Week 7 Coding Challenge",
-    "section": "",
-    "text": "There are 7 exercises in today’s notebook. We will talk about the first five in class; the last two exercises are more open-ended and I would love everyone to upload your code and visualization to Element, so that we can all admire your work.",
-    "crumbs": [
-      "Assignments",
-      "Coding Challenges",
-      "Week 7 Coding Challenge"
-    ]
-  },
-  {
-    "objectID": "assignments/week_7_coding_challenges.html#submission",
-    "href": "assignments/week_7_coding_challenges.html#submission",
-    "title": "Week 7 Coding Challenge",
-    "section": "Submission",
-    "text": "Submission\nSubmit your completed work via Brightspace.",
-    "crumbs": [
-      "Assignments",
-      "Coding Challenges",
-      "Week 7 Coding Challenge"
-    ]
-  },
-  {
-    "objectID": "assignments/week_7_coding_challenges.html#presentation",
-    "href": "assignments/week_7_coding_challenges.html#presentation",
-    "title": "Week 7 Coding Challenge",
-    "section": "Presentation",
-    "text": "Presentation\nBe prepared to present your solution if randomly selected during class.",
-    "crumbs": [
-      "Assignments",
-      "Coding Challenges",
-      "Week 7 Coding Challenge"
-    ]
-  },
-  {
-    "objectID": "assignments/week_9_coding_challenges.html",
-    "href": "assignments/week_9_coding_challenges.html",
-    "title": "Week 9 Coding Challenge",
-    "section": "",
-    "text": "In our earlier assignment, we played around with the Reddit API and you learned how to query APIs. In the project, we’re going to try to move from this technical understanding to actually using APIs to answer real questions.\nDo the following, in a Jupyter notebook:",
-    "crumbs": [
-      "Assignments",
-      "Coding Challenges",
-      "Week 9 Coding Challenge"
-    ]
-  },
-  {
-    "objectID": "assignments/week_9_coding_challenges.html#the-question",
-    "href": "assignments/week_9_coding_challenges.html#the-question",
-    "title": "Week 9 Coding Challenge",
-    "section": "The Question",
-    "text": "The Question\nIdentify a question that Reddit data (or data gathered from another API) could help you to answer. Figure out a query that would gather that data.\n\nExplain the question you would like to answer, and why it is interesting.\nDescribe the data that you would like to gather, the analysis on the data that you would like to perform, and why it would answer the question",
-    "crumbs": [
-      "Assignments",
-      "Coding Challenges",
-      "Week 9 Coding Challenge"
-    ]
-  },
-  {
-    "objectID": "assignments/week_9_coding_challenges.html#gathering-data",
-    "href": "assignments/week_9_coding_challenges.html#gathering-data",
-    "title": "Week 9 Coding Challenge",
-    "section": "Gathering Data",
-    "text": "Gathering Data\n\nSave the raw data that you get from PRAW\nWrite code that filters the data into what you are interested in and saves it as a CSV file.",
-    "crumbs": [
-      "Assignments",
-      "Coding Challenges",
-      "Week 9 Coding Challenge"
-    ]
-  },
-  {
-    "objectID": "assignments/week_9_coding_challenges.html#analysis",
-    "href": "assignments/week_9_coding_challenges.html#analysis",
-    "title": "Week 9 Coding Challenge",
-    "section": "Analysis",
-    "text": "Analysis\n\nCome up with a visualization and/or statistical test that would help to answer your question.\nCreate that visualization or run that statistical test.",
-    "crumbs": [
-      "Assignments",
-      "Coding Challenges",
-      "Week 9 Coding Challenge"
-    ]
-  },
-  {
-    "objectID": "assignments/week_9_coding_challenges.html#submission",
-    "href": "assignments/week_9_coding_challenges.html#submission",
-    "title": "Week 9 Coding Challenge",
-    "section": "Submission",
-    "text": "Submission\nSubmit your completed work via Brightspace.",
-    "crumbs": [
-      "Assignments",
-      "Coding Challenges",
-      "Week 9 Coding Challenge"
-    ]
-  },
-  {
-    "objectID": "assignments/week_9_coding_challenges.html#presentation",
-    "href": "assignments/week_9_coding_challenges.html#presentation",
-    "title": "Week 9 Coding Challenge",
-    "section": "Presentation",
-    "text": "Presentation\nBe prepared to present your solution if randomly selected during class.",
-    "crumbs": [
-      "Assignments",
-      "Coding Challenges",
-      "Week 9 Coding Challenge"
-    ]
-  },
-  {
-    "objectID": "day_10/lecture/day_10.html#dad-joke",
-    "href": "day_10/lecture/day_10.html#dad-joke",
-    "title": "Computational Text Analysis",
-    "section": "Dad Joke",
-    "text": "Dad Joke\nI wanted to marry a Carbon 14 expert but all she wanted to do was date"
-  },
-  {
-    "objectID": "day_10/lecture/day_10.html#housekeeping",
-    "href": "day_10/lecture/day_10.html#housekeeping",
-    "title": "Computational Text Analysis",
-    "section": "Housekeeping",
-    "text": "Housekeeping\n\nSelf-assessment reflection - sign up to talk to me"
-  },
-  {
-    "objectID": "day_10/lecture/day_10.html#text-analysis",
-    "href": "day_10/lecture/day_10.html#text-analysis",
-    "title": "Computational Text Analysis",
-    "section": "Text Analysis",
-    "text": "Text Analysis\n\nThe Power of Counting\n\nWord frequency\nWord co-occurrence\nTF-IDF\n\nSentiment Analysis\n\nPositive vs. Negative\n\nClassification\n\nSupervised vs. Unsupervised\n\nTopic Modeling"
-  },
-  {
-    "objectID": "day_12/lecture/day_12.html#dad-joke",
-    "href": "day_12/lecture/day_12.html#dad-joke",
-    "title": "COM 674",
-    "section": "Dad Joke",
-    "text": "Dad Joke\nWhen I was a kid we were so poor that we had to share a calculator, and the “X” button didn’t even work.\n Times were hard."
-  },
-  {
-    "objectID": "day_12/lecture/day_12.html#housekeeping",
-    "href": "day_12/lecture/day_12.html#housekeeping",
-    "title": "COM 674",
-    "section": "Housekeeping",
-    "text": "Housekeeping\n\nWeek 13 is up\nShould have data by now for your final project\nGroups for Week 12 assignment\nThe rest of the class\n\nGit\nAdditional topics"
-  },
-  {
-    "objectID": "day_12/lecture/day_12.html#cleaning-data",
-    "href": "day_12/lecture/day_12.html#cleaning-data",
-    "title": "COM 674",
-    "section": "Cleaning data",
-    "text": "Cleaning data\n\nWhy is data ‘dirty’?\n\nErrors in transcription\nBugs in software that produced it\nMissing data (e.g., when a date is unknown it’s recoded as Jan 1)\nCan’t be read by software\n\nWrong date format\nMultiple age formats - e.g., ‘4’, ‘4 yo’, ‘4 years’"
-  },
-  {
-    "objectID": "day_12/lecture/day_12.html#cleaning-data-1",
-    "href": "day_12/lecture/day_12.html#cleaning-data-1",
-    "title": "COM 674",
-    "section": "Cleaning data",
-    "text": "Cleaning data\n\nObservations that shouldn’t be in the analysis\nInappropriate for statistical tests\n\nlog-transformations\nCoding groups (e.g., high-risk and low-risk)"
-  },
-  {
-    "objectID": "day_12/lecture/day_12.html#operationalization",
-    "href": "day_12/lecture/day_12.html#operationalization",
-    "title": "COM 674",
-    "section": "Operationalization",
-    "text": "Operationalization\n\nMaking a construct measurable\n\nConstructs are not empirical and can’t be tested directly\nWe must argue that our measures represent or at least are correlated with the concepts we really care about\nHypotheses relate concepts together, e.g., “socially cohesive groups are more willing to contribute to shared goals”\nIn order to test this, need to argue that you have something that represents social cohesion, and something that represents shared goals."
-  },
-  {
-    "objectID": "day_12/lecture/day_12.html#online-data",
-    "href": "day_12/lecture/day_12.html#online-data",
-    "title": "COM 674",
-    "section": "Online data",
-    "text": "Online data\n\nOnline data is “raw”\n\nThis is generally wonderful - we have actual conversations, full text, etc.\n\nHowever, it isn’t made for researchers\n\nIt isn’t designed to measure a construct\nWe have to do the work to create measures that measure them (and recognize when we can’t)"
-  },
-  {
-    "objectID": "day_12/lecture/day_12.html#hw-review",
-    "href": "day_12/lecture/day_12.html#hw-review",
-    "title": "COM 674",
-    "section": "HW Review",
-    "text": "HW Review"
-  },
-  {
-    "objectID": "day_12/lecture/day_12.html#papers",
-    "href": "day_12/lecture/day_12.html#papers",
-    "title": "COM 674",
-    "section": "Papers",
-    "text": "Papers\nSara Klingenstein, Tim Hitchcock, and Simon DeDeo. 2014. The civilizing process in London’s Old Baily. Proceedings of the National Academy of Sciences"
-  },
-  {
-    "objectID": "day_12/lecture/day_12.html#how-can-we-detect-changes-in-culture",
-    "href": "day_12/lecture/day_12.html#how-can-we-detect-changes-in-culture",
-    "title": "COM 674",
-    "section": "How can we detect changes in culture?",
-    "text": "How can we detect changes in culture?\n\nDigitization of historical records allows for comparison across time\n\nGoogle N-gram viewer\nCensuses\n\nThis paper uses court transcripts from London’s Old Bailey courthouse from 1760s-1910s"
-  },
-  {
-    "objectID": "day_12/lecture/day_12.html#violent-and-non-violent-offenses-are-talked-about-differently",
-    "href": "day_12/lecture/day_12.html#violent-and-non-violent-offenses-are-talked-about-differently",
-    "title": "COM 674",
-    "section": "Violent and non-violent offenses are talked about differently",
-    "text": "Violent and non-violent offenses are talked about differently"
-  },
-  {
-    "objectID": "day_12/lecture/day_12.html#some-questions",
-    "href": "day_12/lecture/day_12.html#some-questions",
-    "title": "COM 674",
-    "section": "Some questions",
-    "text": "Some questions\n\nWhat are some of the dangers of doing this kind of work?\nWhat are some computational methods that are becoming “normalized” in your discipline?"
-  },
-  {
-    "objectID": "day_12/lecture/day_12.html#merton-paper",
-    "href": "day_12/lecture/day_12.html#merton-paper",
-    "title": "COM 674",
-    "section": "Merton Paper",
-    "text": "Merton Paper\nMerton, Robert K. 1948. The Bearing of Empirical Research upon the Development of Social Theory. American Sociological Review."
-  },
-  {
-    "objectID": "day_12/lecture/day_12.html#empirical-research-for-developing-theory",
-    "href": "day_12/lecture/day_12.html#empirical-research-for-developing-theory",
-    "title": "COM 674",
-    "section": "Empirical research for developing theory",
-    "text": "Empirical research for developing theory\n\nEmpirical work doesn’t just verify/test theories\nSerendipity: Something odd in data that needs an explanation\nRecasting: New aspects become more salient\nRefocusing: Advances in procedures lead to attention where things can be measured/tested\nClarification: Operationalizing concepts requires drawing boundaries around them"
-  },
-  {
-    "objectID": "day_14/lecture/day_14.html#dad-joke",
-    "href": "day_14/lecture/day_14.html#dad-joke",
-    "title": "COM 674",
-    "section": "Dad Joke",
-    "text": "Dad Joke\nSay “mucho” to your friends who speak Spanish.\nIt means a lot to them"
-  },
-  {
-    "objectID": "day_14/lecture/day_14.html#housekeeping",
-    "href": "day_14/lecture/day_14.html#housekeeping",
-    "title": "COM 674",
-    "section": "Housekeeping",
-    "text": "Housekeeping\n\nEthics discussion on Thursday\nNo class next Tuesday\nPresentations during last week (~8 minutes each)\n\nFocus on 1-2 key points\n\nFinal project and SAR due the next week (~December 11)"
-  },
-  {
-    "objectID": "day_14/lecture/day_14.html#reflection",
-    "href": "day_14/lecture/day_14.html#reflection",
-    "title": "COM 674",
-    "section": "Reflection",
-    "text": "Reflection\n\nWhat topics do you wish we covered in class?\nAre there topics you’d like help finding resources for?"
-  },
-  {
-    "objectID": "day_14/lecture/day_14.html#plan-for-the-day",
-    "href": "day_14/lecture/day_14.html#plan-for-the-day",
-    "title": "COM 674",
-    "section": "Plan for the day",
-    "text": "Plan for the day\n\nCo-working"
-  },
-  {
-    "objectID": "day_3/lecture/day_3.html#dad-joke",
-    "href": "day_3/lecture/day_3.html#dad-joke",
-    "title": "Week 3!",
-    "section": "Dad Joke",
-    "text": "Dad Joke\n\nWhat did the French man say when he went down the slide?\nYeeesss!"
-  },
-  {
-    "objectID": "day_3/lecture/day_3.html#housekeeping",
-    "href": "day_3/lecture/day_3.html#housekeeping",
-    "title": "Week 3!",
-    "section": "Housekeeping",
-    "text": "Housekeeping\n\nIdeas for projects due today\n\nFeedback within the next few days\n\nPep talk :)\n\nIt’s OK to be lost\nThe class is front-loaded; we will slow down"
-  },
-  {
-    "objectID": "day_3/lecture/day_3.html#concepts-i-want-to-discuss",
-    "href": "day_3/lecture/day_3.html#concepts-i-want-to-discuss",
-    "title": "Week 3!",
-    "section": "Concepts I want to discuss",
-    "text": "Concepts I want to discuss\n\nImporting\nComments in code"
-  },
-  {
-    "objectID": "day_3/lecture/day_3.html#comments-and-functions",
-    "href": "day_3/lecture/day_3.html#comments-and-functions",
-    "title": "Week 3!",
-    "section": "Comments and functions",
-    "text": "Comments and functions\n\n\ndef exclaim(s):\n  # Changes a normal string into an exclamation!\n  s = s.upper()\n  return s + '!!'\n  \nexclaim(\"Hello, everyone\")\n\n'HELLO, EVERYONE!!'"
-  },
-  {
-    "objectID": "day_3/lecture/day_3.html#concepts-i-want-to-discuss-1",
-    "href": "day_3/lecture/day_3.html#concepts-i-want-to-discuss-1",
-    "title": "Week 3!",
-    "section": "Concepts I want to discuss",
-    "text": "Concepts I want to discuss\n\nDebugging\n\nprint()\nintermediate outputs\nKISS\n\nSimple functions\nUnderstandable variable names"
-  },
-  {
-    "objectID": "day_3/lecture/day_3.html#other-concepts-that-are-confusing",
-    "href": "day_3/lecture/day_3.html#other-concepts-that-are-confusing",
-    "title": "Week 3!",
-    "section": "Other concepts that are confusing?",
-    "text": "Other concepts that are confusing?"
-  },
-  {
-    "objectID": "day_3/lecture/day_3.html#code-challenge-review",
-    "href": "day_3/lecture/day_3.html#code-challenge-review",
-    "title": "Week 3!",
-    "section": "Code Challenge Review",
-    "text": "Code Challenge Review"
-  },
-  {
-    "objectID": "day_3/lecture/day_3.html#analyzing-large-datasets-is-different",
-    "href": "day_3/lecture/day_3.html#analyzing-large-datasets-is-different",
-    "title": "Week 3!",
-    "section": "Analyzing large datasets is different",
-    "text": "Analyzing large datasets is different\n\nOften trace data is complete*\n\nDoesn’t suffer from sampling bias\nBut lots of other biases:\n\nSampled population != population of interest\nReliant on systems / APIs produced by others\nBugs in code\nConstruct validity"
-  },
-  {
-    "objectID": "day_3/lecture/day_3.html#network-analysis",
-    "href": "day_3/lecture/day_3.html#network-analysis",
-    "title": "Week 3!",
-    "section": "Network analysis",
-    "text": "Network analysis\n\nTurn relationships into networks\nVisual representations can be confusing \nUseful when relationships are important part of understanding a process"
-  },
-  {
-    "objectID": "day_3/lecture/day_3.html#text-analysis",
-    "href": "day_3/lecture/day_3.html#text-analysis",
-    "title": "Week 3!",
-    "section": "Text analysis",
-    "text": "Text analysis\n\nLots of different approaches\n\nDictionary\nSentiment analysis"
-  },
-  {
-    "objectID": "day_3/lecture/day_3.html#topic-modeling",
-    "href": "day_3/lecture/day_3.html#topic-modeling",
-    "title": "Week 3!",
-    "section": "Topic modeling",
-    "text": "Topic modeling\n\n\nGoal is to find a set of k topics where each topic is made up of a combination of terms and each document is made up of a combination of topics.\nRequires a lot of interpretation\nComputational grounded theory (Nelson, 2017) is one attempt to get “best of both worlds”"
-  },
-  {
-    "objectID": "day_3/lecture/day_3.html#prediction-vs-inference",
-    "href": "day_3/lecture/day_3.html#prediction-vs-inference",
-    "title": "Week 3!",
-    "section": "Prediction vs inference",
-    "text": "Prediction vs inference\n\nDifferences in focus\n\nGood at predicting outcomes or understanding the process that leads to outcomes\n\nPrediction approaches\n\nTraining data and test data\nCross-validation and overfitting\nCares less about interpretability of the model or connection to theory\n\nSome of these can (and should!) be used by social scientists."
-  },
-  {
-    "objectID": "day_3/lecture/day_3.html#reproducibility",
-    "href": "day_3/lecture/day_3.html#reproducibility",
-    "title": "Week 3!",
-    "section": "Reproducibility",
-    "text": "Reproducibility\n\nCode and data can be shared really easily\nReplicate this paper?"
-  },
-  {
-    "objectID": "day_5/lecture/day_5.html#todays-dad-joke",
-    "href": "day_5/lecture/day_5.html#todays-dad-joke",
-    "title": "Week 5: Dictionaries and Tuples",
-    "section": "Today’s Dad Joke",
-    "text": "Today’s Dad Joke\nBro, can you hand me that leaflet?\n Brochure"
-  },
-  {
-    "objectID": "day_5/lecture/day_5.html#housekeeping",
-    "href": "day_5/lecture/day_5.html#housekeeping",
-    "title": "Week 5: Dictionaries and Tuples",
-    "section": "Housekeeping",
-    "text": "Housekeeping\n\nCatch up week next week\n\nReview and regroup\n\nReddit checkin"
-  },
-  {
-    "objectID": "day_5/lecture/day_5.html#hw-review",
-    "href": "day_5/lecture/day_5.html#hw-review",
-    "title": "Week 5: Dictionaries and Tuples",
-    "section": "HW Review",
-    "text": "HW Review\n\nThings to be sure to cover?"
-  },
-  {
-    "objectID": "day_5/lecture/day_5.html#paper-discussion",
-    "href": "day_5/lecture/day_5.html#paper-discussion",
-    "title": "Week 5: Dictionaries and Tuples",
-    "section": "Paper discussion",
-    "text": "Paper discussion\n\nComputational Grounded Theory"
-  },
-  {
-    "objectID": "day_5/lecture/day_5.html#review",
-    "href": "day_5/lecture/day_5.html#review",
-    "title": "Week 5: Dictionaries and Tuples",
-    "section": "Review",
-    "text": "Review\n\nAn idea\n\nReview in groups for 10 minutes and then focus on remaining questions?"
-  },
-  {
-    "objectID": "day_7/lecture/day_7.html#dad-joke",
-    "href": "day_7/lecture/day_7.html#dad-joke",
-    "title": "COM 674 - Day 7",
-    "section": "Dad Joke",
-    "text": "Dad Joke\nA thief stole my anti-depressant medication.\n I hope he’s happy!"
-  },
-  {
-    "objectID": "day_7/lecture/day_7.html#housekeeping",
-    "href": "day_7/lecture/day_7.html#housekeeping",
-    "title": "COM 674 - Day 7",
-    "section": "Housekeeping",
-    "text": "Housekeeping\n\nProject planning doc\nSelf assessment reflection\nPlan for the rest of the semester"
-  },
-  {
-    "objectID": "day_7/lecture/day_7.html#paper-discussion",
-    "href": "day_7/lecture/day_7.html#paper-discussion",
-    "title": "COM 674 - Day 7",
-    "section": "Paper discussion",
-    "text": "Paper discussion"
-  },
-  {
-    "objectID": "day_7/lecture/day_7.html#review",
-    "href": "day_7/lecture/day_7.html#review",
-    "title": "COM 674 - Day 7",
-    "section": "Review",
-    "text": "Review"
-  },
-  {
-    "objectID": "day_9/lecture/day_9.html#dad-joke",
-    "href": "day_9/lecture/day_9.html#dad-joke",
-    "title": "APIs continued",
-    "section": "Dad Joke",
-    "text": "Dad Joke\nI married my wife for her looks.\n But not the ones she’s been giving me lately!"
-  },
-  {
-    "objectID": "day_9/lecture/day_9.html#housekeeping",
-    "href": "day_9/lecture/day_9.html#housekeeping",
-    "title": "APIs continued",
-    "section": "Housekeeping",
-    "text": "Housekeeping\n\nSelf-assessment reflection + proposal"
-  },
-  {
-    "objectID": "day_9/lecture/day_9.html#working-with-online-data",
-    "href": "day_9/lecture/day_9.html#working-with-online-data",
-    "title": "APIs continued",
-    "section": "Working with online data",
-    "text": "Working with online data\n\nSave the raw data\nMake your process as reproducible as possible"
-  },
-  {
-    "objectID": "day_9/lecture/day_9.html#limitations-of-online-data",
-    "href": "day_9/lecture/day_9.html#limitations-of-online-data",
-    "title": "APIs continued",
-    "section": "Limitations of online data",
-    "text": "Limitations of online data\n\nFound, not made\nMissing (sometimes invisibly)\nCan result from changing/hidden processes"
-  },
-  {
-    "objectID": "day_9/lecture/day_9.html#ethics-in-online-data",
-    "href": "day_9/lecture/day_9.html#ethics-in-online-data",
-    "title": "APIs continued",
-    "section": "Ethics in online data",
-    "text": "Ethics in online data\n\nSome dangers\n\nPrivacy\nTransparency\n\nData is “exhaust” and people may not know it exists\nWhat is “public” data? Expected audiences may differ greatly\nInformed consent is difficult\n\nUnintended consequences\n\nData can be aggregated or used by bad actors\nSalganik gives 18 examples of states using population data for genocide/forced migration"
-  },
-  {
-    "objectID": "day_9/lecture/day_9.html#ethics-in-online-data-1",
-    "href": "day_9/lecture/day_9.html#ethics-in-online-data-1",
-    "title": "APIs continued",
-    "section": "Ethics in online data",
-    "text": "Ethics in online data\n\nMore dangers!\n\nData release\n\nData can be “de-anonymized”\nNYC taxi data\nZIP + birthdate + gender is enough for ~1/3 of people\n\nGeneralization\n\nTwitter users != all people\nMost active users != all users"
-  },
-  {
-    "objectID": "day_9/lecture/day_9.html#balance-is-needed",
-    "href": "day_9/lecture/day_9.html#balance-is-needed",
-    "title": "APIs continued",
-    "section": "Balance is needed",
-    "text": "Balance is needed\nWhat are the dangers of too much caution? &gt; - Emotional contagion as example case"
-  },
-  {
-    "objectID": "day_9/lecture/day_9.html#some-principles",
-    "href": "day_9/lecture/day_9.html#some-principles",
-    "title": "APIs continued",
-    "section": "Some principles",
-    "text": "Some principles\n\nRespect for persons, beneficence, justice, respect for law, and public interest\nThink through possible harms to participants and the systems\nDo work that has benefits\nConsult with others\nAssume that data is sensitive\nAggregate when possible\nNotify participants of data collection and obtain consent when possible\nAlter quotes/usernames\nShare research with participants"
+    "objectID": "extra_topics/reddit_authentication_setup.html#create-your-authentication-file",
+    "href": "extra_topics/reddit_authentication_setup.html#create-your-authentication-file",
+    "title": "Reddit Authentication Setup",
+    "section": "Create Your Authentication File",
+    "text": "Create Your Authentication File\nCreate a new Python file called reddit_authentication.py that looks like this:\nclient_id = \"your_client_id_here\"\nclient_secret = \"your_client_secret_here\"\nuser_agent = \"python:COM 674 class project:v1.0 (by /u/yourusername)\"\nusername = \"yourusername\"\npassword = \"yourpassword\"\nThe client_id is found at the top left of the apps page, under your app’s name. The client_secret is right below it.\nWe will use this authentication file in future lessons."
   },
   {
     "objectID": "schedule.html",
