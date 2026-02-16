@@ -6,7 +6,7 @@ date: "2026-02-10"
 ## Assignments Due
 
 - [Week 5 Coding Challenges](../assignments/week_5_coding_challenges.qmd)
-- Do the Reddit Authentication Setup
+- Do the [Reddit Authentication Setup](/extra_topics/reddit_authentication_setup.qmd)
 
 ## Programming Materials
 
