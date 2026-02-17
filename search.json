@@ -909,43 +909,7 @@
     "href": "assignments/project_planning.html#overview",
     "title": "Project Planning Document",
     "section": "Overview",
-    "text": "Overview\nThe project planning document is a basic shell/outline of an empirical quantitative research paper.",
-    "crumbs": [
-      "Assignments",
-      "Research Project",
-      "Project Planning Document"
-    ]
-  },
-  {
-    "objectID": "assignments/project_planning.html#three-big-questions",
-    "href": "assignments/project_planning.html#three-big-questions",
-    "title": "Project Planning Document",
-    "section": "Three Big Questions",
-    "text": "Three Big Questions\nThe planning document should focus around three big questions:\n\n1. Why are you planning to do this analysis?\nMake sure to introduce any background information about the topic, the community, your business, or anything else that will be required to properly contextualize your study.\n\n\n2. How will you get the data to analyze?\nDescribe the data sources you will collect and how they will be collected.\n\n\n3. How will you analyze the data?\nDescribe the visualizations, tables, or statistical tests that you will produce.",
-    "crumbs": [
-      "Assignments",
-      "Research Project",
-      "Project Planning Document"
-    ]
-  },
-  {
-    "objectID": "assignments/project_planning.html#submission",
-    "href": "assignments/project_planning.html#submission",
-    "title": "Project Planning Document",
-    "section": "Submission",
-    "text": "Submission\nSubmit your planning document via Brightspace.",
-    "crumbs": [
-      "Assignments",
-      "Research Project",
-      "Project Planning Document"
-    ]
-  },
-  {
-    "objectID": "assignments/project_planning.html#resources",
-    "href": "assignments/project_planning.html#resources",
-    "title": "Project Planning Document",
-    "section": "Resources",
-    "text": "Resources\n\nSee the planning document guide for a helpful approach.",
+    "text": "Overview\nThe project planning document is a basic shell/outline of an empirical quantitative research paper.\nI recommend using something like this quantitative planning document, but you can use whatever format you would like, as long as it includes clear, well-developed answers to the following questions:\n\nWhat is the context of your project? What is the phenomenon you are interested in studying, and why is it interesting?\nWhat hypotheses will you be testing (for a quantitative project)?\nWhere will the data come from? How will it be collected, and how will variables be operationalized?\nWhat analyses will you be conducting? How will these analyses help you test your hypotheses?\nWhat are the ethical considerations of the project?\nWhat are the limitations of the project?",
     "crumbs": [
       "Assignments",
       "Research Project",
@@ -1879,7 +1843,7 @@
     "href": "day_6/lecture/day_6.html#housekeeping",
     "title": "Week 6: Pandas and Dataframes",
     "section": "Housekeeping",
-    "text": "Housekeeping\n\nProject Planning Doc\nSelf assessment doc\nOctober Break next week"
+    "text": "Housekeeping\n\nProject Planning Doc\nSelf assessment doc"
   },
   {
     "objectID": "day_6/lecture/day_6.html#homework-review",
@@ -1928,7 +1892,14 @@
     "href": "extra_topics/reddit_authentication_setup.html",
     "title": "Reddit Authentication Setup",
     "section": "",
-    "text": "We’re going to be using Reddit as a context for learning to gather web data. Like many APIs, you need a developer account to use the Reddit API. This is pretty easy on Reddit."
+    "text": "We’re going to be using Reddit as a context for learning to gather web data. Like many APIs, you need a developer account to use the Reddit API. This is pretty easy on Reddit, although they’ve made it more difficult recently."
+  },
+  {
+    "objectID": "extra_topics/reddit_authentication_setup.html#apply-for-api-access",
+    "href": "extra_topics/reddit_authentication_setup.html#apply-for-api-access",
+    "title": "Reddit Authentication Setup",
+    "section": "Apply for API Access",
+    "text": "Apply for API Access\nGo to https://support.reddithelp.com/hc/en-us/requests/new?ticket_form_id=14868593862164&tf_14867328473236=api_request_type_research, and fill out the form, as shown below.\n\n\n\nReddit API Access Form"
   },
   {
     "objectID": "extra_topics/reddit_authentication_setup.html#create-a-reddit-app",
