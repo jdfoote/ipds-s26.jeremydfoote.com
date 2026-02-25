@@ -12,7 +12,7 @@ date: "2026-03-03"
 
 - [Intro to APIs Notebook](../day_8/day_8.ipynb)
 
-{{< video https://youtu.be/Qzs7FX5oD6U >}}
+{{< video https://youtu.be/mA49MUusfKU >}}
 
 ## Discussion Reading
 
