@@ -12,7 +12,7 @@ date: "2026-03-10"
 
 - [Week 9 Notebook](../day_9/day_9.ipynb)
 
-{{< video https://www.youtube.com/watch?v=7H3gSagXZQQ >}}
+{{< video https://youtu.be/X8qcQ77l7_g >}}
 
 - Python for Everybody, Chapter 13
 
