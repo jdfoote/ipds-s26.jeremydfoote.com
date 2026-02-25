@@ -9,26 +9,12 @@ title: "Project Planning Document"
 
 The project planning document is a basic shell/outline of an empirical quantitative research paper.
 
-## Three Big Questions
+I recommend using something like this [quantitative planning document](https://wiki.communitydata.science/CommunityData:Planning_document), but you can use whatever format you would like, as long as it includes clear, well-developed answers to the following questions:
 
-The planning document should focus around three big questions:
+1. What is the context of your project? What is the phenomenon you are interested in studying, and why is it interesting?
+2. What hypotheses will you be testing (for a quantitative project)?
+3. Where will the data come from? How will it be collected, and how will variables be operationalized?
+4. What analyses will you be conducting? How will these analyses help you test your hypotheses?
+5. What are the ethical considerations of the project?
+6. What are the limitations of the project?
 
-### 1. Why are you planning to do this analysis?
-
-Make sure to introduce any background information about the topic, the community, your business, or anything else that will be required to properly contextualize your study.
-
-### 2. How will you get the data to analyze?
-
-Describe the data sources you will collect and how they will be collected.
-
-### 3. How will you analyze the data?
-
-Describe the visualizations, tables, or statistical tests that you will produce.
-
-## Submission
-
-Submit your planning document via Brightspace.
-
-## Resources
-
-- See the [planning document guide](https://wiki.communitydata.science/CommunityData:Planning_document) for a helpful approach.

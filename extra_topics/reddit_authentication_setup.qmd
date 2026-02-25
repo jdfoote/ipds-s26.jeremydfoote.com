@@ -2,7 +2,14 @@
 title: "Reddit Authentication Setup"
 ---
 
-We're going to be using Reddit as a context for learning to gather web data. Like many APIs, you need a developer account to use the Reddit API. This is pretty easy on Reddit.
+We're going to be using Reddit as a context for learning to gather web data. Like many APIs, you need a developer account to use the Reddit API. This is pretty easy on Reddit, although they've made it more difficult recently.
+
+## Apply for API Access
+
+Go to https://support.reddithelp.com/hc/en-us/requests/new?ticket_form_id=14868593862164&tf_14867328473236=api_request_type_research, and fill out the form, as shown below.
+
+[![Reddit API Access Form](reddit_api_form.png)](reddit_api_form.png)
+
 
 ## Create a Reddit App
 

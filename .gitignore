@@ -7,6 +7,7 @@ _site/
 _freeze/
 twitter_authentication.py
 reddit_auth.py
+*_auth.py
 .vscode/
 reddit_authentication.py
 day_9/*.csv
