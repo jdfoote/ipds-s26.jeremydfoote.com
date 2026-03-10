@@ -417,7 +417,7 @@
     "href": "assignments/week_9_coding_challenges.html",
     "title": "Week 9 Coding Challenge",
     "section": "",
-    "text": "In our earlier assignment, we played around with the Reddit API and you learned how to query APIs. In the project, we’re going to try to move from this technical understanding to actually using APIs to answer real questions.\nDo the following, in a Jupyter notebook:",
+    "text": "In our earlier assignment, we played around with the Bluesky API and you learned how to query APIs. In the project, we’re going to try to move from this technical understanding to actually using APIs to answer real questions.\nDo the following, in a Jupyter notebook:",
     "crumbs": [
       "Assignments",
       "Coding Challenges",
@@ -429,7 +429,7 @@
     "href": "assignments/week_9_coding_challenges.html#the-question",
     "title": "Week 9 Coding Challenge",
     "section": "The Question",
-    "text": "The Question\nIdentify a question that Reddit data (or data gathered from another API) could help you to answer. Figure out a query that would gather that data.\n\nExplain the question you would like to answer, and why it is interesting.\nDescribe the data that you would like to gather, the analysis on the data that you would like to perform, and why it would answer the question",
+    "text": "The Question\nIdentify a question that Bluesky data (or data gathered from another API) could help you to answer. Figure out a query that would gather that data.\n\nExplain the question you would like to answer, and why it is interesting.\nDescribe the data that you would like to gather, the analysis on the data that you would like to perform, and why it would answer the question",
     "crumbs": [
       "Assignments",
       "Coding Challenges",
@@ -441,7 +441,7 @@
     "href": "assignments/week_9_coding_challenges.html#gathering-data",
     "title": "Week 9 Coding Challenge",
     "section": "Gathering Data",
-    "text": "Gathering Data\n\nSave the raw data that you get from PRAW\nWrite code that filters the data into what you are interested in and saves it as a CSV file.",
+    "text": "Gathering Data\n\nSave the raw data that you get from the API\nWrite code that filters the data into what you are interested in and saves it as a CSV file.",
     "crumbs": [
       "Assignments",
       "Coding Challenges",
@@ -477,7 +477,7 @@
     "href": "assignments/week_9_coding_challenges.html#presentation",
     "title": "Week 9 Coding Challenge",
     "section": "Presentation",
-    "text": "Presentation\nBe prepared to present your solution if randomly selected during class.",
+    "text": "Presentation\nBe prepared to talk to the class about what you did.",
     "crumbs": [
       "Assignments",
       "Coding Challenges",
@@ -1857,21 +1857,21 @@
     "href": "day_8/lecture/day_8.html#dad-joke",
     "title": "Intro to APIs",
     "section": "Dad Joke",
-    "text": "Dad Joke\nWithin minutes, the detective knew exactly what the murder weapon was.\n It was a brief case."
+    "text": "Dad Joke\nWho is in favor of bringing back Roman numerals?\n I for one!"
   },
   {
     "objectID": "day_8/lecture/day_8.html#housekeeping",
     "href": "day_8/lecture/day_8.html#housekeeping",
     "title": "Intro to APIs",
     "section": "Housekeeping",
-    "text": "Housekeeping\n\nSelf-assessment reflection and planning documents due\n\nFeedback on planning documents - during class on October 31 (unless you want feedback sooner)\n\nSome adjustments - extra day for computational text analysis, moving Stats and ML to optional\nAre people going to NCA?"
+    "text": "Housekeeping\n\nSelf-assessment reflection and planning documents due\nFeedback on planning documents - during class"
   },
   {
-    "objectID": "day_8/lecture/day_8.html#scraping-data",
-    "href": "day_8/lecture/day_8.html#scraping-data",
+    "objectID": "day_8/lecture/day_8.html#installing-and-importing",
+    "href": "day_8/lecture/day_8.html#installing-and-importing",
     "title": "Intro to APIs",
-    "section": "Scraping Data",
-    "text": "Scraping Data\n\nThree main ways of getting web data:\n\nDownloading\nAPIs\nScraping"
+    "section": "Installing and importing",
+    "text": "Installing and importing\n\nconda\npip\nimport vs. from x import y"
   },
   {
     "objectID": "day_8/lecture/day_8.html#hw-review",
