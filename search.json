@@ -312,7 +312,7 @@
     "href": "day_12/lecture/day_12.html#housekeeping",
     "title": "COM 674",
     "section": "Housekeeping",
-    "text": "Housekeeping\n\nWeek 13 is up\nShould have data by now for your final project\nGroups for Week 12 assignment\nThe rest of the class\n\nGit\nAdditional topics"
+    "text": "Housekeeping\n\nShould have data by now for your final project\nThe rest of the class\n\nGit\nEthics"
   },
   {
     "objectID": "day_12/lecture/day_12.html#cleaning-data",
@@ -729,7 +729,7 @@
     "href": "assignments/week_12_coding_challenges.html",
     "title": "Week 12 Coding Challenge",
     "section": "",
-    "text": "Today’s coding challenges are really simple:\nThis should be pretty quick and I encourage you to use some time today to go back to a lesson that is confusing and do some work to understand it better.",
+    "text": "Go through the notebook and do the problems.\nThink of a question you would like to answer with this dataset, and answer it!",
     "crumbs": [
       "Assignments",
       "Coding Challenges",
@@ -742,18 +742,6 @@
     "title": "Week 12 Coding Challenge",
     "section": "Submission",
     "text": "Submission\nSubmit your completed work via Brightspace.",
-    "crumbs": [
-      "Assignments",
-      "Coding Challenges",
-      "Week 12 Coding Challenge"
-    ]
-  },
-  {
-    "objectID": "assignments/week_12_coding_challenges.html#presentation",
-    "href": "assignments/week_12_coding_challenges.html#presentation",
-    "title": "Week 12 Coding Challenge",
-    "section": "Presentation",
-    "text": "Presentation\nBe prepared to present your solution if randomly selected during class.",
     "crumbs": [
       "Assignments",
       "Coding Challenges",
@@ -1265,7 +1253,7 @@
     "href": "assignments/week_13_coding_challenges.html",
     "title": "Week 13 Coding Challenge",
     "section": "",
-    "text": "Load the example project at https://github.com/jdfoote/Intro-to-Programming-and-Data-Science/raw/refs/heads/master/day_13/example_project.zip\nTweak it to answer your own question using Reddit data. See if you can create your own visualization.\nYou probably won’t be able to get the LaTeX portion to work because it requires installing LaTeX on your computer, which I actually don’t recommend - I recommend using Overleaf instead.",
+    "text": "Load the example project at https://github.com/jdfoote/Intro-to-Programming-and-Data-Science/raw/refs/heads/master/day_13/example_project.zip\nTry to understand how it is organized. I would recommend using it as a template for organizing your final project.\nToday’s coding challenges are really simple:\nThis should be pretty quick and I encourage you to use some time today to go back to a lesson that is confusing and do some work to understand it better.",
     "crumbs": [
       "Assignments",
       "Coding Challenges",
@@ -1277,19 +1265,7 @@
     "href": "assignments/week_13_coding_challenges.html#submission",
     "title": "Week 13 Coding Challenge",
     "section": "Submission",
-    "text": "Submission\nSubmit your completed work via Brightspace.",
-    "crumbs": [
-      "Assignments",
-      "Coding Challenges",
-      "Week 13 Coding Challenge"
-    ]
-  },
-  {
-    "objectID": "assignments/week_13_coding_challenges.html#presentation",
-    "href": "assignments/week_13_coding_challenges.html#presentation",
-    "title": "Week 13 Coding Challenge",
-    "section": "Presentation",
-    "text": "Presentation\nBe prepared to present your solution if randomly selected during class.",
+    "text": "Submission\nI guess just submit the URL to your repository on Brightspace.",
     "crumbs": [
       "Assignments",
       "Coding Challenges",
@@ -1610,16 +1586,16 @@
   {
     "objectID": "day_11/lecture/day_11.html#dad-joke",
     "href": "day_11/lecture/day_11.html#dad-joke",
-    "title": "COM 674 - Day 10",
+    "title": "COM 674 - Day 11",
     "section": "Dad Joke",
     "text": "Dad Joke\nDid you hear about the mathematician who was afraid of negative numbers?\n He would stop at nothing to avoid them"
   },
   {
-    "objectID": "day_11/lecture/day_11.html#housekeeping",
-    "href": "day_11/lecture/day_11.html#housekeeping",
-    "title": "COM 674 - Day 10",
-    "section": "Housekeeping",
-    "text": "Housekeeping\nGroups for Day 12"
+    "objectID": "day_11/lecture/day_11.html#additional-dad-joke",
+    "href": "day_11/lecture/day_11.html#additional-dad-joke",
+    "title": "COM 674 - Day 11",
+    "section": "Additional Dad Joke",
+    "text": "Additional Dad Joke\nThe man who stole my diary died yesterday.\n My thoughts are with his family."
   },
   {
     "objectID": "day_13/lecture/day_13.html#dad-joke",
