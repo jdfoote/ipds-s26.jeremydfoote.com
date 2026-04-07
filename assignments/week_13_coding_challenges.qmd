@@ -4,15 +4,18 @@ title: "Week 13 Coding Challenge"
 
 Load the example project at [https://github.com/jdfoote/Intro-to-Programming-and-Data-Science/raw/refs/heads/master/day_13/example_project.zip](https://github.com/jdfoote/Intro-to-Programming-and-Data-Science/raw/refs/heads/master/day_13/example_project.zip)
 
-Tweak it to answer your own question using Reddit data. See if you can create your own visualization.
+Try to understand how it is organized. I would recommend using it as a template for organizing your final project. 
 
-You probably won't be able to get the LaTeX portion to work because it requires installing LaTeX on your computer, which I actually don't recommend - I recommend using Overleaf instead.
+Today's coding challenges are really simple:
+
+1. "Clone" [the git repository for the class](https://github.com/jdfoote/ipds-s26.jeremydfoote.com) to your local computer.
+
+2. Create a git repository
+   - Make sure to create a .gitignore file to hide authentication files!
+   - Put at least some of your homework files in the repository and put it on Github.
+
+This should be pretty quick and I encourage you to use some time today to go back to a lesson that is confusing and do some work to understand it better.
 
 ## Submission
 
-Submit your completed work via Brightspace.
-
-## Presentation
-
-Be prepared to present your solution if randomly selected during class.
-
+I guess just submit the URL to your repository on Brightspace.

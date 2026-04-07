@@ -2,20 +2,20 @@
 title: "Week 9 Coding Challenge"
 ---
 
-In our earlier assignment, we played around with the Reddit API and you learned how to query APIs. In the project, we're going to try to move from this technical understanding to actually using APIs to answer real questions.
+In our earlier assignment, we played around with the Bluesky API and you learned how to query APIs. In the project, we're going to try to move from this technical understanding to actually using APIs to answer real questions.
 
 Do the following, in a Jupyter notebook:
 
 ## The Question
 
-Identify a question that Reddit data (or data gathered from another API) could help you to answer. Figure out a query that would gather that data.
+Identify a question that Bluesky data (or data gathered from another API) could help you to answer. Figure out a query that would gather that data.
 
 - Explain the question you would like to answer, and why it is interesting.
 - Describe the data that you would like to gather, the analysis on the data that you would like to perform, and why it would answer the question
 
 ## Gathering Data
 
-- Save the raw data that you get from PRAW
+- Save the raw data that you get from the API
 - Write code that filters the data into what you are interested in and saves it as a CSV file.
 
 ## Analysis
@@ -29,5 +29,5 @@ Submit your completed work via Brightspace.
 
 ## Presentation
 
-Be prepared to present your solution if randomly selected during class.
+Be prepared to talk to the class about what you did.
 
